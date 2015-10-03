@@ -13,3 +13,35 @@ rtmp://89.248.174.38/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/j
 rtmp://89.248.169.50/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450 #EXTINF:0,Nbc Sports Net rtmp://95.211.88.135:19350/live/ playpath=DhopXQDV8S1m swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=754&vw=650&vh=400
 #EXTINF:0,Nbc Sports 
 rtmp://181.214.35.7:19350/live/ playpath=rODW52xUtR9o swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=223&vw=650&vh=400 #EXTINF:0,Nbc Sports rtmp://181.214.35.9:19350/live/ playpath=rODW52xUtR9o swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1
+#EXTINF:-1,beIN SPORTS 1 HD
+http://iptv.star7arab.com/free?token=546521378&id=1
+#EXTINF:-1,beIN SPORTS 2 HD
+http://iptv.star7arab.com/free?token=546521378&id=2
+#EXTINF:-1,beIN SPORTS 3 HD
+http://iptv.star7arab.com/free?token=546521378&id=3
+#EXTINF:-1,beIN SPORTS 4 HD
+http://iptv.star7arab.com/free?token=546521378&id=4
+#EXTINF:-1,beIN SPORTS 5 HD
+http://iptv.star7arab.com/free?token=546521378&id=5
+#EXTINF:-1,beIN SPORTS 6 HD
+http://iptv.star7arab.com/free?token=546521378&id=6
+#EXTINF:-1,beIN SPORTS 7 HD
+http://iptv.star7arab.com/free?token=546521378&id=7
+#EXTINF:-1,beIN SPORTS 8 HD
+http://iptv.star7arab.com/free?token=546521378&id=8
+#EXTINF:-1,beIN SPORTS 9 HD
+http://iptv.star7arab.com/free?token=546521378&id=9
+#EXTINF:-1,beIN SPORTS 10 HD
+http://iptv.star7arab.com/free?token=546521378&id=10
+#EXTINF:-1,beIN SPORTS 11 HD
+http://iptv.star7arab.com/free?token=546521378&id=11
+#EXTINF:-1,beIN SPORTS 12 HD
+http://iptv.star7arab.com/free?token=546521378&id=12
+#EXTINF:-1,beIN SPORTS 13 HD
+http://iptv.star7arab.com/free?token=546521378&id=13
+#EXTINF:-1,beIN SPORTS 14 HD
+http://iptv.star7arab.com/free?token=546521378&id=14
+#EXTINF:-1,beIN SPORTS 15 HD
+http://iptv.star7arab.com/free?token=546521378&id=15
+#EXTINF:-1,beIN SPORTS 16 HD
+http://iptv.star7arab.com/free?token=546521378&id=16
