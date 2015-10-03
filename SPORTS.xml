@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+item>
+<title>BEIN 1 english HD</title>
+<link>http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8</link>
+<thumbnail/>
+<fanart/>
+</item>
+
+name=BEIN 1 english HD
+URL=http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8
+player=default
+rating=-1.00
