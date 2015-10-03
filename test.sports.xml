@@ -1,0 +1,15 @@
+#EXTM3U
+
+
+#EXTINF:0,SkySport 1 
+rtmp://80.82.70.155/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450 
+#EXTINF:0,SkySport 2 
+rtmp://93.174.93.196/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450 
+#EXTINF:0,SkySport 3 
+rtmp://89.248.174.121/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450 
+#EXTINF:0,SkySport 4 
+rtmp://89.248.174.38/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450 
+#EXTINF:0,SkySport 5 
+rtmp://89.248.169.50/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450 #EXTINF:0,Nbc Sports Net rtmp://95.211.88.135:19350/live/ playpath=DhopXQDV8S1m swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=754&vw=650&vh=400
+#EXTINF:0,Nbc Sports 
+rtmp://181.214.35.7:19350/live/ playpath=rODW52xUtR9o swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=223&vw=650&vh=400 #EXTINF:0,Nbc Sports rtmp://181.214.35.9:19350/live/ playpath=rODW52xUtR9o swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1
