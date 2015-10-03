@@ -13,3 +13,24 @@ name=BEIN 1 english HD
 URL=http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8
 player=default
 rating=-1.00
+
+
+# 2493861
+type=video
+name=sky sport 1
+date=2015-09-24
+URL=http://bit.do/bk2zY
+player=default
+rating=-1.00
+
+# 2483225
+type=video
+name=SKY SPORTS 2 UK
+thumb=http://desistreem.com/pic/sport/sky-sports-2jpg.jpg
+URL=rtmp://80.82.70.155/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
+player=default
+rating=-1.00
+#EXTM3U
+
+#EXTINF:-1,  SkySports 1 Channel  (update 03-10-2015)
+http://www.freeredirectservice.tk/redir/1.ts|User-agent=MXPlayer/1.7.38
