@@ -1,47 +1,46 @@
 #EXTM3U
 
-
-#EXTINF:0,SkySport 1 
-rtmp://80.82.70.155/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450 
-#EXTINF:0,SkySport 2 
-rtmp://93.174.93.196/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450 
-#EXTINF:0,SkySport 3 
-rtmp://89.248.174.121/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450 
-#EXTINF:0,SkySport 4 
-rtmp://89.248.174.38/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450 
-#EXTINF:0,SkySport 5 
-rtmp://89.248.169.50/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450 #EXTINF:0,Nbc Sports Net rtmp://95.211.88.135:19350/live/ playpath=DhopXQDV8S1m swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=754&vw=650&vh=400
-#EXTINF:0,Nbc Sports 
-rtmp://181.214.35.7:19350/live/ playpath=rODW52xUtR9o swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=223&vw=650&vh=400 #EXTINF:0,Nbc Sports rtmp://181.214.35.9:19350/live/ playpath=rODW52xUtR9o swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1
-#EXTINF:-1,beIN SPORTS 1 HD
-http://iptv.star7arab.com/free?token=546521378&id=1
-#EXTINF:-1,beIN SPORTS 2 HD
-http://iptv.star7arab.com/free?token=546521378&id=2
-#EXTINF:-1,beIN SPORTS 3 HD
-http://iptv.star7arab.com/free?token=546521378&id=3
-#EXTINF:-1,beIN SPORTS 4 HD
-http://iptv.star7arab.com/free?token=546521378&id=4
-#EXTINF:-1,beIN SPORTS 5 HD
-http://iptv.star7arab.com/free?token=546521378&id=5
-#EXTINF:-1,beIN SPORTS 6 HD
-http://iptv.star7arab.com/free?token=546521378&id=6
-#EXTINF:-1,beIN SPORTS 7 HD
-http://iptv.star7arab.com/free?token=546521378&id=7
-#EXTINF:-1,beIN SPORTS 8 HD
-http://iptv.star7arab.com/free?token=546521378&id=8
-#EXTINF:-1,beIN SPORTS 9 HD
-http://iptv.star7arab.com/free?token=546521378&id=9
-#EXTINF:-1,beIN SPORTS 10 HD
-http://iptv.star7arab.com/free?token=546521378&id=10
-#EXTINF:-1,beIN SPORTS 11 HD
-http://iptv.star7arab.com/free?token=546521378&id=11
-#EXTINF:-1,beIN SPORTS 12 HD
-http://iptv.star7arab.com/free?token=546521378&id=12
-#EXTINF:-1,beIN SPORTS 13 HD
-http://iptv.star7arab.com/free?token=546521378&id=13
-#EXTINF:-1,beIN SPORTS 14 HD
-http://iptv.star7arab.com/free?token=546521378&id=14
-#EXTINF:-1,beIN SPORTS 15 HD
-http://iptv.star7arab.com/free?token=546521378&id=15
-#EXTINF:-1,beIN SPORTS 16 HD
-http://iptv.star7arab.com/free?token=546521378&id=16
+#EXTINF:0, Eurosport  uk
+http://93.174.93.196/livepp/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk
+http://195.154.226.186:1935/livepp/vesp2lsh/playlist.m3u8
+#EXTINF:0, SkySport 1
+http://195.154.226.186:1935/livepp/skysports1lsh/playlist.m3u8
+#EXTINF:0, SkySport2
+http://195.154.226.186:1935/livepp/skysports2lsh/playlist.m3u8
+#EXTINF:0, SkySport 3
+http://195.154.226.186:1935/livepp/skysports3lsh/playlist.m3u8
+#EXTINF:0, SkySport 4
+http://195.154.226.186:1935/livepp/skysports4lsh/playlist.m3u8
+#EXTINF:0, SkySport 5
+http://195.154.226.186:1935/livepp/skysports5lsh/playlist.m3u8
+#EXTINF:0, SkySport F1
+http://195.154.226.186:1935/livepp/vskysf1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 1
+http://195.154.226.186:1935/livepp/btsports1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 2
+http://195.154.226.186:1935/livepp/btsports2lsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://195.154.226.186:1935/livepp/bein1frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://195.154.226.186:1935/livepp/bein2frlsh/playlist.m3u8
+#EXTINF:0, ESPN UK
+http://195.154.226.186:1935/livepp/espnuklsh/playlist.m3u8
+#EXTINF:0,Premier sports
+http://195.154.226.186:1935/livepp/vpremsplsh/playlist.m3u8
+#EXTINF:0,Astro SuperSport 1
+http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+#EXTINF:0,Astro SuperSport 2
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+#EXTINF:0,Astro SuperSport 3
+http://185.63.252.176/live/antenasportucl3/playlist.m3u8
+#EXTINF:0,Astro SuperSport 4
+http://185.63.252.176/live/antenasportucl4/playlist.m3u8
+#EXTINF:0,Arena Sport 1
+http://178.253.194.68:1935/liveloworigin/arenasport1.stream/tron45.m3u8
+#EXTINF:0,Arena Sport 2
+http://178.253.194.68:1935//liveloworigin/arenasport2.stream/tron45.m3u8
+#EXTINF:0,Arena Sport 3
+http://178.253.194.68:1935//liveloworigin/arenasport3.stream/tron45.m3u8
+#EXTINF:0,Arena Sport 4
+http://178.253.194.68:1935//liveloworigin/arenasport4.stream/tron45.m3u8
