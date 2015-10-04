@@ -27,3 +27,10 @@ http://hls.tv.iptv.ink/channel5uk@659484.m3u8|X-Forwarded-For=81.17.18.55
 http://hls.tv.iptv.ink/4moreuk@535162.m3u8|X-Forwarded-For=81.17.18.55
 #EXTINF:0414 tvg-id="e4.uk" group-title="UK Main" tvg-logo="159714.png", [COLOR orange]E4[/COLOR]
 http://hls.tv.iptv.ink/e4uk@159714.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1, QVC UK
+http://goo.gl/zQ38Qs
+#EXTINF:-1, QVC style
+http://goo.gl/oxIOla
+#EXTINF:-1, QVC beauty
+http://goo.gl/mD6Ox6
+
