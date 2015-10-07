@@ -1,33 +1,57 @@
 #EXTM3U
 
-#EXTINF:0, Eurosport  uk
-http://93.174.93.196/livepp/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp/vesp2lsh/playlist.m3u8
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp/skysports3lsh/playlist.m3u8
+#EXTINF:-1,   SKY SPORTS ONE
+http://a1.aliez.biz:8080/hls/streama36242/index.m3u8
+#EXTINF:-1, SKY SPORTS ONE TEST
+http://178.18.30.114:8081/liverepeater/224252/chunklist_w1167953515.m3u8?nimblesessionid=3020049&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6Mjk6MjkgUE0maGFzaF92YWx1ZT1DNnNNWVJjc0w3WHpBbGovV1Z5dldnPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:0, SkySport 1 HD
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:-1, sky SPORTS 2
+http://178.18.31.67:8081/liverepeater/224255/chunklist_w281002846.m3u8?nimblesessionid=271737&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MzM6MzIgUE0maGFzaF92YWx1ZT0yOWFEV1BHUzRVZDk1RGtsaWJGQ2t3PT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:0, SkySport2 HD
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:-1, sky SPORTS 3
+http://178.18.31.52:8081/liverepeater/224251/chunklist_w766155334.m3u8?nimblesessionid=3121519&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MzU6MjcgUE0maGFzaF92YWx1ZT1IZDdJLytFVThRYUNFWGVsMHlHYXFRPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:0, SkySport 3 HD
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
 #EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp/skysports4lsh/playlist.m3u8
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
 #EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp/skysports5lsh/playlist.m3u8
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/livepp/vskysf1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/livepp/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/livepp/btsports2lsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 1 HD
-http://195.154.226.186:1935/livepp/bein1frlsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 2 HD
-http://195.154.226.186:1935/livepp/bein2frlsh/playlist.m3u8
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+ #EXTINF:-1, sky SPORTS NEWS
+http://178.18.31.52:8081/liverepeater/224164/chunklist_w1552785308.m3u8?nimblesessionid=3121662&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDE6NDUgUE0maGFzaF92YWx1ZT1RMU9NZnJnU1Vaa1BQMmVHV3NGSnZnPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:-1, SKY SPORT F1 HD 
+http://185.63.255.112/live/sf11/playlist.m3u8
+#EXTINF:0, SkySport F1 BACK UP
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+#EXTINF:-1, BT SPORT ONE
+http://a1.aliez.biz:8080/hls/streama36241/index.m3u8
+ #EXTINF:-1, BT SPORT TWO
+http://a1.aliez.biz:8080/hls/streama36237/index.m3u8
+#EXTINF:-1, BT SPORT ESPN
+http://178.18.31.61:8081/liverepeater/224222/chunklist_w571955895.m3u8?nimblesessionid=2908037&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDM6MjggUE0maGFzaF92YWx1ZT1MRXFTZVFabVIya3JKYXF1cWFCV1hRPT0mdmFsaWRtaW51dGVzPTQ=
 #EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp/espnuklsh/playlist.m3u8
+http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+#EXTINF:-1, BT SPORT EUROPE
+http://178.18.31.61:8081/liverepeater/224248/chunklist_w1576632624.m3u8?nimblesessionid=2908057&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDQ6MzkgUE0maGFzaF92YWx1ZT02UkhlRGV2Qi93b0puRU5acTdnYllRPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:-1,BOX NATION
+http://178.18.31.54:8081/liverepeater/201775/chunklist_w1779163474.m3u8?nimblesessionid=1749854&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NTM6MjMgUE0maGFzaF92YWx1ZT1IOG51WUVCSE40cGtCUnB6Z2pSZ2d3PT0mdmFsaWRtaW51dGVzPTQ=
+ #EXTINF:-1, EURO SPORT ONE 
+http://185.63.255.112/live/euro11/chunks.m3u8?nimblesessionid=880102.m3u8
+#EXTINF:0, Eurosport 1 uk HD
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+ #EXTINF:-1, MUTV
+http://178.18.31.67:8081/liverepeater/197888/chunklist_w317463164.m3u8?nimblesessionid=271978&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDY6MjcgUE0maGFzaF92YWx1ZT1uZ2hVTm5tbDF2dEdHVTNGRERuTEhnPT0mdmFsaWRtaW51dGVzPTQ=
+ #EXTINF:-1, CHELSEATV
+http://178.18.30.108:8081/liverepeater/198155/chunklist_w263623551.m3u8?nimblesessionid=2939613&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDc6NDAgUE0maGFzaF92YWx1ZT0rUFdQMlh6SUV1cUtPcUllcUFxcjN3PT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:-1, FOX SPORTS
+http://199.180.114.174:8000/foxs.m3u8?Token
+#EXTINF:-1, FOX SPORTS 2
+http://199.180.114.174:8000/foxs2.m3u8?Token
 #EXTINF:0,Premier sports
-http://195.154.226.186:1935/livepp/vpremsplsh/playlist.m3u8
+http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
 #EXTINF:0,Astro SuperSport 1
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 #EXTINF:0,Astro SuperSport 2
@@ -36,11 +60,3 @@ http://185.63.252.176/live/antenasportucl2/playlist.m3u8
 http://185.63.252.176/live/antenasportucl3/playlist.m3u8
 #EXTINF:0,Astro SuperSport 4
 http://185.63.252.176/live/antenasportucl4/playlist.m3u8
-#EXTINF:0,Arena Sport 1
-http://178.253.194.68:1935/liveloworigin/arenasport1.stream/tron45.m3u8
-#EXTINF:0,Arena Sport 2
-http://178.253.194.68:1935//liveloworigin/arenasport2.stream/tron45.m3u8
-#EXTINF:0,Arena Sport 3
-http://178.253.194.68:1935//liveloworigin/arenasport3.stream/tron45.m3u8
-#EXTINF:0,Arena Sport 4
-http://178.253.194.68:1935//liveloworigin/arenasport4.stream/tron45.m3u8
