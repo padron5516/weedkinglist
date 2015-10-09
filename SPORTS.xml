@@ -1,24 +1,64 @@
-#EXTM3U
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-#EXTINF:-1,  SkySports 1 HD
-http://www.freeredirectservice.tk/redir/1.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  SkySports 2 HD
-http://www.freeredirectservice.tk/redir/8.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  SkySports 3 HD
-http://www.freeredirectservice.tk/redir/13.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  SkySports 4 HD
-http://www.freeredirectservice.tk/redir/18.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  SkySports 5 HD
-http://www.freeredirectservice.tk/redir/23.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  SkySports F1 HD
-http://www.freeredirectservice.tk/redir/28.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  Sky News HD
-http://www.freeredirectservice.tk/redir/33.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  BT Sport 1 HD
-http://www.freeredirectservice.tk/redir/4.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  BT Sport 2 HD
-http://www.freeredirectservice.tk/redir/10.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  British Euro Sport 1 HD
-http://www.freeredirectservice.tk/redir/6.ts|User-agent=MXPlayer/1.7.38
-#EXTINF:-1,  British Euro Sport 2 HD
-http://www.freeredirectservice.tk/redir/12.ts|User-agent=MXPlayer/1.7.38
+<stream>
+
+
+<item>
+<title>SkySports 1 HD</title>
+<link>http://www.freeredirectservice.tk/redir/1.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SkySports 2 HD</title>
+<link>http://www.freeredirectservice.tk/redir/8.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SkySports 3 HD</title>
+<link>http://www.freeredirectservice.tk/redir/13.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SkySports 4 HD</title>
+<link>http://www.freeredirectservice.tk/redir/18.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SkySports 5 HD</title>
+<link>http://www.freeredirectservice.tk/redir/23.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SkySports F1 HD</title>
+<link>http://www.freeredirectservice.tk/redir/28.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky News HD</title>
+<link>http://www.freeredirectservice.tk/redir/33.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1 HD</title>
+<link>http://www.freeredirectservice.tk/redir/4.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 2 HD</title>
+<link>http://www.freeredirectservice.tk/redir/10.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>British Euro Sport 1 HD</title>
+<link>http://www.freeredirectservice.tk/redir/6.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>British Euro Sport 2 HD</title>
+<link>http://www.freeredirectservice.tk/redir/12.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail></thumbnail>
+</item>
+
+</stream>
+
+
