@@ -1,36 +1,90 @@
-#EXTM3U
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
 
 
-#EXTINF:0402 tvg-id="bbc1.uk" group-title="UK Main" tvg-logo="231284.png", [COLOR orangered]BBC One HD[/COLOR]
-http://hls.tv.iptv.ink/bbc1uk@231284.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0403 tvg-id="bbc2.uk" group-title="UK Main" tvg-logo="353223.png", [COLOR orangered]BBC Two HD[/COLOR]
-http://hls.tv.iptv.ink/bbc2uk@353223.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0404 tvg-id="bbc3cbbc.uk" group-title="UK Main" tvg-logo="224822.png", [COLOR orangered]BBC Three/CBBC HD[/COLOR]
-http://hls.tv.iptv.ink/bbc3cbbcuk@224822.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0405 tvg-id="bbc4cbeebies.uk" group-title="UK Main" tvg-logo="895519.png", [COLOR orangered]BBC Four/CBeeBies HD[/COLOR]
-http://hls.tv.iptv.ink/bbc4cbeebiesuk@895519.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0406 tvg-id="itv.uk" group-title="UK Main" tvg-logo="519042.png", [COLOR orangered]iTV HD[/COLOR]
-http://hls.tv.iptv.ink/itvuk@519042.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0407 tvg-id="itv2.uk" group-title="UK Main" tvg-logo="779874.png", [COLOR orange]iTV 2[/COLOR]
-http://hls.tv.iptv.ink/itv2uk@779874.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0408 tvg-id="itv3.uk" group-title="UK Main" tvg-logo="921113.png", [COLOR orange]iTV 3[/COLOR]
-http://hls.tv.iptv.ink/itv3uk@921113.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0409 tvg-id="itv4.uk" group-title="UK Main" tvg-logo="714880.png", [COLOR orange]iTV 4[/COLOR]
-http://hls.tv.iptv.ink/itv4uk@714880.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0410 tvg-id="channel4.uk" group-title="UK Main" tvg-logo="203379.png", [COLOR orangered]Channel 4 HD[/COLOR]
-http://hls.tv.iptv.ink/channel4uk@203379.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0411 tvg-id="film4.uk" group-title="UK Main" tvg-logo="753372.png", [COLOR orange]Film4[/COLOR]
-http://hls.tv.iptv.ink/film4uk@753372.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0412 tvg-id="channel5.uk" group-title="UK Main" tvg-logo="659484.png", [COLOR orange]Channel  5[/COLOR]
-http://hls.tv.iptv.ink/channel5uk@659484.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0413 tvg-id="4more.uk" group-title="UK Main" tvg-logo="535162.png", [COLOR orange]4More[/COLOR]
-http://hls.tv.iptv.ink/4moreuk@535162.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0414 tvg-id="e4.uk" group-title="UK Main" tvg-logo="159714.png", [COLOR orange]E4[/COLOR]
-http://hls.tv.iptv.ink/e4uk@159714.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1, QVC UK
-http://goo.gl/zQ38Qs
-#EXTINF:-1, QVC style
-http://goo.gl/oxIOla
-#EXTINF:-1, QVC beauty
-http://goo.gl/mD6Ox6
+
+<item>
+<title>[COLOR orangered]BBC One HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/bbc1uk@231284.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orangered]BBC Two HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/bbc2uk@353223.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orangered]BBC Three/CBBC HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/bbc3cbbcuk@224822.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orangered]BBC Four/CBeeBies HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/bbc4cbeebiesuk@895519.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orangered]iTV HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itvuk@519042.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]iTV 2[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itv2uk@779874.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]iTV 3[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itv3uk@921113.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]iTV 4[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itv4uk@714880.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orangered]Channel 4 HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/channel4uk@203379.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]Film4[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/film4uk@753372.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]Channel  5[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/channel5uk@659484.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]4More[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/4moreuk@535162.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange]E4[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/e4uk@159714.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>QVC UK</title>
+<link>http://goo.gl/zQ38Qs</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>QVC style</title>
+<link>http://goo.gl/oxIOla</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>QVC beauty</title>
+<link>http://goo.gl/mD6Ox6</link>
+<thumbnail></thumbnail>
+</item>
+
+</stream>
+
 
