@@ -2,167 +2,461 @@
 
 <stream>
 
-<item>
-<title>Channel4</title>
-<link>rtmp://live303.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=2.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/2</link>
-<thumbnail>http://sansgil.com/blog/wp-content/uploads/2010/03/paul-annett-channel4-logo-css.jpg</thumbnail>
-</item>
-<item>
-<title>ITV1</title>
-<link>rtmp://live302.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=11.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/11</link>
-<thumbnail>http://www.tvscoop.tv/itv1-hearts.jpg</thumbnail>
-</item>
-<item>
-<title>Film4</title>
-<link>rtmp://live303.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=13.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/13</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC One</title>
-<link>rtmp://live306.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=14.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/14</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC One</title>
-<link>rtmp://204.107.27.226:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=14.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/14</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC One</title>
-<link>rtmp://204.107.27.242:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=14.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/14</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Food Network</title>
-<link>rtmp://204.107.27.248:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=20.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/20</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fashion TV</title>
-<link>rtmp://live300.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=21.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/21</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Channel5</title>
-<link>rtmp://live303.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=22.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/22</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC Two</title>
-<link>rtmp://live306.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=25.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/25</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC Two</title>
-<link>rtmp://204.107.27.226:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=25.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/25</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC Two</title>
-<link>rtmp://204.107.27.242:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=25.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/25</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ITV3</title>
-<link>rtmp://live302.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=26.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/26</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC News</title>
-<link>rtmp://live304.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=27.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/27</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>E4</title>
-<link>rtmp://live304.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=65.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/65</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ITV2</title>
-<link>rtmp://live302.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=67.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/67</link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
-<title>4 Music</title>
-<link>rtmp://live308.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=95.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/95</link>
+<title>Nat Geo</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/127.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>More4</title>
-<link>rtmp://live304.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=97.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/97</link>
+<title>Nat Geo +1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/139.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ITV4</title>
-<link>rtmp://live302.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=101.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/101</link>
+<title>Nat Geo Wild</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/128.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CBEEBIES/BBC Four</title>
-<link>rtmp://live306.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=103.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/103</link>
+<title>History</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/101.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CBEEBIES/BBC Four</title>
-<link>rtmp://204.107.27.242:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=103.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/103</link>
+<title>Discovery</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/121.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CBBC/BBC Three</title>
-<link>rtmp://live306.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=113.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/113</link>
+<title>Discovery turbo</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/138.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CBBC/BBC Three</title>
-<link>rtmp://204.107.27.242:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=113.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/113</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>QVC Deutschland</title>
-<link>rtmp://live307.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=354.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/354</link>
+<title>Discovery Science</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/124.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>QVC PLUS</title>
-<link>rtmp://live307.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=355.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/355</link>
+<title>Discovery Investigation</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/123.ts</link>
 <thumbnail></thumbnail>
 </item>
-
+<item>
+<title>Discovery Investigation +1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/140.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery home</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/137.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery History</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/142.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>discovry Shed</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/180.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Comedy Xtra</title>
+<link>http://stream.balticbox.tv:8080/CmdyXtr/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DisneyChnl</title>
+<link>http://stream.balticbox.tv:8080/Disney/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Animal Planet</title>
+<link>http://stream.balticbox.tv:8080/ANIUK/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery History</title>
+<link>http://stream.balticbox.tv:8080/DISHist/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DisneyJunior</title>
+<link>http://stream.balticbox.tv:8080/DIJR/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cartoon Network UK</title>
+<link>http://stream.balticbox.tv:8080/CARUK/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery1</title>
+<link>http://stream.balticbox.tv:8080/DIS1/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Science</title>
+<link>http://stream.balticbox.tv:8080/DISS/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery Turbo</title>
+<link>http://stream.balticbox.tv:8080/DISTurbo/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Travel Channel+1 UK</title>
+<link>http://stream.balticbox.tv:8080/TRAUK/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS Reality+1 UK</title>
+<link>http://stream.balticbox.tv:8080/CBSReality/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TCM +1 UK</title>
+<link>http://stream.balticbox.tv:8080/TCMUK/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>mov4men1</title>
+<link>http://stream.balticbox.tv:8080/M4M/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Family Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyFamily/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Greats Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyGreats/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Thriller Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyCrime/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Comedy Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyComedy/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Premiere Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyPremiere/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Action Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyAction/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Select Movies</title>
+<link>http://stream.balticbox.tv:8080/SkySelect/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky DramaRom Movies</title>
+<link>http://stream.balticbox.tv:8080/SkyDrama/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky ScFiHorror Movies</title>
+<link>http://stream.balticbox.tv:8080/SkySci/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Movies Disney</title>
+<link>http://stream.balticbox.tv:8080/SkyDisney/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV MUSIC</title>
+<link>http://stream.balticbox.tv:8080/MTVM/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Investigation Discovery</title>
+<link>http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>Dave</title>
-<link>rtmp://live308.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=370.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/370</link>
+<link>http://stream.balticbox.tv:8080/dave/mono.m3u8?token=asg!1dkhasg!54754</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PickTV</title>
-<link>rtmp://live308.edge.filmon.com:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=371.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/371</link>
+<title>NATGEO HD</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/563.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ITV+1</title>
-<link>rtmp://204.107.27.248:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=1817.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/1817</link>
+<title>USA</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/315.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ITV2+1</title>
-<link>rtmp://204.107.27.248:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=1820.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/1820</link>
+<title>DISCOVERY</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/559.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ITV3+1</title>
-<link>rtmp://204.107.27.248:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=1823.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/1823</link>
+<title>quest</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/141.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ITV4+1</title>
-<link>rtmp://204.107.27.248:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=1826.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/1826</link>
+<title>Dmax</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/126.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Food Network+1</title>
-<link>rtmp://204.107.27.248:1935/live/ app=live?id=0ad5aac39bb13fbe0e28b71b18d6d8ba3ffbd4d2b2a0617ab9ca60c4a02520700bf0875f6a47ad5f7e2e72b54601d58ab4ea78d5ec16148cef64493d4be4c009fe4cd2f711c7cdf4fea55181df1491ac76af81280f96d1670320f4072db99d8abe577b94be3e8f3579de533e1d95157c6b4ec3ece3afa17a54007fd6446a9e793beede51550bb36adb7ca26fce59a7c30cd951d2fa921e48 playpath=1829.high.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf conn=O:1 conn=O:0 pageUrl=https://www.filmon.com/tv/channel/info/1829</link>
+<title>watch</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/335.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>universal</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/344.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>really</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/336.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>picktv</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/342.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>lifetime</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/338.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>fox</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/340.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>fox 1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/341.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Film 4</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/349.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>alibi</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/339.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>5 Star</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/345.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Art 1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/117.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky One</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/80.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky one plus</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/130.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Two</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/110.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SkyEmotion</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/111.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>skyliving</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/343.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky news</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/334.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS DRAMA</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/275.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies Action</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/75.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies Atlantic</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/97.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies Comedy</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/77.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies Family</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/79.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies Disney</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/78.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Movies Thriller</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/109.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies drama</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/157.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies sci-fi & horrore</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/154.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies premier</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/155.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky Movies premier 1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/156.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky movies modern great</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/158.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky movies showcase</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/175.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>sky movies select</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/148.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>comedy central</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/149.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>comedy central +1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/173.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>comedy central extra</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/172.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>comedy central extra +1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/174.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True movies1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/150.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True movies2</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/151.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True Entertainemant</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/152.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>True drama</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/153.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Movies 4 men</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/183.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sony movies</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/181.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ITV 1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/90.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ITV 2</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/91.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ITV 3</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/92.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ITV 4</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/93.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC 1</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/98.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC 2</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/129.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC 3</title>
+<link>http://stream-full.selfip.com:8000/live/jack/jack/81.ts</link>
 <thumbnail></thumbnail>
 </item>
 
