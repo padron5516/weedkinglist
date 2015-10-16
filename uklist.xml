@@ -5,84 +5,84 @@
 
 
 <item>
-<title>[COLOR orangered]BBC One HD[/COLOR]</title>
+<title>BBC One HD</title>
 <link>http://hls.tv.iptv.ink/bbc1uk@231284.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.ytimg.com/vi/47eIXlnnVCU/maxresdefault.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR orangered]BBC Two HD[/COLOR]</title>
+<title>BBC Two HD</title>
 <link>http://hls.tv.iptv.ink/bbc2uk@353223.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orangered]BBC Three/CBBC HD[/COLOR]</title>
+<title>BBC Three/CBBC HD</title>
 <link>http://hls.tv.iptv.ink/bbc3cbbcuk@224822.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.peacockproductions.tv/site-content/uploads/2014/03/BBC3_BANNER_WEB.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orangered]BBC Four/CBeeBies HD[/COLOR]</title>
+<title>BBC Four/CBeeBies HD</title>
 <link>http://hls.tv.iptv.ink/bbc4cbeebiesuk@895519.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1280px-BBC_Four_HD_Logo.svg.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orangered]iTV HD[/COLOR]</title>
+<title>STV HD[/COLOR]</title>
 <link>http://hls.tv.iptv.ink/itvuk@519042.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://theident.gallery/stvhd/xmas2014/STVHD-2014-XMAS-ID-1-C.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]iTV 2[/COLOR]</title>
+<title>iTV 2[/COLOR]</title>
 <link>http://hls.tv.iptv.ink/itv2uk@779874.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.seeklogo.net/wp-content/uploads/2015/09/itv2-hd-logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]iTV 3[/COLOR]</title>
+<title>iTV 3[/COLOR]</title>
 <link>http://hls.tv.iptv.ink/itv3uk@921113.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]iTV 4[/COLOR]</title>
+<title>iTV 4[/COLOR]</title>
 <link>http://hls.tv.iptv.ink/itv4uk@714880.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ITV4_HD_logo_2013.svg/2000px-ITV4_HD_logo_2013.svg.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orangered]Channel 4 HD[/COLOR]</title>
+<title>Channel 4 HD</title>
 <link>http://hls.tv.iptv.ink/channel4uk@203379.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.ruddstudio.com/wp-content/uploads/c4_4hd_logo_purple_sfw.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]Film4[/COLOR]</title>
+<title>Film4 HD</title>
 <link>http://hls.tv.iptv.ink/film4uk@753372.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.film4.com/media/images/Channel4/Film4/Logos%20etc/film4hd.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]Channel  5[/COLOR]</title>
+<title>Channel 5 HD</title>
 <link>http://hls.tv.iptv.ink/channel5uk@659484.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.hdtvorg.co.uk/news/imgs/Five_HD.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]4More[/COLOR]</title>
+<title>4More HD</title>
 <link>http://hls.tv.iptv.ink/4moreuk@535162.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/more4_hd.png_1857629745.png</thumbnail>
 </item>
 <item>
-<title>[COLOR orange]E4[/COLOR]</title>
+<title>E4 HD</title>
 <link>http://hls.tv.iptv.ink/e4uk@159714.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.channel4.com/media/images/CorporatePortal/Benji/News%20Archive/2009/E4%20HD.jpg</thumbnail>
 </item>
 <item>
-<title>QVC UK</title>
-<link>http://goo.gl/zQ38Qs</link>
-<thumbnail></thumbnail>
+<title>SKY ONE HD TEST>
+<link>http://stream.balticbox.tv:8080/Sky1/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail>http://www.tekcore.co.uk/wp-content/uploads/2012/11/New-Sky1-HD-Rebrand-Logo-3.jpg</thumbnail>
 </item>
 <item>
-<title>QVC style</title>
-<link>http://goo.gl/oxIOla</link>
-<thumbnail></thumbnail>
+<title>SKY ATLANTIC HD TEST</title>
+<link>http://stream.balticbox.tv:8080/SkyAtl/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20140430190249/logopedia/images/9/91/Logo_sky_atlantic.png</thumbnail>
 </item>
 <item>
-<title>QVC beauty</title>
-<link>http://goo.gl/mD6Ox6</link>
-<thumbnail></thumbnail>
+<title>MOTORS TV HD TEST</title>
+<link>http://stream.balticbox.tv:8080/MOTUK/mono.m3u8?token=asg!1dkhasg!54754</link>
+<thumbnail>http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg</thumbnail>
 </item>
 
 </stream>
