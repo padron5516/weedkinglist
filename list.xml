@@ -9,14 +9,29 @@
 <thumbnail>http://www.logomaker.com/blog/wp-content/uploads/2015/02/Freeview-Logo-Design1.png</thumbnail>
 </item>
 <item>
-<title>SKY SPORTS UK</title>
+<title>SKY SPORTS UK HD</title>
 <link>https://raw.githubusercontent.com/weedking12/weedkinglist/master/SPORTS.xml</link>
 <thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>WORLD SPORTS HD</title>
+<link>https://raw.githubusercontent.com/weedking12/weedkinglist/master/worldsports.xml</link>
+<thumbnail>http://www.ravieverest.com/wp-content/gallery/sponsor/9-wos-logo.png</thumbnail>
+</item>
+<item>
+<title>MOVIES HD</title>
+<link>https://raw.githubusercontent.com/weedking12/weedkinglist/master/vodlist.xml</link>
+<thumbnail>http://hotholidaygifts.info/wp-content/uploads/2013/10/movies-icon.png</thumbnail>
+</item>
+<item>
+<title>FILMON HD</title>
+<link>https://raw.githubusercontent.com/weedking12/weedkinglist/master/filmon.xml</link>
+<thumbnail>http://cdn.marketplaceimages.windowsphone.com/v8/images/cb384ec0-2892-4365-9e48-e75c6473e393?imageType=ws_icon_large</thumbnail>
+</item>
+<item>
+<title>USA LIST HD</title>
+<link>https://raw.githubusercontent.com/weedking12/weedkinglist/master/usalist.xml</link>
+<thumbnail>https://lh6.googleusercontent.com/-yXpZt2hhYSo/VQbwCrAdwCI/AAAAAAAAAIs/YFKIXj5_WVA/w1600-h830/I%2Blove%2BUSA.png</thumbnail>
 </item>
 <item>
 <title></title>
@@ -32,4 +47,10 @@
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item><item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
+
+
