@@ -736,6 +736,97 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Sky Sports 1</title>
+<link>rtmp://89.248.174.38/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&amp;vw=600&amp;vh=450</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 2</title>
+<link>rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=2skys&amp;vw=600&amp;vh=450</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 3</title>
+<link>rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&amp;vw=600&amp;vh=450</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 4</title>
+<link>rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&amp;vw=600&amp;vh=450</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[Sky Sports 5</title>
+<link>rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&amp;vw=600&amp;vh=450</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports F1</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdskysportsf1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports News  (audio)</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdskynews</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1</title>
+<link>http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 2</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sport HD1 DE</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdskydehd1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Astro Supersport 1</title>
+<link>http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDEucGhw</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Astro Supersport 2</title>
+<link>http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Astro Supersport 3</title>
+<link>http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBC Sports Golf 720p [COLOR blue]HD[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBC Sports Golf 1080p [COLOR blue]HD[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN 1</title>
+<link>http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN 2</title>
+<link>http://lihattv.toh.info/jhos/beib2_5/-/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
 </stream>
 
 
