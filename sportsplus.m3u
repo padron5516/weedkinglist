@@ -1,6 +1,27 @@
 #EXTM3U
 
-
+#EXTINF:-1,Sky Sports 1
+http://195.154.154.115:1935/goLive/skysports1_53ovldb7/playlist.m3u8
+#EXTINF:-1,Sky Sports 2
+http://195.154.154.115:1935/goLive/skysports2_8tz2w7qv/playlist.m3u8
+#EXTINF:-1,Sky Sports 3
+http://195.154.154.115:1935/goLive/skysports3_ujbti0a1/playlist.m3u8
+#EXTINF:-1,Sky Sports 4
+http://195.154.154.115:1935/goLive/skysports4_glvcugyg/playlist.m3u8
+#EXTINF:-1,Sky Sports 5
+http://195.154.154.115:1935/goLive/skysports5_wwcpqc94/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://195.154.154.115:1935/goLive/btsports1_93bmm8fu/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://195.154.154.115:1935/goLive/btsports2_bb8gxfm8/playlist.m3u8
+#EXTINF:-1,BT Sports ESPN
+http://195.154.154.115:1935/goLive/espnuk_nszmefn4/playlist.m3u8
+#EXTINF:-1,Eurosport UK
+http://195.154.154.115:1935/goLive/eurosports1_mnz75481/playlist.m3u8
+#EXTINF:-1,Eurosport 2 UK
+http://195.154.154.115:1935/goLive/eurosports2_jnx1yyrj/playlist.m3u8
+#EXTINF:-1,Premier Sports
+http://195.154.154.115:1935/goLive/premier_z94k15u3/playlist.m3u8
 
 #EXTINF:-1,NBC Sports Golf 720p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
