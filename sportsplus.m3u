@@ -1,0 +1,95 @@
+#EXTM3U
+
+#EXTINF:-1,Sky Sports 1
+http://195.154.154.115:1935/goLive/skysports1_53ovldb7/playlist.m3u8
+#EXTINF:-1,Sky Sports 2
+http://195.154.154.115:1935/goLive/skysports2_8tz2w7qv/playlist.m3u8
+#EXTINF:-1,Sky Sports 3
+http://195.154.154.115:1935/goLive/skysports3_ujbti0a1/playlist.m3u8
+#EXTINF:-1,Sky Sports 4
+http://195.154.154.115:1935/goLive/skysports4_glvcugyg/playlist.m3u8
+#EXTINF:-1,Sky Sports 5
+http://195.154.154.115:1935/goLive/skysports5_wwcpqc94/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://195.154.154.115:1935/goLive/btsports1_93bmm8fu/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://195.154.154.115:1935/goLive/btsports2_bb8gxfm8/playlist.m3u8
+#EXTINF:-1,BT Sports ESPN
+http://195.154.154.115:1935/goLive/espnuk_nszmefn4/playlist.m3u8
+#EXTINF:-1,Eurosport UK
+http://195.154.154.115:1935/goLive/eurosports1_mnz75481/playlist.m3u8
+#EXTINF:-1,Eurosport 2 UK
+http://195.154.154.115:1935/goLive/eurosports2_jnx1yyrj/playlist.m3u8
+#EXTINF:-1,Premier Sports
+http://195.154.154.115:1935/goLive/premier_z94k15u3/playlist.m3u8
+
+#EXTINF:-1,NBC Sports Golf 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Golf 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 720P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBCSN Live Extra 1080p
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBCSN Live Extra 720p
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,Sky Sports 1
+rtmp://89.248.174.38/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
+#EXTINF:-1,Sky Sports 2
+rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=2skys&vw=600&vh=450
+#EXTINF:-1,Sky Sports 3 
+rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&vw=600&vh=450
+#EXTINF:-1,Sky Sports 4 
+rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&vw=600&vh=450
+#EXTINF:-1,[Sky Sports 5 
+rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&vw=600&vh=450
+#EXTINF:-1,Sky Sports F1
+rtmpe://134.19.185.252:1935/livedge/mamahdskysportsf1
+#EXTINF:-1,Sky Sports News  (audio)
+rtmpe://134.19.185.252:1935/livedge/mamahdskynews
+#EXTINF:-1,BT Sport 1
+http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
+#EXTINF:-1,BT Sport 1
+rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
+#EXTINF:-1,BT Sport 2
+rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
+#EXTINF:-1,Sky Sport HD1 DE
+rtmpe://134.19.185.252:1935/livedge/mamahdskydehd1
+#EXTINF:0,Astro Supersport 1
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDEucGhw
+ 
+#EXTINF:0,Astro Supersport 2
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
+ 
+#EXTINF:0,Astro Supersport 3
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
+ 
+#EXTINF:-1,NBC Sports Golf 720p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+#EXTINF:0,NBC Sports Golf 1080p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+ 
+#EXTINF:0,BEIN 1
+http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8
+ 
+#EXTINF:0,BEIN 2
+http://lihattv.toh.info/jhos/beib2_5/-/playlist.m3u8
+
+
+
+
+#EXTINF:0, Sky sports 2 UK
+rtmp://80.82.65.162/live playpath=vskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys2&vw=620&vh=490
+
+#EXTINF:0, Sky sports 3 UK
+rtmp://80.82.65.162/live playpath=vskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys3&vw=620&vh=490
+
+#EXTINF:0, Sky sports 4 UK
+rtmp://80.82.65.162/live playpath=vskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys4&vw=620&vh=490
+
+#EXTINF:0, Sky sports 5 UK
+rtmp://80.82.65.162/live playpath=vskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys5&vw=620&vh=490
