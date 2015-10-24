@@ -6,62 +6,62 @@
 <item>
 <title>UK LIST HD </title>
 <link>http://ignorame</link><thumbnail>http://www.logomaker.com/blog/wp-content/uploads/2015/02/Freeview-Logo-Design1.png</thumbnail><fanart>https://secure.sky.com/mysky-extras/downgrade/assets/resized/standard/stay-coming-back-sky-tv-2ebd5e68fb6e3ce7bff9b1ab173fbee369ce9d09.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/uklist.xml</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/uklist.xml</externallink>
 </item>
 <item>
 <title>SKY SPORTS UK HD </title>
 <link>http://ignorame</link>l<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail><fanart>http://www.greenmanpilton.co.uk/images/content/pub-with-sky-sports-and-bt.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/SPORTS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/SPORTS.xml</externallink>
 </item>
 <item>
 <title>WORLD SPORTS HD </title>
 <link>http://ignorame</link><thumbnail>http://www.ravieverest.com/wp-content/gallery/sponsor/9-wos-logo.png</thumbnail><fanart>http://www.mingles.es/blog/wp-content/uploads/2014/05/sports.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/worldsports.xml</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/worldsports.xml</externallink>
 </item>
 <item>
 <title>WESTERN MOVIES HD </title>
 <link>http://ignorame</link><thumbnail>http://madbrewlabs.com/labs/wp-content/uploads/2011/09/wildWestLogo2.png</thumbnail><fanart>http://pinoytutorial.com/techtorial/wp-content/uploads/2011/02/the-gunstringer-logo.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/westernmovies.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/westernmovies.m3u</externallink>
 </item>
 <item>
 <title>CLASSIC SHOWS HD </title>
 <link>http://ignorame</link><thumbnail>http://fiftiesweb.com/wordpress/wp-content/uploads/2015/05/Classic-TV.png</thumbnail><fanart>https://yt3.ggpht.com/-hFxEr8QHrvM/AAAAAAAAAAI/AAAAAAAAAAA/REjjL0X3gIs/s300-c-k-no/photo.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/classicshows.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/classicshows.m3u</externallink>
 </item>
 <item>
 <title>MOVIES HD </title>
 <link>http://ignorame</link><thumbnail>http://hotholidaygifts.info/wp-content/uploads/2013/10/movies-icon.png</thumbnail><fanart>http://c85c7a.medialib.glogster.com/media/ec/ec6fe2f6e5f20f4fb1af6c6e09a7e9de04e89e5d249e9640cc60e9fbaf2aaf04/maribl-jpg.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/vodlist.xml</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/movies.xml</externallink>
 </item>
 <item>
 <title>TV SHOWS HD </title>
 <link>http://ignorame</link><thumbnail>https://lh3.googleusercontent.com/-sgovNKw7kE4/AAAAAAAAAAI/AAAAAAAAAA4/O-LuEQ8j-Rw/photo.jpg</thumbnail><fanart>https://9to5mac.files.wordpress.com/2012/03/apple-tv-shows.png?w=394&h=257</fanart>
-<externallinkhttps://gitlab.com/raspberrypikodi/weedkinglist/raw/master/tvshows.m3u></externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/tvshows.xml</externallink>
 </item>
 <item>
 <title>HD LIST </title>
 <link>http://ignorame</link><thumbnail>http://www.plughitzlive.com/images/news/logos/hdtv.png</thumbnail><fanart>http://static1.squarespace.com/static/55201109e4b0abe69be1525b/556dbfd8e4b04705c7e6704b/556dbfdde4b06801d18a415a/1433255933302/1080p-full-hd.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/hd.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/hd.m3u</externallink>
 </item>
 <item>
 <title>SPORTS PLUS HD </title>
 <link>http://ignorame</link><thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/header.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/sportsplus.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/weedkinglist/master/sportsplus.m3u</externallink>
 </item>
 <item>
 <title>VARIOS HD </title>
 <link>http://ignorame</link><thumbnail>https://superrepo.org/static/images/icons/original/xscript.openelec.rpi.config.png.pagespeed.ic.nWIFDq3wPq.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
+<externallink></externallink>
 </item>
 <item>
 <title>IPTV HD </title>
 <link>http://ignorame</link><thumbnail>http://iptvcraze.com/free/iptv_craze_logo.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/stalker.xml</externallink>
+<externallink></externallink>
 <item>
 <item>
 <title>YOUTUBE </title>
 <link>http://ignorame</link><thumbnail>http://billcammack.com/images/icons/youtube.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/youtube.xml</externallink>
+<externallink></externallink>
 <item>
 <item>
 <title>PAC CHANNELS HD  </title>
