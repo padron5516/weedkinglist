@@ -58,4 +58,9 @@
 <link>http://ignorame</link><thumbnail>http://iptvcraze.com/free/iptv_craze_logo.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
 <externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/stalker.xml</externallink>
 <item>
+<item>
+<title>YOUTUBE </title>
+<link>http://ignorame</link><thumbnail>http://billcammack.com/images/icons/youtube.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
+<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/youtube.xml</externallink>
+<item>
 
