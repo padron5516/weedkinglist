@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+
+
+
+<item>
+<title>BBC One HD</title>
+<link>http://hls.tv.iptv.ink/bbc1uk@231284.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://i.ytimg.com/vi/47eIXlnnVCU/maxresdefault.jpg</thumbnail>
+</item>
+<item>
+<title>BBC Two HD</title>
+<link>http://hls.tv.iptv.ink/bbc2uk@353223.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>BBC Three/CBBC HD</title>
+<link>http://hls.tv.iptv.ink/bbc3cbbcuk@224822.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.peacockproductions.tv/site-content/uploads/2014/03/BBC3_BANNER_WEB.png</thumbnail>
+</item>
+<item>
+<title>BBC Four/CBeeBies HD</title>
+<link>http://hls.tv.iptv.ink/bbc4cbeebiesuk@895519.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1280px-BBC_Four_HD_Logo.svg.png</thumbnail>
+</item>
+<item>
+<title>STV HD[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itvuk@519042.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://theident.gallery/stvhd/xmas2014/STVHD-2014-XMAS-ID-1-C.jpg</thumbnail>
+</item>
+<item>
+<title>iTV 2[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itv2uk@779874.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.seeklogo.net/wp-content/uploads/2015/09/itv2-hd-logo.png</thumbnail>
+</item>
+<item>
+<title>iTV 3[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itv3uk@921113.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>iTV 4[/COLOR]</title>
+<link>http://hls.tv.iptv.ink/itv4uk@714880.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ITV4_HD_logo_2013.svg/2000px-ITV4_HD_logo_2013.svg.png</thumbnail>
+</item>
+<item>
+<title>Channel 4 HD</title>
+<link>http://hls.tv.iptv.ink/channel4uk@203379.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.ruddstudio.com/wp-content/uploads/c4_4hd_logo_purple_sfw.jpg</thumbnail>
+</item>
+<item>
+<title>Film4 HD</title>
+<link>http://hls.tv.iptv.ink/film4uk@753372.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.film4.com/media/images/Channel4/Film4/Logos%20etc/film4hd.jpg</thumbnail>
+</item>
+<item>
+<title>Channel 5 HD</title>
+<link>http://hls.tv.iptv.ink/channel5uk@659484.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.hdtvorg.co.uk/news/imgs/Five_HD.jpg</thumbnail>
+</item>
+<item>
+<title>4More HD</title>
+<link>http://hls.tv.iptv.ink/4moreuk@535162.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/more4_hd.png_1857629745.png</thumbnail>
+</item>
+<item>
+<title>E4 HD</title>
+<link>http://hls.tv.iptv.ink/e4uk@159714.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://www.channel4.com/media/images/CorporatePortal/Benji/News%20Archive/2009/E4%20HD.jpg</thumbnail>
+</item>
+<item>
+<title>SKY NEWS HD</title>
+<link>http://hls.tv.iptv.ink/skynewsuk@689930.m3u8|X-Forwarded-For=81.17.18.55</link>
+<thumbnail>http://theident.gallery/skynewshd/2010/SNHD-2010-STING-1-2.jpg</thumbnail>
+</item>
+<item>
+<title>Sky Movies Action HD TEST>
+<link>http://www.freeredirectservice.tk/redir/115.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20100420142500/logopedia/images/1/13/Sky_Movies_Action_%26_Adventure_ident.jpg</thumbnail>
+</item>
+<item>
+<title>Sky Movies Comedy HD TEST</title>
+<link>http://www.freeredirectservice.tk/redir/118.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/0d/Sky_Movies_Comedy_ident.jpg/revision/latest/scale-to-width-down/640?cb=20100429061252</thumbnail>
+</item>
+<item>
+<title>SkyMovies Premiere HD TEST</title>
+<link>http://www.freeredirectservice.tk/redir/116.ts|User-agent=MXPlayer/1.7.38</link>
+<thumbnail>http://www.proclaimers.co.uk/wp-content/uploads/2014/07/SKYM-2009-PREMIERE-BUMPER-1-2.jpg</thumbnail>
+</item>
+
+</stream>
+
