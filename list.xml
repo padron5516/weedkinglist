@@ -6,7 +6,7 @@
 <item>
 <title>UK LIST HD </title>
 <link>http://ignorame</link><thumbnail>http://www.logomaker.com/blog/wp-content/uploads/2015/02/Freeview-Logo-Design1.png</thumbnail><fanart>https://secure.sky.com/mysky-extras/downgrade/assets/resized/standard/stay-coming-back-sky-tv-2ebd5e68fb6e3ce7bff9b1ab173fbee369ce9d09.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
+<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/uklist.xml</externallink>
 </item>
 <item>
 <title>SKY SPORTS UK HD </title>
@@ -49,7 +49,7 @@
 <externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/sportsplus.m3u</externallink>
 </item>
 <item>
-<title>YOUTUBE HD </title>
-<link>http://ignorame</link><thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/header.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
-<externallink>https://gitlab.com/raspberrypikodi/weedkinglist/raw/master/youtube.m3u</externallink>
+<title>VARIOS HD </title>
+<link>http://ignorame</link><thumbnail>https://superrepo.org/static/images/icons/original/xscript.openelec.rpi.config.png.pagespeed.ic.nWIFDq3wPq.png</thumbnail><fanart>https://pbs.twimg.com/profile_images/630072962566258690/DATbkS0P.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
 </item>
