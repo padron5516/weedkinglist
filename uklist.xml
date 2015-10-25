@@ -2,9 +2,12 @@
 
 <stream>
 
-
-
 <item>
+<title>BBC 1 Scotland</title>
+<ftv>3166</ftv>
+<thumbnailhttp://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png></thumbnail>
+</item>
+ <item>
 <title>BBC One HD</title>
 <link>http://hls.tv.iptv.ink/bbc1uk@231284.m3u8|X-Forwarded-For=81.17.18.55</link>
 <thumbnail>http://i.ytimg.com/vi/47eIXlnnVCU/maxresdefault.jpg</thumbnail>
