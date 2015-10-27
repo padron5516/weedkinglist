@@ -1,8 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
-<item>
 
+-<item>
+<title>[COLOR white][B]Sky Sports 1 *updated[/B][/COLOR]</title>
+<link>rtmp://89.248.174.38/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450</link>
+<thumbnail></thumbnail>
+</item>
+
+-<item>
+<title>[COLOR white][B]Sky Sports 2 *updated[/B][/COLOR]</title>
+<link>rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=2skys&vw=600&vh=450</link>
+<thumbnail></thumbnail>
+</item>
+
+-<item>
+<title>[COLOR white][B]Sky Sports 3 *updated[/B][/COLOR]</title>
+<link>rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&vw=600&vh=450</link>
+<thumbnail></thumbnail>
+</item>
+
+-<item>
+<title>[COLOR white][B]Sky Sports 4 *updated[/B][/COLOR]</title>
+<link>rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&vw=600&vh=450</link>
+<thumbnail></thumbnail>
+</item>
+
+-<item>
+<title>[COLOR white][B]Sky Sports 5 *updated[/B][/COLOR]</title>
+<link>rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&vw=600&vh=450</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+-<item>
+<title>[COLOR white][B]Sky Sports F1[/B][/COLOR]</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdskysportsf1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1_hd.png</thumbnail>
+</item>
+
+
+-<item>
+<title>[COLOR white][B]Sky Sports News  (audio)[/B][/COLOR]</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdskynews</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news_hd.png</thumbnail>
+</item>
+
+
+-<item>
+<title>[COLOR white][B]BT Sport 1[/B][/COLOR]</title>
+<link>http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
+</item>
+
+
+-<item>
+<title>[COLOR white][B]BT Sport 1[/B][/COLOR]</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
+</item>
+
+
+-<item>
+<title>[COLOR white][B]BT Sport 2[/B][/COLOR]</title>
+<link>rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
 <title>Bein 1 HD</title>
 <link>rtmpe://5.153.29.68:1935/redirect playpath=bein1 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail></thumbnail>
