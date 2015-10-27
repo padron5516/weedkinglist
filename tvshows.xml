@@ -1,18 +1,19 @@
 
 
-<dir>
-<name>2 Broke Girls</name>
-<link>https://xunitytalk-playlist-directory.googlecode.com/svn/trunk/XMLs/TV_Shows/2_Broke_Girls.xml</link>
-<thumbnail>http://107.6.170.83/~nooboard/2img/sh78.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>24</name>
-<link>https://xunitytalk-playlist-directory.googlecode.com/svn/trunk/XMLs/TV_Shows/24.xml</link>
-<thumbnail>http://107.6.170.83/~nooboard/2img/sh220.jpg</thumbnail>
-</dir>
-
-
+<item>
+<title>2  Broke Girls</title>
+<link>http://ignoram.e</link>
+<externallink>https://xunitytalk-playlist-directory.googlecode.com/svn/trunk/XMLs/TV_Shows/2_Broke_Girls.xml</externallink>
+    <thumbnail>http://107.6.170.83/~nooboard/2img/sh78.jpg<</thumbnail>
+     <fanart></fanart>
+</item>
+<item>
+<title>24</title>
+<link>http://ignoram.e</link>
+<externallink>https://xunitytalk-playlist-directory.googlecode.com/svn/trunk/XMLs/TV_Shows/24.xml</externallink>
+    <thumbnail>http://107.6.170.83/~nooboard/2img/sh220.jpg</thumbnail>
+     <fanart></fanart>
+</item>
 <item>
 <title>Arrow</title>
 <link>http://ignoram.e</link>
