@@ -2,7 +2,138 @@
 
 #EXTINF:-1,tvg-logo="Images/foxsportshd.jpg",Fox Sports HD
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky Sports News
+rtmp://109.123.70.38:80/live playpath=snc swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=snc&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky Sports 1
+rtmp://89.248.172.159:443/liverepeater playpath=24 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky sports 1
+rtmp://80.82.78.87:443/liverepeater playpath=24 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky sports 2
+rtmp://89.248.172.159:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky sports 2
+rtmp://80.82.78.87:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky Sports 3
+rtmp://80.82.78.87:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky Sports 3
+tmp://89.248.172.159:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky sports 4
+rtmp://89.248.172.159:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Sky sports 4
+rtmp://80.82.78.87:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=530&height=370 token=#atd%#$ZH
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  vobp.8k Music
+http://99.198.118.250:8060/;stream/1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  NBA 
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", NFL Network HD
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg timeout=10
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  BEIN HD eng
+rtmp://180.250.29.12:1935/jhos/ playpath=beib3_5 swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf pageUrl=http://hdtoptv.com/alive/alive1.php live=true
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN
+http://cctv2-lh.akamaihd.net/i/Zonax2x_live@125187/index_1080p_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Bein Arabic HD
+http://cctv-lh.akamaihd.net/i/ustream2345_live@125124/index_1080p_av-p.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  BOXNATION
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  HBO
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Racing UK
+http://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ruk/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  NBA Live TV
+http://142.4.216.60:1935/edge/_definst_/8xqw0j3uksr7m8c/playlist.m3u8?wowzasessionid=1420168704&xs=_we_OHhxdzBqM3Vrc3I3bThjfDE0MjAyMDQ3MDR8NzIuMjcuMjE0LjMzfDU0YTYwZTAwYzc1NjF8Zjc1M2ZiOTg4YTc2ZmQwYmU3NWQ0ZjQ2NWJmMjQ3N2UwMmFiMjVhNA
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", NBC Sport Network
+http://142.4.216.60:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", NBC Sport Network HD
+http://142.4.216.60:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", NFL Network HD
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", NFL Network
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878756&xs=_we_dmE3M3M4NnQ4Y2w1ZTczfDE0MTk5MTQ3NTZ8fDU0YTFhMTY0Y2M1ZDB8M2QyYTQ0OTU5NTE1MmZkMGRlODhiZmMzNjM2MmRlOTk1NDE5ZmJhNQ
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Golf Channel HD
+http://142.4.216.60:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?
+
+
  
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 1 
+rtmp://178.18.31.55:443/liverepeater playpath=191327 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 1 
+rtmp://178.18.31.61:443/liverepeater playpath=191883 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 2 
+rtmp://178.18.31.55:443/liverepeater playpath=191328 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 2 
+rtmp://178.18.31.61:443/liverepeater playpath=191884 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 3 
+rtmpe://46.246.124.22:1935/liveedge swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3 live=true
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 3 
+rtmpe://46.246.124.22:1935/liveedge playpath=sskys3 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/ live=true
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 4 
+http://50.7.69.186:1935/edge/_definst_/21ajqprn56aebp3/chunklist_w442557998.m3u8?wowzasessionid=1419879754 timeout=10
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 4
+rtmp://89.248.172.159:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=30&width=700&height=450 token=#atd%#$ZH
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 5 
+rtmp://178.18.31.55:443/liverepeater playpath=191330 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  Sky Sports 5 
+rtmpe://46.246.124.22:1935/liveedge playpath=sskys5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  BT Sports 1 
+rtmp://178.18.31.55:443/liverepeater playpath=191331 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",   BT Sports 2 
+rtmp://178.18.31.55:443/liverepeater playpath=191332 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/stream.php?id=191327&width=650&height=480 token=#atd%#$ZH live=1
+ 
+
+
+
+
+
+
+
+‪#‎EXTINF‬:0,Beinsport 1HD english
+rtmp://180.250.29.12:1935/jhos/beib1_5
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Beinsport 2HD english
+rtmp://180.250.29.12:1935/jhos/beib2_5
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", PremierLeague Channel uk HD
+rtmp://180.250.29.12:1935/jhos/beib3_5
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Beinsport 1HD
+rtmp://180.250.29.12:1935/jhos/beib1_5?byBHFanaticos
+
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Beinsport 2HD
+rtmp://180.250.29.12:1935/jhos/beib2_5?byBHFanaticos
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Beinsport 2SD 1
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Beinsport 3HD
+rtmp://180.250.29.12:1935/jhos/beib3_5?byBHFanaticos
+s
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Beinsport 3SD 4
+rtmp://180.250.29.12:1935/jhos/beib3_4?byBHFanaticos
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", beIN Sport 5 arabic
+http://hls01-06.az.myvideo.az/…/l…/sport5/sport5/sport5.m3u8
+
  
 #EXTINF:-1,tvg-logo="Images/foxsports2.jpg",Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
