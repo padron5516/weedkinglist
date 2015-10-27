@@ -1,8 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="Images/foxsportshd.jpg",Fox Sports HD
+#EXTINF:0,TSN 1 alt link
+http://4.31.30.159:9082
+#EXTINF:0,TSN 2 alt link
+http://4.31.30.159:9083
+#EXTINF:0,TSN 3 alt link
+http://4.31.30.159:9084
+#EXTINF:0,TSN 4 alt link
+http://4.31.30.159:9085
+#EXTINF:0,TSN 5 alt link
+http://4.31.30.159:9086
+#EXTINF:0,Sportsnet
+http://4.31.30.159:9110
+#EXTINF:0,Sportsnet World
+http://4.31.30.159:9111/
+
+#EXTINF:-1,,Fox Sports HD
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN HD
+#EXTINF:-1 group-title="TV LIVE",  ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  ESPN 3 HD
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
