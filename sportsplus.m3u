@@ -1,124 +1,470 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.174.38/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
+#EXTINF:-1,tvg-logo="Images/foxsportshd.jpg",Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+ 
+#EXTINF:-1,tvg-logo="Images/foxsports2.jpg",Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+ 
+ 
+ 
+#EXTINF:-1,tvg-logo="Images/espnhd.jpg",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+ 
+#EXTINF:-1,tvg-logo="Images/espn.jpg",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+ 
+#EXTINF:-1,tvg-logo="Images/espn2.jpg",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+ 
+#EXTINF:-1,tvg-logo="Images/espn3.jpg",ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+ 
+#EXTINF:-1,tvg-logo="Images/aymsports.jpg",AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?
+ 
+#EXTINF:-1,tvg-logo="Images/bein.jpg",BEIN Ñ 1
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
+ 
+#EXTINF:-1,tvg-logo="Images/bein.jpg",BEIN Ñ 2
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b378000.m3u8
+ 
+#EXTINF:-1,tvg-logo="Images/sn360.jpg",SN 360 USA
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ 
+#EXTINF:-1,tvg-logo="Images/bein.jpg", BEIN 1 USA
+http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="Images/bein.jpg", BEIN 2 USA
+http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="Images/bein.jpg", BEIN PREMIER USA
+http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
+#EXTINF:-1  group-title="SPORT TV" tvg-id="ARD.de" tvg-logo="Images/RUS%2BSport%2B1.jpg",Sports 1 HD RUS
+http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8
+#EXTM3U
+#EXTINF:1,Sky SPORTS 1HD
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 2HD
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 3HD
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 4HD
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+#EXTINF:1,Sky SPORTS 5HD
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:0,BeIN Sports 1
+http://5.189.140.216:2020/skype/smail-boino/160.ch
+#EXTINF:0,BeIN Sports 2
+http://5.189.140.216:2020/skype/smail-boino/159.ch
+#EXTINF:0,BeIN Sports 3
+http://5.189.140.216:2020/skype/smail-boino/158.ch
+#EXTINF:0,BeIN Sports 4
+http://5.189.140.216:2020/skype/smail-boino/157.ch
+#EXTINF:0,BeIN Sports 5
+http://5.189.140.216:2020/skype/smail-boino/183.ch
+#EXTINF:0,BeIN Sports 6
+http://5.189.140.216:2020/skype/smail-boino/184.ch
+#EXTINF:0,BeIN Sports 7
+http://5.189.140.216:2020/skype/smail-boino/185.ch
+#EXTINF:0,BeIN Sports 8
+http://5.189.140.216:2020/skype/smail-boino/186.ch
+#EXTINF:0,FR:BeIN SPORTS 1 HD FR
+http://5.189.140.216:2020/skype/smail-boino/1.ch
+#EXTINF:0,FR: BeIN SPORTS 2 HD FR
+http://5.189.140.216:2020/skype/smail-boino/2.ch
+#EXTINF:0,FR: Canal Plus Sport
+http://5.189.140.216:2020/skype/smail-boino/5.ch
+#EXTINF:0,FR: Canal Plus
+http://5.189.140.216:2020/skype/smail-boino/3.ch
+#EXTINF:0,BEIN 1 LQ
+http://5.189.140.216:2020/skype/smail-boino/83.ch
+#EXTINF:0,Bein 3 LQ
+http://5.189.140.216:2020/skype/smail-boino/89.ch
+#EXTINF:0,UK: Sky Sports 1
+http://5.189.140.216:2020/skype/smail-boino/99.ch
+#EXTINF:0,UK Sky Sports 2
+http://5.189.140.216:2020/skype/smail-boino/104.ch
+#EXTINF:0,SKY SPORTS 3
+http://5.189.140.216:2020/skype/smail-boino/138.ch
+#EXTINF:0,UK: Sky Sports 4
+http://5.189.140.216:2020/skype/smail-boino/98.ch
+#EXTINF:0,UK: Sky Sports 5
+http://5.189.140.216:2020/skype/smail-boino/97.ch
+#EXTINF:0,UK: BT Sports 1
+http://5.189.140.216:2020/skype/smail-boino/103.ch
+#EXTINF:0,UK: BT Sports 2
+http://5.189.140.216:2020/skype/smail-boino/102.ch
+#EXTINF:0,UK: MUTV
+http://5.189.140.216:2020/skype/smail-boino/101.ch
+#EXTINF:0,ALB : Super sports 1
+http://5.189.140.216:2020/skype/smail-boino/146.ch
+#EXTINF:0,Sport TV 1 PORTOGALLO
+http://5.189.140.216:2020/skype/smail-boino/152.ch
+#EXTINF:0,Sport TV 3 PORTOGALLO
+http://5.189.140.216:2020/skype/smail-boino/150.ch
+#EXTINF:0,BT SPORTS2
+http://5.189.140.216:2020/skype/smail-boino/123.ch
+#EXTINF:0,OSN-MoviesHD-Action
+http://5.189.140.216:2020/skype/smail-boino/187.ch
+#EXTINF:0,AR: MELODY AFLAM
+http://5.189.140.216:2020/skype/smail-boino/107.ch
+#EXTINF:0,AR: MELODY DRAMA
+http://5.189.140.216:2020/skype/smail-boino/105.ch
+#EXTINF:0,Sky National Geographic HD
+http://5.189.140.216:2020/skype/smail-boino/154.ch
+#EXTINF:0,Sky Nat Geo People HD
+http://5.189.140.216:2020/skype/smail-boino/156.ch
+#EXTINF:0,Sky Nat Geo Wild HD
+http://5.189.140.216:2020/skype/smail-boino/155.ch
+#EXTINF:0,UK: Sky Movies Sci-Fi & Horror
+http://5.189.140.216:2020/skype/smail-boino/100.ch
+#EXTINF:0,Movies_Action
+http://5.189.140.216:2020/skype/smail-boino/124.ch
+#EXTINF:0,Movies_Comedy
+http://5.189.140.216:2020/skype/smail-boino/126.ch
+#EXTINF:0,Movies_Disney
+http://5.189.140.216:2020/skype/smail-boino/127.ch
+#EXTINF:0,Movies_Drama
+http://5.189.140.216:2020/skype/smail-boino/128.ch
+#EXTINF:0,Movies_Family
+http://5.189.140.216:2020/skype/smail-boino/129.ch
+#EXTINF:0,Movies_Modern
+http://5.189.140.216:2020/skype/smail-boino/130.ch
+#EXTINF:0,Movies_Premiere
+http://5.189.140.216:2020/skype/smail-boino/131.ch
+#EXTINF:0,Movies_Sci-Fi&Horror
+http://5.189.140.216:2020/skype/smail-boino/132.ch
+#EXTINF:0,Movies_Select
+http://5.189.140.216:2020/skype/smail-boino/133.ch
+#EXTINF:0,Movies_Thriller
+http://5.189.140.216:2020/skype/smail-boino/135.ch
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="Images/nbahd.jpg",NBA
+http://167.114.157.89:1935/app/nba2/playlist.m3u8
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://2.bp.blogspot.com/-rj7uNAEc-Mk/VOjDdB9gNjI/AAAAAAAACyA/miyPL5Md1ow/s1600/SkySportsLiveStream.png",Sky Sports 3 HD
+rtmp://94.23.53.51/send//ss3hd.stream
 
-#EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://93.174.93.196/live playpath=1skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1bt&vw=600&vh=450
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://1.bp.blogspot.com/-zLazwX2Ljcw/VOjDhqbY5LI/AAAAAAAACyI/LZgCPoHn_9g/s1600/sky-sports-4.png",Sky Sports 4 HD
+rtmp://94.23.53.51/send//ss4hd.stream
 
-#EXTINF:-1 group-title="UK", Sky Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-http://37.48.83.131:1935/live/skysportsnewsz1.stream/playlist.m3u8?wowzasessionid=1841847408|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://3.bp.blogspot.com/-Yv0qojVUmG4/VOjDmBQiOcI/AAAAAAAACyQ/ZYPiP9S7m4c/s1600/Sky-Sports-5-Logo.png",Sky Sport 5 HD
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8?wowzasessionid=250719164
+ 
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWW7WJ5NTlQL2X-ku21SI-5SMSutkPGKr2RD7g-vFtFuWN9Ko39A",Sky Sport F1 HD
+http://smarterapps.ddns.net:8080/f1/fOnE1/index.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sport 1
-http://46.28.55.160:1935/iptv/skysp1/playlist.m3u8
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://lh6.googleusercontent.com/-BGRMhItAkk4/Usgb2O_fAnI/AAAAAAAAGXw/0GdUfLZ4q0c/s93-no/bein-sport-2.png",beIN Sport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?simpletvipadresleri
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReYLPKgEUFg_pHvoLQ9cMdv52Hv9c42STBDEvaqz9dJjet9RbN",beIN Sport 3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?simpletvipadresleri
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kj2yrCo6DJqUhEc7yxqGkLaRW8mxXafWV2ft9OVokKIqcHF7",beIN Sport 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?simpletvipadresleri
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kj2yrCo6DJqUhEc7yxqGkLaRW8mxXafWV2ft9OVokKIqcHF7",beIN Sport 5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?simpletvipadresleri
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kj2yrCo6DJqUhEc7yxqGkLaRW8mxXafWV2ft9OVokKIqcHF7",beIN Sport 6
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?simpletvipadresleri
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kj2yrCo6DJqUhEc7yxqGkLaRW8mxXafWV2ft9OVokKIqcHF7",beIN Sport 7
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/sport7/sport7/sport7.m3u8?simpletvipadresleri
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://3.bp.blogspot.com/-Yv0qojVUmG4/VOjDmBQiOcI/AAAAAAAACyQ/ZYPiP9S7m4c/s1600/Sky-Sports-5-Logo.png",Sky Sports 5 HD
+rtmp://94.23.53.51/send//ss5hd.stream
+#EXTINF:0,BTSports 1 HD
+rtmp://94.23.53.51/send//bt1hd.stream
+#EXTINF:0,BT Sports 2 HD
+rtmp://94.23.53.51/send//bt2hd.stream
+#EXTINF:-1 tvg-logo="Madritv.jpg" tvg-logo="http://douglasduffor.com.br/Madritv.jpg" group-title="ESPORTES INTERNACIONAS", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://37.49.228.134/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=2skys&vw=600&vh=450
+#EXTINF:-1 tvg-logo="extremeS.jpg" tvg-logo="http://douglasduffor.com.br/extremeS.jpg" group-title="ESPORTES INTERNACIONAS", Extreme Sports
+http://edge.ailetv.net/org17/extremesports_me/playlist.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.174.38/live playpath=2skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1skys&vw=600&vh=450
+#EXTINF:-1 tvg-logo="LFCTV.jpg" tvg-logo="http://douglasduffor.com.br/LFCTV.jpg" group-title="ESPORTES INTERNACIONAS",LFC TV
+rtmp://46.246.29.137:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=14r3v56564k5k4q305z4n244z2c4u2z24424v203o2t2y294b4&adx=&stream=64v2e4k5d464u2u2e464w2j5u2j543n23465j4t3p294o4550535t22433133433t2p2s2d4q2z3y20364m26475u575t254y515k3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224y2s203z2j55434d453i524d4n5b4b40364e4g5z2b4y234w2x2c48474y26443z2343434t2y3s2p224r2&sooor=MTc=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", Sky Sport 2
-http://46.28.55.160:1935/iptv/s
+#EXTINF:-1 tvg-logo="ESPNMEX.jpg" tvg-logo="http://douglasduffor.com.br/espn.jpg" group-title="ESPORTES INTERNACIONAS", ESPN USA
+rtmp://213.152.181.12:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3z5b4d4t4w3x2x4h5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=54y2n5i57494y264d4k544b4v2a494n244v4n4y2w2i304c4x4l5t22433133433t2p2s2d4q2z3y20364m274w4y5c403e3a584h3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=OQ==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", Sky Sports 3 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.174.38/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=3skys&vw=600&vh=450
 
-#EXTINF:-1 group-title="UK", Sky Sport 3
-http://46.28.55.160:1935/iptv/skysp3/playlist.m3u8
+#EXTINF:0  tvg-logo="RAISports1.jpg" tvg-logo="http://douglasduffor.com.br/RAISports1.jpg" group-title="ESPORTES INTERNACIONAS", RAI SPORT 1
+http://81.92.105.135:5555/pl.m3u8?channel=534&key=dFju0KcAG30UnrgV7vZZy1mNbbYHpD&client=DEVICE_MAC
 
-#EXTINF:-1 group-title="UK", Sky Sports 4 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.169.35/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=4skys&vw=600&vh=450
+#EXTINF:0  tvg-logo="RAISports2.jpg" tvg-logo="http://douglasduffor.com.br/RAISports2.jpg" group-title="ESPORTES INTERNACIONAS",RAI SPORT 2
+http://81.92.105.135:5555/pl.m3u8?channel=535&key=dFju0KcAG30UnrgV7vZZy1mNbbYHpD&client=DEVICE_MAC
 
-#EXTINF:-1 group-title="UK", Sky Sport 4
-http://46.28.55.160:1935/iptv/skysp4/playlist.m3u8
+#EXTINF:-1  tvg-logo="foxsports.jpg" tvg-logo="http://douglasduffor.com.br/foxsports.jpg" group-title="ESPORTES INTERNACIONAS", FOX SPORTS HD
+http://mojtube.com@200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sports 5 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://89.248.169.35/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=5skys&vw=600&vh=450
+#EXTINF:-1  tvg-logo="foxsports.jpg" tvg-logo="http://douglasduffor.com.br/foxsports.jpg" group-title="ESPORTES INTERNACIONAS", Fox Sports USA
+rtmp://178.18.31.52:443/liverepeater playpath=191781 swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=191781&width=620&height=490 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", Sky Sport 5
-http://46.28.55.160:1935/iptv/skysp5/playlist.m3u8
+#EXTINF:-1  tvg-logo="foxsports.jpg" tvg-logo="http://douglasduffor.com.br/foxsports2.jpg" group-title="ESPORTES INTERNACIONAS" ,Fox Sports 2 USA
+rtmp://178.18.31.51:443/liverepeater playpath=191782 swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=191782&width=620&height=490 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", Sky Sports F1 [B][COLOR orange]FSD[/COLOR][/B]
-http://89.248.172.57:1935/edge/_definst_/udhfbfg0vfzjcds/playlist.m3u8?xs=_we_dWRoZmJmZzB2ZnpqY2RzfDE0NDM2MDE5MTZ8fDU2MGE0YzdjMThiMWJ8MzRiNDgwNjRhMGE2MWIzMzBkY2ZiNWNjOWU4NjNjN2JlZDhkMGI5Zg..
+#EXTINF:-1  tvg-logo="foxsports.jpg" tvg-logo="http://douglasduffor.com.br/foxsports2.jpg" group-title="ESPORTES INTERNACIONAS" , FOX SPORTS 2 HD
+http://mojtube.com@200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sport F1
-http://46.28.55.160:1935/iptv/skysportsf1/playlist.m3u8
+#EXTINF:-1 tvg-logo="FOX3.jpg" tvg-logo="http://douglasduffor.com.br/FOX3.jpg" group-title="ESPORTES INTERNACIONAS", Fox sports 3
+http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sports News [B][COLOR orange]FSD[/COLOR][/B]
-http://158.255.6.224:8080/loadchan.php?chan=71&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1 tvg-logo="BenficaTv1.jpg" tvg-logo="http://douglasduffor.com.br/BenficaTv1.jpg" group-title="ESPORTES INTERNACIONAS", Benfica TV
+http://noscdn1.connectedviews.com:1935/live/nickelodeon.stream/livestream.m3u8
 
-#EXTINF:-1 group-title="UK", Sky Sports News [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://172.86.188.90:1935/livedge/mamahdskynews playPath=mamahdskynews swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN\2018,0,0,232 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskynews&vw=854&vh=480
+#EXTINF:-1 tvg-logo="BenficaTv2.jpg" tvg-logo="http://douglasduffor.com.br/BenficaTv2.jpg" group-title="ESPORTES INTERNACIONAS", Benfica TV 2
+http://servprjsmartv.mine.nu:8888/live/18.04.2015/20.04.2015/20.ts
 
-#EXTINF:-1 group-title="UK", BT Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://93.174.93.196/live playpath=1bt swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=1bt&vw=600&vh=450
+#EXTINF:-1 tvg-logo="BEINSPORTE.jpg" tvg-logo="http://douglasduffor.com.br/BEINSPORTE.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 1HD 
+http://2co1.vp9.tv/chn/bin01/v.m3u8
 
-#EXTINF:-1 group-title="UK", BT Sports 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport1
+#EXTINF:-1 tvg-logo="BEINSPORTE.jpg" tvg-logo="http://douglasduffor.com.br/BEINSPORTE.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 2HD 
+http://2co1.vp9.tv/chn/bin02/v.m3u8
 
-#EXTINF:-1 group-title="UK", BT Sport 1
-http://46.28.55.160:1935/iptv/bt1/playlist.m3u8
+#EXTINF:-1 tvg-logo="BEINSPORTE.jpg" tvg-logo="http://douglasduffor.com.br/BEINSPORTE.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 3HD 
+http://2co1.vp9.tv/chn/bin03/v.m3u8
 
-#EXTINF:-1 group-title="UK", BT Sports 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://134.19.185.252:1935/livedge/mamahdbtsport2
+#EXTINF:-1 tvg-logo="BEINSPORTE.jpg" tvg-logo="http://douglasduffor.com.br/BEINSPORTE.jpg" group-title="ESPORTES INTERNACIONAS", Bein Sport 4HD 
+http://2co1.vp9.tv/chn/bin04/v.m3u8
 
-#EXTINF:-1 group-title="UK", BT Sport 2
-http://46.28.55.160:1935/iptv/bt2/playlist.m3u8
+#EXTINF:-1 tvg-logo="NBATV.jpg" tvg-logo="http://douglasduffor.com.br/NBATV.jpg" group-title="ESPORTES INTERNACIONAS", NBA TV
+http://2co1.vp9.tv/chn/nba/v.m3u8
 
-#EXTINF:-1 group-title="UK", BT Sports ESPN [B][COLOR orange]FSD[/COLOR][/B]
-http://s3.iptvapi.com:8081/BTSespn/index.m3u8
+#EXTINF:-1 tvg-logo="NBATV.jpg" tvg-logo="http://douglasduffor.com.br/NBATV.jpg" group-title="ESPORTES INTERNACIONAS", NBA TV
+rtmp://213.152.180.151:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n244z2c4u2z24424v203o2t2y294b4&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t22433133433t2p2s2d4q2z3y20364m264n5a4k5y36435k4f3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=NQ==&str=is&ok=&cat=2&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", BT Sports EU [B][COLOR orange]FSD[/COLOR][/B]
-rtmpe://134.19.185.252:1935/livedge/mamahdbteu
 
-#EXTINF:-1 group-title="UK", Premier Sport [B][COLOR orange]FSD[/COLOR][/B]
-http://89.248.172.57:1935/edge/_definst_/6kyreuuugcp4jno/playlist.m3u8?xs=_we_Nmt5cmV1dXVnY3A0am5vfDE0NDM2MDIwMTl8fDU2MGE0Y2UzMTY5ZDJ8NGFmMmY2NmE5NTM3MGFhNjdkNTg4NmFkMzhmYjliNmJjOTkwMDM4ZA..
+#EXTINF:-1 tvg-logo="SKYF1.jpg" tvg-logo="http://douglasduffor.com.br/SKYF1.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports F1 HD
+rtmp://89.248.172.159:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=530&height=370 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", EuroSport [B][COLOR orange]FSD[/COLOR][/B]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="SKYF1.jpg" tvg-logo="http://douglasduffor.com.br/SKYF1.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports F1
+rtmp://80.82.78.87:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=530&height=370 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", EuroSport UK [B][COLOR orange]FSD[/COLOR][/B]
-http://live.p2pcast.tv:8010/tv2/500839.m3u8?sf=NTVlM2YwYTBiYTg4Nw==&token=4ouoLcAg93qmnkcaSsEArw|Referer=http://cdn.p2pcast.tv/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
+#EXTINF:-1 tvg-logo="SKYF1.jpg" tvg-logo="http://douglasduffor.com.br/SKYF1.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports F1
+rtmp://46.246.29.132:1935/stream/ playpath=0kJFUS0B1c.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=14c4w4r46555s29374h5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=j5x2n584k57454x2o5h544b4u29423n234r5k3e3p3u3w2o474l5t22433133433t2p2s2d4q2z3y20364m264s5v4s4t3q364k4r2v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTI=&str=is&ok=&cat=10&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", EuroSport 2 UK [B][COLOR orange]FSD[/COLOR][/B]
-http://178.18.30.113:8081/liverepeater/223659/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE1IDU6NTQ6NTQgUE0maGFzaF92YWx1ZT0ydTFQekRWcU1WSnVOc0tQOXdjTENBPT0mdmFsaWRtaW51dGVzPTQ=|Referer=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 1 SD
+rtmp://46.246.29.138:1935/stream/ playpath=6vPuiWkmnW.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=74n42526q595f4g4w555n244z2c4u2z24424v203o2t2y294b4&adx=&stream=54s2j5d474l5t2y2d44434l5s2k5z2n29426q3p494y3j4v5w595t22433133433t2p2s2d4q2z3y20364m2c4361536d4u3t5r5g4v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTg=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", Manchester United TV [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://109.232.224.37:1935/stream/ playPath=o4NLATkOb3.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2018,0,0,232 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m926n746yp4263l4930ob4263b568pn746h441oa665o568pd4930g746sq3344o203om926n746yd4930g746sa665o568pp4263l4930o&width=600&height=460&st=s5t205n4w574x2s2f436q24693u5o37335r5p364r2s243b444840314t2t2c423q2s2r2a4&adx=&stream=h544k5a4a4k57444f4a434g554l5y2n2u584o3a3f4w21374f476w226d3j4x4b3s3e4m3j5t2y34323z3r2a4543474z2z24434q284o2u503k3l4v5v2x2p243x46476o4n4t4c3s3s5p364j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o274a4z2c4k5c4135443w2c4e494y2i5339474z264u2r254u214z2z2h5w2o594e434p2o234z3n204o204&sooor=MTI=&str=is&ok=&cat=1&link=1&idom=thefeed2all.eu
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 2 HD
+rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", Chelsea TV [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://179.43.158.200:1935/stream/ playPath=g0I2LWxCbT.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2018,0,0,232 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m51n649yp7925l8814ob7925b644pn649h199oa548o644pd8814g649sq8026o233om51n649yd8814g649sa548o644pp7925l8814o&width=600&height=460&st=k5p2v4n4w574x2s2f436q24693u5y2i36546d364o3s243b444840314t2t2c423q2s2r2a4&adx=&stream=6454j584j5m574x2d4i5q2k55494b4n2m544j3a3f4w21374f476w226d3j474m3v3r4a3j5q3y34323z3r2a4543474z2z24434q284o2m5w2f3l4v5v2x2p243x46476o4n434n3v356d364j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o264943444d4x264w2a4e4j594c494a4w2y2e4136454u2b4u294d4d45464j564a434p2o234z3n204o204&sooor=NQ==&str=is&ok=&cat=1&link=1&idom=thefeed2all.eu
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 2 SD
+rtmp://46.246.29.155:1935/stream/ playpath=IYo4NHFVNc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=q4u3x594z4u4e3t305h5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=24749494c4n5t264n55444748484y2n2s495l4w2i3j3i38505l5t22433133433t2p2s2d4q2z3y20364m2v4a5w5a4m3f3s445k3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MjU=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", Liverpool TV [B][COLOR blue]HD[/COLOR][/B]
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 3 HD
+rtmp://80.82.78.26:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", At the Races [B][COLOR orange]FSD[/COLOR][/B]
-http://178.18.30.112:8081/liverepeater/196428/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE1IDY6MDY6MTUgUE0maGFzaF92YWx1ZT1NMWJJTVVYc2NTRUJoQ2ZFNmdReGhBPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 3 SD 
+rtmp://46.246.29.159:1935/stream/ playpath=gs5l5skuCm.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=k5k4b4t5a416f4o4p4r5n244z2c4u2z24424v203o2t2y294b4&adx=&stream=84x2m5n584m5z2t2949444l5x2b4x2n2m5z5z2g4t2q4j436p4v5t22433133433t2p2s2d4q2z3y20364m2p506a4u5x2m4t5z593v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=Mjk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", Motors TV [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 4 HD
+rtmp://80.82.78.87:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=16&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", Racing UK [B][COLOR orange]FSD[/COLOR][/B]
-http://178.18.31.56:8081/liverepeater/196429/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDE1IDY6MDg6MDggUE0maGFzaF92YWx1ZT1UU1J2ZHVDRDFTUjhsZ1lxUnVBNDF3PT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 4 SD
+rtmp://46.246.29.159:1935/stream/ playpath=dc7FfEwso4.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=h544d4r4n5r4r4m4x564n244z2c4u2z24424v203o2t2y294b4&adx=&stream=e5w2d4n554k5x2t2e434r2h554i5x2n2j5j513e364g3v416x5a4t22433133433t2p2s2d4q2z3y20364m2m5k5c4s4a4c356x5h4v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=Mjk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1 group-title="UK", Sports Tonight Live HD [B][COLOR blue]HD[/COLOR][/B]
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 5 HD
+rtmp://89.248.171.90:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1 group-title="UK", Setanta Sports [B][COLOR orange]FSD[/COLOR][/B]
-http://37.48.83.131:1935/live/setanta.stream/playlist.m3u8?wowzasessionid=1703238326|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+#EXTINF:-1 tvg-logo="SkySports.jpg" tvg-logo="http://douglasduffor.com.br/SkySports.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports 5 SD
+rtmp://81.17.23.118:1935/stream/ playpath=8QaZfLVfC9.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=94m3j5b5n5y4u394p4b4n244z2c4u2z24424v203o2t2y294b4&adx=&stream=i5t2e4n5d4k554s2n5k5z274w2l543n2b41574y364n3y3o5p4f4t22433133433t2p2s2d4q2z3y20364m2e425i5c5a4j385k593v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=Mg==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="SPORTENEWSSKY.jpg" tvg-logo="http://douglasduffor.com.br/SPORTENEWSSKY.jpg" group-title="ESPORTES INTERNACIONAS", Sky sports News
+rtmp://213.152.181.12:1935/stream/ playpath=1KnYJyfnK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3w5a5v476a4h4x474n244z2c4u2z24424v203o2t2y294b4&adx=&stream=g5q2c4e4k5e4v244j54434b474a4z2n244v4k4x3e3w4e4w5x4b4t22433133433t2p2s2d4q2z3y20364m274w4v5b5i3s4o5s5h3v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=OQ==&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
 
-#EXTINF:-1,NBC Sports Golf 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBC Sports Golf 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBC Sports Network 720P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBCSN Live Extra 1080p
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBCSN Live Extra 720p
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="BTSports.jpg" tvg-logo="http://douglasduffor.com.br/BTSports.jpg" group-title="ESPORTES INTERNACIONAS", BT sport 1
+rtmp://46.246.29.136:1935/stream/ playpath=NdTaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=v45465i595f4d3j4m524n244z2c4u2z24424v203o2t2y294b4&adx=&stream=14v2o5m58484w2r2742474i5r2h5d4n2x4k5u354s343h3y5m564t22433133433t2p2s2d4q2z3y20364m205l555j5w303r4u564v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTY=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="BTSports.jpg" tvg-logo="http://douglasduffor.com.br/BTSports.jpg" group-title="ESPORTES INTERNACIONAS", BT sport 2
+rtmp://46.246.29.139:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=u5y2m5459474c3o3e435n244z2c4u2z24424v203o2t2y294b4&adx=&stream=h5v2e464k594s20384b4w2k5x2b4e4n2w5d4a4r3s2w2g335e475t22433133433t2p2s2d4q2z3y20364m2z5e4l555w2s2q4z4y2v383v5o4e4k5o3t3546484q4r5z334v4y3s2p224w2w28403n5v294231374y284m564o584y2d48444g5v254b4y2k5l5b4w2q2d4y2343434t2y3s2p224r2&sooor=MTk=&str=is&ok=&cat=1&link=1&idom=www.gofeed2all.eu
+
+#EXTINF:-1 tvg-logo="WWE.jpg" tvg-logo="http://douglasduffor.com.br/WWE.jpg" group-title="ESPORTES INTERNACIONAS", WWE network
+rtmp://89.248.172.159:443/liverepeater playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=530&height=370 token=#atd%#$ZH 
+
+#EXTINF:-1 tvg-logo="euroesport.jpg" tvg-logo="http://douglasduffor.com.br/euroesport.jpg" group-title="ESPORTES INTERNACIONAS", Euro sport 
+rtmp://94.102.49.126:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=28&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="euroesport.jpg" tvg-logo="http://douglasduffor.com.br/euroesport.jpg" group-title="ESPORTES INTERNACIONAS", Euro sport 2
+rtmp://94.102.49.126:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=21&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo="ENGLITV.jpg" tvg-logo="http://douglasduffor.com.br/ENGLITV.jpg" group-title="ESPORTES INTERNACIONAS", English Tv
+rtmp://31.220.0.195:80/live app=live swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=nbar&vw=620&vh=490 playpath=nbar live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:-1 tvg-logo="action24.jpg" tvg-logo="http://douglasduffor.com.br/action24.jpg" group-title="ESPORTES INTERNACIONAS", Action 24
+rtsp://live.cdn2.streamago.tv/streamago/52721/44490/?idcanale=44490
+
+#EXTINF:-1 tvg-logo="espn.jpg" tvg-logo="http://douglasduffor.com.br/espn.jpg" group-title="ESPORTES INTERNACIONAS", ESPN UK
+rtmp://141.255.160.198:1935/stream/ playpath=J3IwstxSV2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=r4s2v4460626s4q38544n244z2b4u2y2542403t2m20323&adx=&stream=94p2o5e4d4a4t244b4f5x2h5v2k5a4n2t474j3r4j4r4w4558584t22433033423u2p2x264o26423u2r4s2v4460626s4q385u384o5l4k5e4h436x3r2r4l2s2t234j57413j584w2542394t2t2j5v28443y264s29454e4e4w284e484r2346484y2w20414r2p2l2s2t23434&sooor=Mw==&str=is&ok=&cat=16&link=1&idom=firstrowpt.eu
+ 
+#EXTINF:-1 tvg-logo="espn.jpg" tvg-logo="http://douglasduffor.com.br/espn.jpg" group-title="ESPORTES INTERNACIONAS", ESPN1 HD MEX
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="espn.jpg" tvg-logo="http://douglasduffor.com.br/espn.jpg" group-title="ESPORTES INTERNACIONAS", ESPN1 MEX
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="espn2.jpg" tvg-logo="http://douglasduffor.com.br/espn2.jpg" group-title="ESPORTES INTERNACIONAS", ESPN2 MEX
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="espn3.jpg" tvg-logo="http://douglasduffor.com.br/espn3.jpg" group-title="ESPORTES INTERNACIONAS", ESPN3 MEX (Campeonato PT)
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
+
+#EXTINF:-1 tvg-logo="TSN.jpg" tvg-logo="http://douglasduffor.com.br/TSN.jpg" group-title="ESPORTES INTERNACIONAS", TSN 1 720 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:-1 tvg-logo="TSN.jpg" tvg-logo="http://douglasduffor.com.br/TSN.jpg" group-title="ESPORTES INTERNACIONAS", TSN 3 720 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:-1 tvg-logo="TSN.jpg" tvg-logo="http://douglasduffor.com.br/TSN.jpg" group-title="ESPORTES INTERNACIONAS", TSN 4 720 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+
+#EXTINF:-1 tvg-logo="TSN.jpg" tvg-logo="http://douglasduffor.com.br/TSN.jpg" group-title="ESPORTES INTERNACIONAS", TSN 5 720 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+ 
+#EXTINF:-1 tvg-logo="AUTOTV.jpg" tvg-logo="http://douglasduffor.com.br/AUTOTV.jpg" group-title="ESPORTES INTERNACIONAS", AutoSport TV
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://www.mobiles24.com/static/previews/downloads/icon/335/ICOS-576892-x9CJNvNuFC-1.png",Sky Sports News
+rtmp://94.23.53.51/send//ssnewshd.stream
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://4.bp.blogspot.com/-VJzuF81HHUs/VOjDS4MQOjI/AAAAAAAACxw/yedFVM3UMvU/s1600/Sky_Sports_1_2010.png",Sky Sport 1 HD
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8?wowzasessionid=1472991505
+ 
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://1.bp.blogspot.com/-mHQcX1XWn8c/VOjDYC6WFcI/AAAAAAAACx4/NC60cTkN5hM/s1600/Sky_Sports_2_2010.png",Sky Sport 2 HD
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8?wowzasessionid=976997699
+ 
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://2.bp.blogspot.com/-rj7uNAEc-Mk/VOjDdB9gNjI/AAAAAAAACyA/miyPL5Md1ow/s1600/SkySportsLiveStream.png",Sky Sport 3 HD
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8?wowzasessionid=1081103801
+
+#EXTINF:-1  group-title="SPORT TV" tvg-logo="http://1.bp.blogspot.com/-zLazwX2Ljcw/VOjDhqbY5LI/AAAAAAAACyI/LZgCPoHn_9g/s1600/sky-sports-4.png",Sky Sport 4 HD
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8?wowzasessionid=231984750
+#EXTINF:-1  group-title="SPORT TV" ,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,EUROSPOR DE
+http://5.189.144.85:1935/live/eurosport_de/playlist.m3u8?auth=test
+#EXTINF:-1  group-title="SPORT TV" ,EUROSPORT
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=17 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1  group-title="SPORT TV" ,EUROSPORT
+rtmp://104.219.250.222/live?token=Hzlo0Y09rljqNikbK23wYwExpired=1430978720<playpath>ver9exm6xg <swfUrl>http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 <pageUrl>http://1broadcastlive.com/embed/embed.php?channel=kasimirotv6&w=670&h=400
+#EXTINF:-1  group-title="SPORT TV" ,EUROSPORT HD (RUS)
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,EUROSPORT 2 (RUS)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
+ 
+ 
+#EXTINF:-1  group-title="SPORT TV" ,PREMIERE SPORTS
+rtmp://41.242.151.2:80/live/premiersport pageUrl=http://reytv.co token=%Zrey(nKa@#Z
+#EXTINF:-1  group-title="SPORT TV" ,SPORT TV 1
+rtmp://213.152.181.10:1935/stream/ playpath=hGcqN4NBx0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/magellan
+#EXTINF:-1  group-title="SPORT TV" ,SPORT TV 2
+rtmp://213.152.181.11:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=14b326o5d44684g3n505n2b4w214y2u25424v2z2s2t2z2f4&ad.x=&stream=245474b4n5c494y2848464h5w2h5x2n234q4q4b4w2t4c4v4n545t29403q274y2u2p2s2c4u2z3z263y3p2s416o5e4q474v4j5i2k4j4v5k474n33574.a414p4h4z334x5t2y3s2p2e4x2t264s2m5u2h51333a4p2j564m5840374b4a4649484i5b4r254i5x29444y2t2343434t2y3s2p224&sooor=MjA=&str=is&ok=&c.at=1&link=5&idom=www.gofeed2all.eu/magellan
+#EXTINF:-1  group-title="SPORT TV" ,SPORT TV 3/BTV
+rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/magellan
+#EXTINF:-1  group-title="SPORT TV" ,ESPN_BRASIL
+rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/
+#EXTINF:-1  group-title="SPORT TV" ,SILK 1 
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1  group-title="SPORT TV" ,SILK 2
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1  group-title="SPORT TV" ,BT SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=28 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1  group-title="SPORT TV" ,BTSports 1 
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?wowzasessionid=1550867403
+#EXTINF:-1  group-title="SPORT TV" ,BT Sports 2 HD
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?wowzasessionid=1989000340
+#EXTINF:0,3Sport 1
+http://93.184.221.133/00573D/236/236-0.m3u8
+#EXTINF:0,3Sport
+http://93.184.221.133/00573D/837/837-0.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,TRT SPORT
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt3/ playpath=mp4:trt3 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt3
+#EXTINF:-1  group-title="SPORT TV" ,HRT 2
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,Sport 1 HD
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,ntv+futbol 1 SD ru
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,ntv+futbol 2 SD ru
+http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-50.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,ntv+futbol 2 HD ru
+http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-70.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1  group-title="SPORT TV" ,Football HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,Our Football HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,Viasat Sport HD
+http://46.61.226.18/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" ,Viasat Golf HD
+http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1  group-title="SPORT TV" , Sky Sports 1
+http://apniapps.ddns.net:8080/sp1/sp1/index.m3u8
+#EXTINF:-1  group-title="SPORT TV" , Sky Sports 2
+http://apniapps.ddns.net:8080/sp2/sp2/index.m3u8
+#EXTINF:-1  group-title="SPORT TV" , Sky Sports 3
+http://apniapps.ddns.net:8080/sp3/sp3/index.m3u8
+#EXTINF:-1  group-title="SPORT TV" , Sky Sports 4
+http://apniapps.ddns.net:8080/sp4/sp4/index.m3u8
+#EXTINF:-1  group-title="SPORT TV" , Sky Sports 5
+http://apniapps.ddns.net:8080/sp5/sp5/index.m3u8
+#EXTINF:-1  group-title="SPORT TV" , Sky Sports F1
+http://apniapps.ddns.net:8080/f1/f1/index.m3u8
+ 
+#EXTINF:-1  group-title="SPORT TV" , Canal + HD Deportes
+rtmp://66.55.92.168/app/avision28s-channel
+ 
+#EXTINF:-1  group-title="SPORT TV" , BeIN Sports 2 HD
+http://46.101.38.155/ss/b2/index.m3u8?v=v=3109559052&token=sib553a5af9a85b9
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://i.imgur.com/cc4u8y5.jpg",A Spor (Turchia)
+http://hls.turkuvazgroup.net/aspor/aspor3/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/antena3.jpg",Antena 3 (Spagna)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://4.bp.blogspot.com/-GkPK1eLNzj8/VOjOPwSZsxI/AAAAAAAACyw/Ttv01tmcxQM/s1600/bt-sport1.jpg",BT Sport 1 (Inglese)
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://2.bp.blogspot.com/-kUwcricvVEw/VOjOUKfuVPI/AAAAAAAACy4/GjNxWeHyrE4/s1600/BT-Sport-2-upasona.com_.jpg",BT Sport 2 (Inglese)
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/espnhd.jpg",ESPN UK (Inglese)
+http://195.154.227.38:1935/live/espnuklsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/eurosport.jpg",Eurosport
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/eurosport.jpg",Eurosport (Russia)
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/eurosport2.jpg",Eurosport 2 (Russia)
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://mebuscan.net/Logos/ntv_plus_futbol1HD.jpg",NTV+ Futbol 1 (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://mebuscan.net/Logos/ntv_plus_futbol1HD.jpg",NTV+ Futbol 1 HD (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://mebuscan.net/Logos/ntv_plus_futbol1HD.jpg",NTV+ Futbol 2 (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2SD/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://mebuscan.net/Logos/ntv_plus_futbol1HD.jpg",NTV+ Futbol 2 HD (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://mebuscan.net/Logos/ntv_plus_futbol1HD.jpg",NTV+ Futbol 3 (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://mebuscan.net/Logos/ntv_plus_futbol1HD.jpg",NTV+ Futbol 3 HD (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://4.bp.blogspot.com/-VJzuF81HHUs/VOjDS4MQOjI/AAAAAAAACxw/yedFVM3UMvU/s1600/Sky_Sports_1_2010.png",Sky Sport 1 (Tedesco)
+http://195.154.227.38:1935/live/sky1delsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://4.bp.blogspot.com/-VJzuF81HHUs/VOjDS4MQOjI/AAAAAAAACxw/yedFVM3UMvU/s1600/Sky_Sports_1_2010.png",Sky Sports 1 (Inglese)
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://1.bp.blogspot.com/-mHQcX1XWn8c/VOjDYC6WFcI/AAAAAAAACx4/NC60cTkN5hM/s1600/Sky_Sports_2_2010.png",Sky Sports 2 (Inglese)
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://2.bp.blogspot.com/-rj7uNAEc-Mk/VOjDdB9gNjI/AAAAAAAACyA/miyPL5Md1ow/s1600/SkySportsLiveStream.png",Sky Sports 3 (Inglese)
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://1.bp.blogspot.com/-zLazwX2Ljcw/VOjDhqbY5LI/AAAAAAAACyI/LZgCPoHn_9g/s1600/sky-sports-4.png",Sky Sports 4 (Inglese)
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://3.bp.blogspot.com/-Yv0qojVUmG4/VOjDmBQiOcI/AAAAAAAACyQ/ZYPiP9S7m4c/s1600/Sky-Sports-5-Logo.png",Sky Sports 5 (Inglese)
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/SkySportsF1.jpg",Sky Sports F1 (Inglese)
+http://195.154.227.38:1935/live/skysportsf1lsh/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/RUS%2BSport%2B1.jpg",Sport 1 (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="Images/RUS%2BSport%2B1.jpg",Sport 1 (Russia)
+http://testlivestream.rfn.ru/live/smil:sport1hd.smil/playlist.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://www.canlitvturk.net/wp-content/uploads/2013/12/trt-3-spor-izle-146x110.png",TRT 3 Spor (Turchia)
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1  group-title="NEW SPORT" tvg-logo="http://content.tvprograma.lt/logo/220x80_0_21428900_1381301564m.png",Viasat Sport (Russia)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
