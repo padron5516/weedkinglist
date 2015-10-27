@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 1 
+plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream&mode=1&name=SKY SPORTS 1
+
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 2 
+plugin://program.plexus/?mode=1&url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream&mode=1&name=SKY SPORTS 2
+
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 3 
+plugin://program.plexus/?mode=1&url=acestream://2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
+
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 4 
+plugin://program.plexus/?mode=1&url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream&mode=1&name=SKY SPORTS 4
+
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS 5
+plugin://program.plexus/?mode=1&url=acestream://37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream&mode=1&name=SKY SPORTS 5
+
+#EXTINF:-1 group-title="PLEXUS", SKY SPORTS F1 
+plugin://program.plexus/?mode=1&url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
+
+#EXTINF:-1 group-title="PLEXUS", SUPER TENNIS 
+plugin://program.plexus/?mode=1&url=acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream&mode=1&name=SUPER TENNIS
+
+
+#EXTINF:-1,Sky Sports 1 (PLEXUS P2P)
+plugin://program.plexus/?url=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+title
+#EXTINF:-1,Sky Sports 2 (PLEXUS P2P)
+plugin://program.plexus/?url=e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+title
+#EXTINF:-1,Sky Sports 3 (PLEXUS P2P)
+plugin://program.plexus/?url=2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream+title
+#EXTINF:-1,Sky Sports 4 (PLEXUS P2P)
+plugin://program.plexus/?url=5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+title
+#EXTINF:-1,Sky Sports 5 (PLEXUS P2P)
+plugin://program.plexus/?url=37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream+title
+#EXTINF:-1,Sky Sports F1 (PLEXUS P2P)
+plugin://program.plexus/?url=02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+title
+#EXTINF:-1,BT Sport 1 (PLEXUS P2P)
+plugin://program.plexus/?url=dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+title
+#EXTINF:-1,BT Sport 2 (PLEXUS P2P)
+plugin://program.plexus/?url=7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream+title
+#EXTINF:-1,BT Sport ESPN (PLEXUS P2P)
+plugin://program.plexus/?url=19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+title
+#EXTINF:-1,Premier Sports (PLEXUS P2P)
+plugin://program.plexus/?url=fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream+title
+#EXTINF:-1,Setanta Sports + HD (PLEXUS P2P)
+plugin://program.plexus/?url=0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream+title
+#EXTINF:-1,Eurosport British (PLEXUS P2P)
+plugin://program.plexus/?url=268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+title
+#EXTINF:-1,Eurosport 2 British (PLEXUS P2P)
+plugin://program.plexus/?url=7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream+title
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PLEXUS", BT SPORT 1 
+plugin://program.plexus/?mode=1&url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream&mode=1&name=BT SPORT 1
+
+#EXTINF:-1 group-title="PLEXUS", BT SPORT 2 
+plugin://program.plexus/?mode=1&url=acestream://7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream&mode=1&name=BT SPORT 2
+
+#EXTINF:-1 group-title="PLEXUS", BT SPORT/ESPN
+plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream&mode=1&name=BT SPORT/ESPN
+
+#EXTINF:-1 group-title="PLEXUS", EUROSPORT BRITISH 
+plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH
+
+
+#EXTINF:-1 group-title="PLEXUS", EUROSPORT 2 BRITISH 
+plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT 2 BRITISH
+
+#EXTINF:-1 group-title="PLEXUS", EXTREME SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://7c34839b5079a058fad6962447e77166374592a5&mode=1&name=acestream&mode=1&name=EXTREME SPORTS
+
+
+#EXTINF:-1 group-title="PLEXUS", MOTORS TV 
+plugin://program.plexus/?mode=1&url=acestream://84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream&mode=1&name=MOTORS TV
+
+
+#EXTINF:-1 group-title="PLEXUS", PREMIER SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+
+#EXTINF:-1 group-title="PLEXUS", SETANTA SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS
+
+
