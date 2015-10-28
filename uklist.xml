@@ -78,19 +78,24 @@
 <thumbnail>http://theident.gallery/skynewshd/2010/SNHD-2010-STING-1-2.jpg</thumbnail>
 </item>
 <item>
-<title>Sky Movies Action HD TEST>
-<link>http://www.freeredirectservice.tk/redir/115.ts|User-agent=MXPlayer/1.7.38</link>
-<thumbnail>http://img3.wikia.nocookie.net/__cb20100420142500/logopedia/images/1/13/Sky_Movies_Action_%26_Adventure_ident.jpg</thumbnail>
+<title>QVC UK HD >
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/48/QVC.svg/948px-QVC.svg.png</thumbnail>
 </item>
 <item>
-<title>Sky Movies Comedy HD TEST</title>
-<link>http://www.freeredirectservice.tk/redir/118.ts|User-agent=MXPlayer/1.7.38</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/0d/Sky_Movies_Comedy_ident.jpg/revision/latest/scale-to-width-down/640?cb=20100429061252</thumbnail>
+<title>QVC PLUS HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/61KfxmW7caL.png</thumbnail>
 </item>
 <item>
-<title>SkyMovies Premiere HD TEST</title>
-<link>http://www.freeredirectservice.tk/redir/116.ts|User-agent=MXPlayer/1.7.38</link>
-<thumbnail>http://www.proclaimers.co.uk/wp-content/uploads/2014/07/SKYM-2009-PREMIERE-BUMPER-1-2.jpg</thumbnail>
+<title>QVC STYLE HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
+<thumbnail>https://assets.tvplayer.com/common/logos/256/Inverted/249.png</thumbnail>
+</item>
+<item>
+<title>QVC BEAUTY HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
 </item>
 
 </stream>
