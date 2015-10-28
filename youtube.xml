@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<oembed>
+<width>480</width>
+<title>Drag Week 2015 Test & Tune Night!</title>
+<author_url>https://www.youtube.com/user/1320video</author_url>
+<html>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/videoseries?list=PLkekz7OLX4Q7_1aaWH4ONlhz6-TCsPiPn" frameborder="0" allowfullscreen></iframe>
+</html>
+<thumbnail_width>480</thumbnail_width>
+<version>1.0</version>
+<thumbnail_url>https://i.ytimg.com/vi/db6PIIsjmuc/hqdefault.jpg</thumbnail_url>
+<type>video</type>
+<height>270</height>
+<thumbnail_height>360</thumbnail_height>
+<provider_name>YouTube</provider_name>
+<provider_url>https://www.youtube.com/</provider_url>
+<author_name>1320video</author_name>
+</oembed>
+<oembed>
+<author_url>https://www.youtube.com/user/1320video</author_url>
+<author_name>1320video</author_name>
+<height>270</height>
+<title>SPOOLBUS Goes Street Racing!</title>
+<provider_name>YouTube</provider_name>
+<thumbnail_url>https://i.ytimg.com/vi/-z2OHZX2_-Y/hqdefault.jpg</thumbnail_url>
+<version>1.0</version>
+<type>video</type>
+<html>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/videoseries?list=PLkekz7OLX4Q499UaQ2nwBEGLbBpKaP8AX" frameborder="0" allowfullscreen></iframe>
+</html>
+<width>480</width>
+<thumbnail_height>360</thumbnail_height>
+<provider_url>https://www.youtube.com/</provider_url>
+<thumbnail_width>480</thumbnail_width>
+</oembed>
