@@ -1,42 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+ 
+&lt;item&gt;
+&lt;title&gt;Sky Sports 1&lt;/title&gt;
+&lt;link&gt;http://s01.cstalking.com:8000/live/oliver/oliver/318.ts&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
+&lt;item&gt;
+&lt;title&gt;Sky Sports 2&lt;/title&gt;
+&lt;link&gt;http://s01.cstalking.com:8000/live/oliver/oliver/319.ts&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
+&lt;item&gt;
+&lt;title&gt;Sky Sports 3&lt;/title&gt;
+&lt;link&gt;http://s01.cstalking.com:8000/live/oliver/oliver/321.ts&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
+&lt;item&gt;
+&lt;title&gt;Sky Sports 4&lt;/title&gt;
+&lt;link&gt;rtmp://80.82.65.162/live playpath=vskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys4&amp;vw=620&amp;vh=490&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR red]ESPN USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPNUS&amp;cm=963&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>
-<item><title>[COLOR blue]ESPN 2 USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2US/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPN2US&amp;cm=2355&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>
-<item><title>[COLOR blue]ESPNU  USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNUUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPNUUS&amp;cm=979&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
-<item><title>[COLOR blue]ESPN news  USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNewsUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPNewsUS&amp;cm=2353&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>   
+&lt;item&gt;
+&lt;title&gt;Sky Sports 5&lt;/title&gt;
+&lt;link&gt;rtmp://80.82.65.162/live playpath=vskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys5&amp;vw=620&amp;vh=490&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]Fox Sports 1  USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports1HD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=FoxSports1HD&amp;cm=190&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
+&lt;item&gt;
+&lt;title&gt;Sky Sports news&lt;/title&gt;
+&lt;link&gt;http://finalmente.hopto.org:8000/live/rino/rino/1241.m3u8&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]Fox Sports Florida  USA[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsFloridaUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=FoxSportsFloridaUS&amp;cm=4840&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 	
+&lt;item&gt;
+&lt;title&gt;Sky Sports F1&lt;/title&gt;
+&lt;link&gt;http://s01.cstalking.com:8000/live/oliver/oliver/322.ts&lt;/link&gt;
+&lt;thumbnail&gt;https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]Fox College Sports  USA [/COLOR]</title><link>http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8</link></item> <item><title>[COLOR hotpink]Fox Soccer[/COLOR]</title><link>http://54.177.195.82/server/play/fspctg/3964000/prog.m3u8?anv=1427415219896|X-Forwarded-For=66.171.228.102</link><thumbnail/><fanart/></item>
+&lt;item&gt;
+&lt;title&gt;BT Sport 1&lt;/title&gt;
+&lt;link&gt;rtmp://195.154.154.115:1935/goLive/btsports1_93bmm8fu&lt;/link&gt;
+&lt;thumbnail&gt;http://i1.cdnds.net/13/06/300x225/media-bt-sport-logo.jpg&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]MLB Network[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MLBNetworkHD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=MLBNetworkHD&amp;cm=192&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
+&lt;item&gt;
+&lt;title&gt;BT Sport 2&lt;/title&gt;
+&lt;link&gt;http://195.154.226.186:1935/lol/btsports2lsh/playlist.m3u8&lt;/link&gt;
+&lt;thumbnail&gt;http://i1.cdnds.net/13/06/300x225/media-bt-sport-logo.jpg&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]Motor Sport[/COLOR]</title><link>http://motorsport.hopto.org:8080/</link><thumbnail></thumbnail><fanart>http://sources.streamstorm.com/images/thumbs/fanart.jpg</fanart></item>
+&lt;item&gt;
+&lt;title&gt;BT Sport Europe&lt;/title&gt;
+&lt;link&gt;http://195.154.226.186:1935/lol/bteulsh/playlist.m3u8&lt;/link&gt;
+&lt;thumbnail&gt;http://i1.cdnds.net/13/06/300x225/media-bt-sport-logo.jpg&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]NBA TV[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NBATVUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=NBATVUS&amp;cm=2347&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>
+&lt;item&gt;
+&lt;title&gt;ESPN UK&lt;/title&gt;
+&lt;link&gt;http://195.154.226.186:1935/lol/espnuklsh/playlist.m3u8&lt;/link&gt;
+&lt;thumbnail&gt;https://lh4.ggpht.com/FAD0NrFqBIRNrDEUAeTK2N0y_u_h-s2LaGs3YzJ0LIpHtQ-nmLl7sxcPaYsQZqFISVM=w300&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]NBC Golf[/COLOR]</title><link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link><thumbnail>http://www.golfdigest.com/golf-tours-news/blogs/local-knowledge/NBC.jpeg</thumbnail></item>		
+&lt;item&gt;
+&lt;title&gt;Eurosport 1&lt;/title&gt;
+&lt;link&gt;http://195.154.226.186:1935/lol/espnuklsh/playlist.m3u8&lt;/link&gt;
+&lt;thumbnail&gt;https://lh4.ggpht.com/FAD0NrFqBIRNrDEUAeTK2N0y_u_h-s2LaGs3YzJ0LIpHtQ-nmLl7sxcPaYsQZqFISVM=w300&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;
 
-<item><title>[COLOR blue]NBC Sports Network[/COLOR]</title><link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8</link><thumbnail></thumbnail></item>	
-
-<item><title>[COLOR blue]NFL Network {Link 2}[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NFLNetworkUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=NFLNetworkUS&amp;cm=1003&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
-
-<item><title>[COLOR blue]NHL Network[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NHLNetworkHD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=NHLNetworkHD&amp;cm=194&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
-
-<item><title>[COLOR blue]PAC 12 Sport Time TV [/COLOR]</title><link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link><thumbnail></thumbnail><fanart>http://sources.streamstormtv.com.com/images/thumbs/fanart.jpg</fanart></item>
-
-<item><title>[COLOR hotpink]PAC 12 Arizona[/COLOR]</title><link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link><fanart>http://sources.streamstormtv.com/images/thumbs/fanart.jpg</fanart></item>
-
-<item><title>[COLOR hotpink]PAC 12 Bay Area[/COLOR]</title><link>http://xrxs.net/video/live-p12baya-2328.m3u8</link><thumbnail>http://i.imgur.com/2PepAmI.jpg</thumbnail><fanart></fanart></item>		
-
-<item><item><title>[COLOR hotpink]PAC 12 LA[/COLOR]</title><link>http://xrxs.net/video/live-p12losa-2328.m3u8</link><thumbnail>http://i.imgur.com/2PepAmI.jpg</thumbnail><fanart>http://sources.streamstormtv.com/images/thumbs/fanart.jpg</fanart></item><item>
-
-<item><title>[COLOR hotpink]PAC 12 Mountain[/COLOR]</title>        <link>http://xrxs.net/video/live-p12moun-4728.m3u8</link><thumbnail></thumbnail><fanart>http://sources.streamstormtv.com/images/thumbs/fanart.jpg</fanart></item><item><item><title>[COLOR hotpink]PAC 12 National [/COLOR]</title><link>http://xrxs.net/video/live-p12netw-2328.m3u8</link><fanart>http://sources.streamstormtv.com/images/thumbs/fanart.jpg</fanart></item><item><item><title>[COLOR hotpink]PAC 12 Oregon[/COLOR]</title>       <link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link><thumbnail></thumbnail><fanart>http://sources.streamstormtv.com/images/thumbs/fanart.jpg</fanart></item>	<item><title>[COLOR hotpink]Racing UK ***[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/racinguk.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=racinguk.stream&amp;cm=2477&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]Setena Sport ***[/COLOR]</title><link>$doregex[getM3U8]</link><regex><name>getM3U8</name><expres>controls.*src="(.*?)"</expres><page>http://m.streamlive.to/view/70189</page></regex></item><item><title>[COLOR hotpink]Tennis Channel[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TennisChannelUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=TennisChannelUS&amp;cm=4850&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]Big Ten Network[/COLOR]</title><link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link><thumbnail>http://i.imgur.com/QkyhsB4.png</thumbnail></item><item><title>[COLOR hotpink]CBS Sports Network[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CBSSportsNetworkUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=CBSSportsNetworkUS&amp;cm=2359&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> 						<item><title>[COLOR hotpink]ASTRO SUPERSPORT[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro1.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=astro1.stream&amp;cm=2471&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]ASTRO SUPERSPORT 2[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro2.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=astro2.stream&amp;cm=2473&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]ASTRO SUPERSPORT 3[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/astro3.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=astro3.stream&amp;cm=2475&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]At The Races[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/attheraces.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=attheraces.stream&amp;cm=553&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>	<item><title>[COLOR hotpink]BT Sports 1[/COLOR]</title><link>http://lb.iptvserver.tv:8080/LiveEdge/btsport1.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=btsport1.stream&amp;cm=2479&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]BT Sports 2[/COLOR]</title><link>http://lb.iptvserver.tv:8080/LiveEdge/btsport2.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=btsport2.stream&amp;cm=2481&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]Box Nation[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/boxnation.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=boxnation.stream&amp;cm=2449&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>		<item><title>[COLOR hotpink]Sky sports 1[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp1.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=skysp1.stream&amp;cm=2459&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]Sky sports 2[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp2.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=skysp2.stream&amp;cm=2461&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Sky sports 3[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp3.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=skysp3.stream&amp;cm=2469&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Sky sports 4[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp4.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=skysp4.stream&amp;cm=2465&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Sky sports 5[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp5.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=skysp5.stream&amp;cm=2467&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]Sky sports F1[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/skyspf1.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=skyspf1.stream&amp;cm=2457&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Sky sports news[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SKYSPNews.stream/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=SKYSPNews.stream&amp;cm=2101&amp;nombre=US.m3u8</page><referer>http://wcm777.la/</referer><setcookie>programa=rosadintv</setcookie></regex></item>
-
-<item><title>[COLOR hotpink]Bein Sports[/COLOR] * </title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=BeinSportsLA&amp;cm=2527&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]ESPN[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPNLA&amp;cm=2487&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]ESPN 2[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2LASD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPN2LASD&amp;cm=301&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]ESPN 3[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN3LASD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=ESPN3LASD&amp;cm=3806&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]F1 Racing[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/F1LA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=F1LA&amp;cm=1695&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Fox Sports[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=FoxSportsLA&amp;cm=2505&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Fox Sports 2[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports2SD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=FoxSports2SD&amp;cm=475&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Fox Sports 3[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/FoxSports3SD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=FoxSports3SD&amp;cm=445&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Golf Channel[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GolfChannelLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=GolfChannelLA&amp;cm=1489&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Planeta Futbol[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&amp;cm=1477&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item>  <item><title>[COLOR hotpink]TDN Mexico[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TDNMXLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=TDNMXLA&amp;cm=1059&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item> <item><title>[COLOR hotpink]Univision TDN[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=UnivisionTDNLA&amp;cm=1483&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item><item><title>[COLOR hotpink]UFC Network[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=UFCNetworkLA&amp;cm=1047&amp;nombre=US.m3u8</page><referer>http://wcm777.la</referer><setcookie>programa=rosadintv</setcookie></regex></item>
+&lt;item&gt;
+&lt;title&gt;Eurosport 2&lt;/title&gt;
+&lt;link&gt;http://195.154.226.186:1935/lol/vesp2lsh/playlist.m3u8&lt;/link&gt;
+&lt;thumbnail&gt;https://lh4.ggpht.com/FAD0NrFqBIRNrDEUAeTK2N0y_u_h-s2LaGs3YzJ0LIpHtQ-nmLl7sxcPaYsQZqFISVM=w300&lt;/thumbnail&gt;
+&lt;fanart&gt;&lt;/fanart&gt;
+&lt;/item&gt;</pre></body></html>
