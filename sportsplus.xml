@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+ 
+<item>
+<title>Sky Sports 1</title>
+<link>http://s01.cstalking.com:8000/live/oliver/oliver/318.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>http://s01.cstalking.com:8000/live/oliver/oliver/319.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>http://s01.cstalking.com:8000/live/oliver/oliver/321.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>rtmp://80.82.65.162/live playpath=vskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys4&vw=620&vh=490</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports 5</title>
+<link>rtmp://80.82.65.162/live playpath=vskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=vskys5&vw=620&vh=490</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports news</title>
+<link>http://finalmente.hopto.org:8000/live/rino/rino/1241.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>http://s01.cstalking.com:8000/live/oliver/oliver/322.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link>rtmp://195.154.154.115:1935/goLive/btsports1_93bmm8fu</link>
+<thumbnail>http://i1.cdnds.net/13/06/300x225/media-bt-sport-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BT Sport 2</title>
+<link>http://195.154.226.186:1935/lol/btsports2lsh/playlist.m3u8</link>
+<thumbnail>http://i1.cdnds.net/13/06/300x225/media-bt-sport-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>http://195.154.226.186:1935/lol/bteulsh/playlist.m3u8</link>
+<thumbnail>http://i1.cdnds.net/13/06/300x225/media-bt-sport-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ESPN UK</title>
+<link>http://195.154.226.186:1935/lol/espnuklsh/playlist.m3u8</link>
+<thumbnail>https://lh4.ggpht.com/FAD0NrFqBIRNrDEUAeTK2N0y_u_h-s2LaGs3YzJ0LIpHtQ-nmLl7sxcPaYsQZqFISVM=w300</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurosport 1</title>
+<link>http://195.154.226.186:1935/lol/espnuklsh/playlist.m3u8</link>
+<thumbnail>https://lh4.ggpht.com/FAD0NrFqBIRNrDEUAeTK2N0y_u_h-s2LaGs3YzJ0LIpHtQ-nmLl7sxcPaYsQZqFISVM=w300</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>http://195.154.226.186:1935/lol/vesp2lsh/playlist.m3u8</link>
+<thumbnail>https://lh4.ggpht.com/FAD0NrFqBIRNrDEUAeTK2N0y_u_h-s2LaGs3YzJ0LIpHtQ-nmLl7sxcPaYsQZqFISVM=w300</thumbnail>
+<fanart></fanart>
+</item>
