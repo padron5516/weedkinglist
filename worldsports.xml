@@ -114,24 +114,7 @@
 <thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-    <item>
-        <title>[COLOR red]Werkt soms wel, soms niet[/COLOR]</title>
-        <thumbnail></thumbnail>
-	<link>http://ignoreme</link>
-    </item>
-    <item>
+<item>
         <title>FOX Sports Eredivisie 1</title>
         <thumbnail>http://www.solcon.nl/media/content/televisie/PNG__FOX_Sports_Eredivisie1_Bug_RGB_FC.png</thumbnail>
 	<link>http://skyiptv.ddns.net:8000/live/batman/batman/523.ts</link>
