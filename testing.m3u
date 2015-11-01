@@ -1,55 +1,68 @@
 #EXTM3U
 
-#EXTINF:-1 FOOD NETWORK
+
+#EXTINF:-1,FISHING
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.m3u8
+
+#EXTINF:-1,MORE FISHING
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.m3u8
+#EXTINF:-1,MORE FISHING
+rtmp://streaming42.sitehosting.com.br:1935/siz3s/_definst_/ playpath=siz3s swfUrl=http://p.jwpcdn.com/6/12
+
+#EXTINF:-1, FOOD NETWORK
 http://142.4.216.60:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8
-#EXTINF:-1 MORE FOUR
+#EXTINF:-1, MORE FOUR
 http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
-#EXTINF:-1 BBC SCOTLAND RADIO
+#EXTINF:-1, BBC SCOTLAND RADIO
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p?s=&
-#EXTINF:-1 SKY ARTS 1 
+#EXTINF:-1, SKY ARTS 1 
 plugin://plugin.video.SportsDevil/?item=title%3dSky%2bArts%2b1%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Dskyarts1%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Flivetvweb.net%252F%26genre%3dLive%2bTV%26type%3drss&mode=1&
-#EXTINF:-1 SKY ARTS 2
+#EXTINF:-1, SKY ARTS 2
 plugin://plugin.video.SportsDevil/?item=title%3dSky%2bArts%2b2%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Dskyarts2%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Flivetvweb.net%252F%26genre%3dLive%2bTV%26type%3drss&mode=1&
-#EXTINF:-1 TOM AND JERRY 
+#EXTINF:-1, TOM AND JERRY 
 plugin://plugin.video.SportsDevil/?item=plot%3dWatch%2bTom%2band%2bJerry%2bFull%2btv%2bshow.%26catcher%3dstreams%26title%3dTom%2band%2bJerry%26url%3dhttp%253A%252F%252Fibrod.tv%252Ftomjerry.html%26videoTitle%3dTom%2band%2bJerry%26director%3dibrod.tv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fibrod.tv%252Ftomjerry.html%26definedIn%3dtv%252Fibrod.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fibrod.tv%252Fimages%252Flogo.png&mode=1&
-#EXTINF:-1 SKY SPORTS 1 HD
+
+
+#EXTINF:-1, SKY SPORTS 1 HD
 rtmp://89.248.174.38/live/dskys1
-#EXTINF:-1 SKY SPORTS 2 HD
+
+#EXTINF:-1, SKY SPORTS 2 HD
 rtmp://89.248.174.38/live/dskys2
 
-#EXTINF:-1 SKY SPORTS 3 HD
+#EXTINF:-1, SKY SPORTS 3 HD
 rtmp://89.248.174.38/live/dskys3
 
-#EXTINF:-1 SKY SPORTS 4 HD
+#EXTINF:-1, SKY SPORTS 4 HD
 rtmp://89.248.174.38/live/dskys4
 
-#EXTINF:-1 SKY SPORTS 5 HD
+#EXTINF:-1, SKY SPORTS 5 HD
 rtmp://89.248.174.38/live/dskys5
 
-#EXTINF:-1 SKY SPORTS F1 HD
+#EXTINF:-1, SKY SPORTS F1 HD
 rtmp://89.248.174.38/live/dskysf1
 
-#EXTINF:-1 BT SPORTS 1 HD
+#EXTINF:-1, BT SPORTS 1 HD
 rtmp://89.248.174.38/live/dbt1
 
-#EXTINF:-1 BT SPORTS 2 HD
+#EXTINF:-1, BT SPORTS 2 HD
 rtmp://89.248.174.38/live/dbt2
 
-#EXTINF:-1 EUROSPORTS 1 HD
+#EXTINF:-1, EUROSPORTS 1 HD
 rtmp://89.248.174.38/live/deuro1
 
-#EXTINF:-1 EUROSPORTS 2  HD
+#EXTINF:-1, EUROSPORTS 2  HD
 rtmp://89.248.174.38/live/deuro2
 
-#EXTINF:-1 BBC SCOTLAND HD 
+#EXTINF:-1, BBC SCOTLAND HD 
 http://82.135.224.134:80/udp/239.100.3.2:1234
 
-#EXTINF:-1 MTV HITS HD
+#EXTINF:-1, MTV HITS HD
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
 
-#EXTINF:-1 SKY SPORTS 5 
+#EXTINF:-1, SKY SPORTS 5 
 plugin://plugin.video.SportsDevil/?item=title%3dSky%2bSport%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D71191%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F5kxkwusfctsxkgo_snapshot.jpg&mode=1&
-#EXTINF:-1 group-title="UK", Motors TV 
+
+#EXTINF:-1, group-title="UK", Motors TV 
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
 
 #EXTINF:-1, Sky Sport 1 SD
