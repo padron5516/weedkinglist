@@ -1,28 +1,173 @@
 #EXTM3U
 
 
+#EXTINF:-1,BBC ONE
+http://localhost:65007/?url=uk/8&mode=9
+
+
+#EXTINF:-1,BBCTWO
+http://localhost:65007/?url=uk/10&mode=9
+
+
+#EXTINF:-1 ,BBC Three
+http://localhost:65007/?url=uk/13&mode=9
+
+
+#EXTINF:-1 ,BBC Four
+http://localhost:65007/?url=uk/18&mode=9
+
+
+#EXTINF:-1 ,ITV
+http://localhost:65007/?url=uk/9&mode=9
+
+
+#EXTINF:-1 ,ITV 2
+http://localhost:65007/?url=67&mode=1
+
+
+#EXTINF:-1 ,ITV 3
+http://localhost:65007/?url=26&mode=1
+
+
+#EXTINF:-1 ,ITV 4
+http://localhost:65007/?url=101&mode=1
+
+
+#EXTINF:-1 t,ITV1 +1
+http://localhost:65007/?url=1817&mode=1
+
+
+#EXTINF:-1 ,Channel 4
+http://37.187.160.187:8000/live/ressler/skype/56.ts
+
+
+#EXTINF:-1 t,Channel 5
+http://37.187.160.187:8000/live/ressler/skype/57.ts
+
+
+#EXTINF:-1 ,5 Star
+http://37.187.160.187:8000/live/ressler/skype/71.ts
+
+
+#EXTINF:-1 ,E4
+http://37.187.160.187:8000/live/ressler/skype/63.ts
+
+
+#EXTINF:-1 ,Film 4
+http://pvr.tvip.ga/0415.m3u8|X-Forwarded-For=81.17.18.52
+
+
+#EXTINF:-1 5USA
+http://37.187.160.187:8000/live/ressler/skype/70.ts
+
+
+#EXTINF:-1 SyFy HD
+http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+
+
+#EXTINF:-1 AMC UK
+http://wcm777.la/tp/amc.m3u8
+
+
+#EXTINF:-1 ,More 4
+http://37.187.160.187:8000/live/ressler/skype/64.ts
+
+
+#EXTINF:-1 Sky Sports 1
+http://195.154.226.186:1935/lol/skysports5lsh/playlist.m3u8
+
+
+#EXTINF:-1 ,Sky Sports 2
+http://finalmente.hopto.org:8000/live/rino/rino/1244.m3u8
+
+
+#EXTINF:-1 ,Sky Sports 3
+http://finalmente.hopto.org:8000/live/rino/rino/1243.m3u8
+
+
+#EXTINF:-1 ,Sky Sports 4
+http://finalmente.hopto.org:8000/live/rino/rino/1243.m3u8
+
+
+#EXTINF:-1 ,Sky Sports 5
+http://finalmente.hopto.org:8000/live/rino/rino/1243.m3u8
+
+#EXTINF:-1 ,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+
+#EXTINF:-1 ,Sky Movies Premiere
+http://151.80.96.62:15003/live/Dam/Dam/460.m3u8
+
+
+#EXTINF:-1 t,Sky Living
+http://151.80.96.62:15003/live/Dam/Dam/461.m3u8
+
+
+#EXTINF:-1 ,Sky Family
+http://151.80.96.62:15003/live/Dam/Dam/462.m3u8
+
+
+#EXTINF:-1 ,Sky Drama
+http://151.80.96.62:15003/live/Dam/Dam/463.m3u8
+
+
+#EXTINF:-1 ,Sky Action
+http://151.80.96.62:15003/live/Dam/Dam/464.m3u8
+
+
+
+
+#EXTINF:-1 ,History
+http://37.187.160.187:8000/live/ressler/skype/90.ts
+
+
+
+#EXTINF:0,History Channel HD
+http://89.248.172.57:1935/edge/_definst_/6ad2l2cq5vgmthy/playlist.m3u8?wowzasessionid=1974509754&xs=_we_NmFkMmwyY3E1dmdtdGh5fDE0NDY0MTk1NDR8NDkuMTgyLjE1MS4zNHw1NjM1ZjM5ODE1ZDExfDY2MjhjN2U1OTE1MzFjYTcyMGRiYmY4MWVmYjA5NjdiYjU5YzdlMmI.
+
+
+#EXTINF:0,HBO Comedy Movie
+http://89.248.172.57:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1136799267&xs=_we_YTF3bjFqM3JhMXcwY3YwfDE0NDY0MjAwNzN8NDkuMTgyLjE1MS4zNHw1NjM1ZjVhOWQwYjU1fDdjNmUyNWUxOGNkNDkwYTk4MmZmYWY4OTNjZWMwNTVkNzU4NDFkMGQ.
+
+
+
+#EXTINF:-1,HBO Plus EN
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+
+
+
+#EXTINF:0,Showtime
+http://89.248.172.57:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=811814421&xs=_we_czUzamJrbXlsZG5nYmtzfDE0NDY0MTk3NDV8NDkuMTgyLjE1MS4zNHw1NjM1ZjQ2MTU5MTc5fDBiMTBiZGY1YTcxYjUzZGQyZTJhZDExOTVmOGI4YzlkMGFjMDk3YWE.
+
+
+#EXTINF:0,HBO
+http://89.248.172.57:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=858500935&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0NDY0MTk3NDJ8NDkuMTgyLjE1MS4zNHw1NjM1ZjQ1ZWNhYzRlfGI5NjkxYzM3YzJhMjBmYmIxYzk5NmVkZjk2MzRjNTZmNTYxMzM2ZjE.
+
+
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+
+#EXTINF:0,Fox Movie Channel
+http://89.248.172.57:1935/edge/_definst_/hc992q7x7cz86t9/playlist.m3u8?wowzasessionid=44540790&xs=_we_aGM5OTJxN3g3Y3o4NnQ5fDE0NDY0MTk4ODh8NDkuMTgyLjE1MS4zNHw1NjM1ZjRmMDg5NDRkfGVjMmQ5MmVkYmIwNTk2Y2JjMWQxNWY2NTFiYjBkMWUxMGI0YTU3ZDE.
+
+
+
+
+
+
 #EXTINF:-1,FISHING
 http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.m3u8
-
 #EXTINF:-1,MORE FISHING
 http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.m3u8
 #EXTINF:-1,MORE FISHING
 rtmp://streaming42.sitehosting.com.br:1935/siz3s/_definst_/ playpath=siz3s swfUrl=http://p.jwpcdn.com/6/12
-
-#EXTINF:-1, FOOD NETWORK
-http://142.4.216.60:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8
-#EXTINF:-1, MORE FOUR
-http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8
-#EXTINF:-1, BBC SCOTLAND RADIO
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p?s=&
 #EXTINF:-1, SKY ARTS 1 
 plugin://plugin.video.SportsDevil/?item=title%3dSky%2bArts%2b1%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Dskyarts1%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Flivetvweb.net%252F%26genre%3dLive%2bTV%26type%3drss&mode=1&
 #EXTINF:-1, SKY ARTS 2
 plugin://plugin.video.SportsDevil/?item=title%3dSky%2bArts%2b2%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Dskyarts2%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Flivetvweb.net%252F%26genre%3dLive%2bTV%26type%3drss&mode=1&
-#EXTINF:-1,BBC One Scotland
-http://82.135.224.134:80/udp/239.100.3.2:1234
-#EXTINF:-1,ITV HD
-http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
+
 
 
 
