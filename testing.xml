@@ -3,23 +3,23 @@
 
 
 <item>
-<title>SKY Sports News</title>
-<link>plugin://plugin.video.stalker/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+News&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2101&amp;portal=%7B%22name%22%3A+%22NFPS%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A22%3A33%3A44%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F54.png&quot</link>
+<title>SKY SPORTS ONE</title>
+<link>http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>SKY SPORTS 2 HD</title>
+<link>http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>SKY SPORTS 2 HD</title>
+<link>plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72459%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpyy7bth6eeukd4u_snapshot.jpg&amp;mode=1</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>SKY SPORTS 3 HD</title>
+<link>http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
