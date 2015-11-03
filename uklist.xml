@@ -32,76 +32,7 @@
 <ftv>65</ftv>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/65/E4_uk_hd.png/revision/latest?cb=20110828140109</thumbnail>
 </item>
-<item>
-<title>BBC One HD</title>
-<link>http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8</link>
-<thumbnail>http://i.ytimg.com/vi/47eIXlnnVCU/maxresdefault.jpg</thumbnail>
-</item>
-<item>
-<title>BBC Two HD</title>
-<link>http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
-</item>
-<item>
-<title>BBC Three/CBBC HD</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8</link>
-<thumbnail>http://www.peacockproductions.tv/site-content/uploads/2014/03/BBC3_BANNER_WEB.png</thumbnail>
-</item>
-<item>
-<title>BBC Four/CBeeBies HD</title>
-<link>http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1280px-BBC_Four_HD_Logo.svg.png</thumbnail>
-</item>
-<item>
-<title>STV HD</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8</link>
-<thumbnail>http://theident.gallery/stvhd/xmas2014/STVHD-2014-XMAS-ID-1-C.jpg</thumbnail>
-</item>
-<item>
-<title>iTV 2</title>
-<link>http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.seeklogo.net/wp-content/uploads/2015/09/itv2-hd-logo.png</thumbnail>
-</item>
-<item>
-<title>iTV 3</title>
-<link>http://hls.tv.iptv.ink/itv3uk@921113.m3u8|X-Forwarded-For=81.17.18.55</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
-</item>
-<item>
-<title>iTV 4</title>
-<link>http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ITV4_HD_logo_2013.svg/2000px-ITV4_HD_logo_2013.svg.png</thumbnail>
-</item>
-<item>
-<title>Channel 4 HD</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel04/3/prog_index.m3u8</link>
-<thumbnail>http://www.ruddstudio.com/wp-content/uploads/c4_4hd_logo_purple_sfw.jpg</thumbnail>
-</item>
-<item>
-<title>Film4 HD</title>
-<link>http://llnw.live.simplestream.com/coder10/coder.channels.channel2/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.film4.com/media/images/Channel4/Film4/Logos%20etc/film4hd.jpg</thumbnail>
-</item>
-<item>
-<title>Channel 5 HD</title>
-<link>http://llnw.live.simplestream.com/mediaexcel01/channel05/3/prog_index.m3u8</link>
-<thumbnail>http://www.hdtvorg.co.uk/news/imgs/Five_HD.jpg</thumbnail>
-</item>
-<item>
-<title>4More HD</title>
-<link>http://llnw.live.simplestream.com/coder8/coder.channels.channel2/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/more4_hd.png_1857629745.png</thumbnail>
-</item>
-<item>
-<title>E4 HD</title>
-<link>http://llnw.live.simplestream.com/coder10/coder.channels.channel21/hls/3/playlist.m3u8</link>
-<thumbnail>http://www.channel4.com/media/images/CorporatePortal/Benji/News%20Archive/2009/E4%20HD.jpg</thumbnail>
-</item>
-<item>
-<title>SKY NEWS HD</title>
-<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8</link>
-<thumbnail>http://theident.gallery/skynewshd/2010/SNHD-2010-STING-1-2.jpg</thumbnail>
-</item>
+
 <item>
 <title>QVC UK HD</title>
 <link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8</link>
@@ -122,15 +53,6 @@
 <link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
 </item>
-<item>
-<title>BBC SCOTLAND TEST HD </title>
-<link>http://82.135.224.134:80/udp/239.100.3.2:1234</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
-</item>
-<item>
-<title>ITV  TEST HD </title>
-<link>http://wownet.ro/str/0410.m3u8|X-Forwarded-For=81.17.18.50</link>
-<thumbnail>http://theident.gallery/stvhd/xmas2014/STVHD-2014-XMAS-ID-1-C.jpg</thumbnail>
-</item>
+
 </stream>
 
