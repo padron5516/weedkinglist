@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
-
+<item>
+<title>BBC 1 Scotland</title>
+<link>http://82.135.224.134:80/udp/239.100.3.2:1234</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
+</item>
 <item>
 <title>BBC 1 Scotland</title>
 <ftv>3166</ftv>
