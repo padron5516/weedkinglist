@@ -1,206 +1,111 @@
+
 #EXTM3U
-#EXTINF:-1,Woman in Gold
-http://iptvnation.com/12.mp4
+
+#EXTINF:-1, The Simpsons
+http://iptvnation.com/simpsons.mp4
+#EXTINF:-1, Family Guy
+http://iptvnation.com/familyguy.mp4
+#EXTINF:-1, Two and a Half Men
+http://iptvnation.com/two.mp4
+#EXTINF:-1, How I met your mother
+http://iptvnation.com/how.mp4
+#EXTINF:-1,The Big Bang Theory
+http://iptvnation.com/big.mp4
+#EXTINF:-1, The Mentalist
+http://iptvnation.com/mentalist.mp4
+#EXTINF:-1, Arrow
+http://iptvnation.com/arrow.mp4
+#EXTINF:-1, The Grimm
+http://iptvnation.com/grimm.mp4
+#EXTINF:-1, Bones
+http://iptvnation.com/bones.mp4
+#EXTINF:-1, Criminal Minds
+http://iptvnation.com/criminal.mp4
+#EXTINF:-1,CSI: Miami
+http://iptvnation.com/csimiami.mp4
+#EXTINF:-1, A Brilliant Young Mind
+http://iptvnation.com/30.mp4
+#EXTINF:-1, All Creatures Big and Small
+http://iptvnation.com/31.mp4
+#EXTINF:-1, Aloha
+http://iptvnation.com/32.mp4
+#EXTINF:-1,Dark Places
+http://iptvnation.com/33.mp4
+#EXTINF:-1, Fifty Shades of Grey
+http://iptvnation.com/34.mp4
+#EXTINF:-1,Freetown
+http://iptvnation.com/35.mp4
 #EXTINF:-1,Mad Max Fury Road
 http://iptvnation.com/36.mp4
+#EXTINF:-1, Little Boy
+http://iptvnation.com/37.mp4
+#EXTINF:-1,The Lazarus Effect
+http://iptvnation.com/38.mp4
+#EXTINF:-1, Mythica The Darkspore
+http://iptvnation.com/39.mp4
+#EXTINF:-1, Vendetta
+http://iptvnation.com/40.mp4
 #EXTINF:-1, Survivor
 http://iptvnation.com/41.mp4
-#EXTINF:-1,Dead Rising Watchtower
+#EXTINF:-1, Where hope grows
+http://iptvnation.com/42.mp4
+#EXTINF:-1, Black Hat
+http://iptvnation.com/0.mp4
+#EXTINF:-1, Maggie
+http://iptvnation.com/1.mp4
+#EXTINF:-1, Big Hero 6
+http://iptvnation.com/2.mp4
+#EXTINF:-1, Careful what you wish for
+http://iptvnation.com/3.mp4
+#EXTINF:-1, Cinderella
+http://iptvnation.com/4.mp4
+#EXTINF:-1, Dead Rising Watchtower
 http://iptvnation.com/5.mp4
+#EXTINF:-1,Hot Tub Time Machine
+http://iptvnation.com/6.mp4
+#EXTINF:-1, Jupiter Ascending
+http://iptvnation.com/7.mp4
+#EXTINF:-1, The Longest Ride
+http://iptvnation.com/8.mp4
+#EXTINF:-1, True Story
+http://iptvnation.com/9.mp4
+#EXTINF:-1, The Duff
+http://iptvnation.com/10.mp4
+#EXTINF:-1, The Gunman
+http://iptvnation.com/11.mp4
+#EXTINF:-1, Woman in Gold
+http://iptvnation.com/12.mp4
+#EXTINF:-1,Pitch Perfect 2
+http://iptvnation.com/13.mp4
+#EXTINF:-1,San Andreas Quake
+http://iptvnation.com/14.mp4
+#EXTINF:-1, Unfinished Business
+http://iptvnation.com/15.mp4
 #EXTINF:-1, Ex Machina
 http://iptvnation.com/16.mp4
+#EXTINF:-1, Paul Blart Mall
+http://iptvnation.com/17.mp4
+#EXTINF:-1, Shaun the Sheep Movie
+http://iptvnation.com/18.mp4
+#EXTINF:-1, Focus
+http://iptvnation.com/19.mp4
+#EXTINF:-1, Far from the Madding Crowd
+http://iptvnation.com/20.mp4
+#EXTINF:-1, Barely Lethal
+http://iptvnation.com/21.mp4
+#EXTINF:-1,Child 44
+http://iptvnation.com/22.mp4
 #EXTINF:-1, Furious Seven
 http://iptvnation.com/23.mp4
-#EXTINF:-1, Tracers
+#EXTINF:-1, Home sweet hell
+http://iptvnation.com/24.mp4
+#EXTINF:-1, Road Wars
+http://iptvnation.com/25.mp4
+#EXTINF:-1, The Age of adaline
+http://iptvnation.com/26.mp4
+#EXTINF:-1, The Wedding Ringer
+http://iptvnation.com/27.mp4
+#EXTINF:-1,Tracers
 http://iptvnation.com/28.mp4
-#EXTINF:-1, Last Knights
+#EXTINF:-1, - Last Knights
 http://iptvnation.com/29.mp4
-#EXTINF:-1, BBC One London
-http://82.135.224.134/udp/239.100.3.1:1234
-#EXTINF:-1, BBC One Scotland
-http://82.135.224.134/udp/239.100.3.2:1234
-#EXTINF:-1, BBC Two England
-http://82.135.224.134/udp/239.100.3.3:1234
-#EXTINF:-1, BBC 3
-http://82.135.224.134/udp/239.100.3.4:1234
-#EXTINF:-1, BBC 4
-http://82.135.224.134/udp/239.100.3.5:1234
-#EXTINF:-1, ITV 1 London
-http://82.135.224.134/udp/239.100.3.6:1234
-
-#EXTINF:-1,BBC One HD
-http://217.117.226.215:5000/udp/239.100.14.1:4422
-#EXTINF:-1,BBC Two HD
-http://217.117.226.215:5000/udp/239.100.14.0:4422
-#EXTINF:-1,BBC,
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-#EXTINF:-1,BBC1,
-http://82.135.224.134/udp/239.100.3.1:1234
-#EXTINF:-1,BBC2,
-http://82.135.224.134/udp/239.100.3.3:1234
-#EXTINF:-1,BBC 3,
-http://82.135.224.134/udp/239.100.3.4:1234
-#EXTINF:-1,FOX NEWS,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/35.m3u8
-#EXTINF:-1,FOOD CH,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthls/41.m3u8
-
-#EXTINF:-1,WRESTLING,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
-
-#EXTINF:-1,Bloomberg,
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M12K.m3u8
-
-#EXTINF:-1,National Geo UK,
-http://tinyurl.com/hack-sat-com-National-Geo-UK
-#EXTINF:-1, Geo Wild UK,
-http://tinyurl.com/hack-sat-com-Nat-Geo-Wild-UK
-#EXTINF:-1,MTV Music UK,
-http://tinyurl.com/hack-sat-com-MTV-Music-UK
-#EXTINF:-1,MTV Hits,
-http://tinyurl.com/hack-sat-com-MTV-Hits
-#EXTINF:-1,MTV Classic UK,
-http://tinyurl.com/hack-sat-com-MTV-Classic-UK
-#EXTINF:-1,More4 UK,
-http://tinyurl.com/hack-sat-com-More4-UK
-#EXTINF:-1,ITV4 UK,
-http://tinyurl.com/hack-sat-com-ITV4-UK
-#EXTINF:-1,ITV3 UK,
-http://tinyurl.com/hack-sat-com-ITV3-UK
-#EXTINF:-1,ITV2 UK,
-http://tinyurl.com/hack-sat-com-ITV2-UK
-#EXTINF:-1,Quest,
-http://tinyurl.com/hack-sat-com-Quest
-#EXTINF:-1,VH1 UK,
-http://tinyurl.com/hack-sat-com-VH1-UK
-#EXTINF:-1,Sky News,
-http://tinyurl.com/hack-sat-com-Sky-News
-#EXTINF:-1,Sky Living UK,
-http://tinyurl.com/hack-sat-com-Sky-Living-UK
-#EXTINF:-1,Sky Atlantic UK,
-http://tinyurl.com/hack-sat-com-Sky-Atlantic-UK
-#EXTINF:-1,Sky Arts 1 UK,
-http://tinyurl.com/hack-sat-com-Sky-Arts-1-UK
-#EXTINF:-1,Sky 2 UK,
-http://tinyurl.com/hack-sat-com-Sky-2-UK
-#EXTINF:-1,Sky 1 UK,
-http://tinyurl.com/hack-sat-com-Sky-1-UK
-#EXTINF:-1,RTE Two UK,
-http://tinyurl.com/hack-sat-com-RTE-Two-UK
-#EXTINF:-1,RTE One UK,
-http://tinyurl.com/hack-sat-com-RTE-One-UK
-#EXTINF:-1,Sky 1,
-http://alturl.com/4cztg
-#EXTINF:-1,Sky 2,
-http://alturl.com/qq8pz
-#EXTINF:-1,Sky Drama Rom Movies,
-http://alturl.com/2ysgi
-#EXTINF:-1,Sky Atlantic,
-http://bit.do/bnQRj
-#EXTINF:-1,Sky Select Movies,
-http://alturl.com/fkpd5
-#EXTINF:-1,Sky Action Movies,
-http://alturl.com/8x8uk
-#EXTINF:-1,Sky Greats Movies,
-http://alturl.com/6gcfu
-#EXTINF:-1,Sky Premiere Movies,
-http://alturl.com/f2waa
-#EXTINF:-1,Sky Family Movies,
-http://alturl.com/q2sdo
-#EXTINF:-1,Sky Thriller Movies,
-http://alturl.com/p3diz
-#EXTINF:-1,Sky Movies Disney,
-http://bit.do/bnQRQ
-#EXTINF:-1,Sky Comedy Movies,
-http://alturl.com/jp3qr
-#EXTINF:-1,Sky ScFi Horror Movies,
-http://alturl.com/7rw5z
-#EXTINF:-1,sky thriller,
-http://alturl.com/p3diz
-#EXTINF:-1,sky premiere,
-http://alturl.com/f2waa
-#EXTINF:-1,sky select,
-http://alturl.com/fkpd5
-#EXTINF:-1,Sky Comedy,
-http://alturl.com/jp3qr
-c#EXTINF:-1,artoon network,
-http://alturl.com/onuvj
-#EXTINF:-1,Discovery Science,
-http://alturl.com/ym2n9
-#EXTINF:-1,Discovery World,
-http://alturl.com/5mkjh
-#EXTINF:-1, History,
-http://alturl.com/e5ydt
-#EXTINF:-1,H2O
-http://alturl.com/p66se
-#EXTINF:-1,NAT GEO,
-http://alturl.com/zbw8j
-#EXTINF:-1,Discovery,
-http://alturl.com/ix2w9
-#EXTINF:-1,Animal Planet,
-http://alturl.com/uk4nf
-#EXTINF:-1,TLC,
-http://alturl.com/d63cx
-#EXTINF:-1, Nature,
-http://alturl.com/tutjp
-#EXTINF:-1,A-ONE,
-http://alturl.com/6rdas
-#EXTINF:-1,AMC,
-http://alturl.com/f4yit
-#EXTINF:-1,XXI,
-http://alturl.com/5uoq8
-#EXTINF:-1,RTE One,
-http://alturl.com/rnb3a
-#EXTINF:-1, Explorer,
-http://alturl.com/nxy8j
-#EXTINF:-1,ID
-,http://alturl.com/5visi
-#EXTINF:-1,RTEjr,
-http://alturl.com/3ushi
-#EXTINF:-1,RTE Two,
-http://alturl.com/fvtgw
-#EXTINF:-1,Animal Planet,
-http://alturl.com/o547z
-#EXTINF:-1,Discovery History,
-http://alturl.com/b7kra
-#EXTINF:-1,Discovery Turbo,
-http://alturl.com/dozqo
-#EXTINF:-1,CBS Reality+1 UK,
-http://alturl.com/8ufbs
-#EXTINF:-1,disneyChnl,
-http://alturl.com/kzeg5
-#EXTINF:-1,Cartoon Network UK,
-http://alturl.com/bjwff
-#EXTINF:-1,DisneyJunior,
-http://alturl.com/f6bc8
-#EXTINF:-1,Discovery1,
-http://alturl.com/rpnek
-#EXTINF:-1,Discovery Science,
-http://alturl.com/r9mwz
-#EXTINF:-1,MU TV,
-http://alturl.com/vid4r
-#EXTINF:-1,SKY_SPORTS_5_HD,
-http://tvi.ddns.me:8000/live/fraim/fraim/1040.ts
-#EXTINF:-1,SKY_SPORTS_4_HD,
-http://tvi.ddns.me:8000/live/fraim/fraim/1041.ts
-#EXTINF:-1,SKY_SPORTS_3_HD
-http://tvi.ddns.me:8000/live/fraim/fraim/1042.ts
-#EXTINF:-1,SKY_SPORTS_2_HD,
-http://tvi.ddns.me:8000/live/fraim/fraim/1043.ts
-#EXTINF:-1,SKY_SPORTS_1_HD,
-http://tvi.ddns.me:8000/live/fraim/fraim/1044.ts
-#EXTINF:-1,Sky Sport 1 
-http://india2.xyz:80/sky_sports_1_0s5BrVpIZdRlmSfCQaJ4/index.m3u8
-#EXTINF:-1,Sky Sport 2
-http://india2.xyz:80/sky_sports_2_0s5BrVpIZdRlmSfCQaJ4/index.m3u8
-#EXTINF:-1,Sky Sport 3 
-http://india2.xyz:80/sky_sports_3_hklR7mTptJZ0LP8fWI3O/index.m3u8
-#EXTINF:-1,Sky Sport 4 
-http://india2.xyz:80/sky_sports_4_0s5BrVpIZdRlmSfCQaJ4/index.m3u8
-#EXTINF:-1,Sky Sport 5 
-http://india2.xyz:80/sky_sports_5_0s5BrVpIZdRlmSfCQaJ4/index.m3u8
-#EXTINF:-1,SKY Sports f1
-http://india2.xyz:80/sky_sports_f1_0s5BrVpIZdRlmSfCQaJ4/index.m3u8
-
-
-
