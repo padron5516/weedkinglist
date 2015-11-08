@@ -120,11 +120,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=tlzH2V3RL1A
 #EXTINF:-1, [COLOR yellow]IFA Berlin Messe Show for Panasonic trials[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=kQbi1HdGkAc
 
-#EXTINF:-1, [COLOR yellow][/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:-1, [COLOR yellow]Sorry For Enduro[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=zl1f_F5WnFU
 
-#EXTINF:-1, [COLOR yellow][/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:-1, [COLOR yellow]Enduro Technical Knockout[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=A-fP3pkAOcM
 
 #EXTINF:-1, [COLOR yellow][/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=
