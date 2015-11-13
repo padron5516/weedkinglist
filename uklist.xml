@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
-
+<item>
+<title>BBC One HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4017/index.m3u8?p=127&c=t1&token=6b28d4c30ea58d0885a3642eb4cd8a6b&expires=1447463972</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
+</item>
+<item>
+<title>BBC Two HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4012/index.m3u8?p=127&c=t1&token=5872167d908728dcdc24a1f50cfa9fdd&expires=1447463972</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>ITV One HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4018/index.m3u8?p=127&c=t1&token=5af710269c46dda95b870f96bc5913e9&expires=1447463987</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/ITV_HD_logo.svg/1280px-ITV_HD_logo.svg.png</thumbnail>
+</item>
+<item>
+<title>Channel Four HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4022/index.m3u8?p=127&c=t1&token=21ed057c0677da34ae9e98757f26e6ff&expires=1447463976</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
+</item>
+<item>
+<title>BBC Three HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4008/index.m3u8?p=127&c=t1&token=2b2ad6c2e91e094edbddadf7d098542a&expires=1447463973</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Three_HD.svg/1000px-BBC_Three_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>ITV Two HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4005/index.m3u8?p=127&c=t1&token=7536d35ca2e8278c9093444b23ee53d9&expires=1447463987</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/278px-ITV2_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>ITV Three HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4025/index.m3u8?p=127&c=t1&token=18a370b342d9f158a8a79708d818b8bf&expires=1447463988</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>FILM 4 HD</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4023/index.m3u8?p=127&c=t1&token=b8dd7637aab8f3f4824d69225f96c6bd&expires=1447463982</link>
+<thumbnail>http://www.rswebsites.co.uk/mediafilm/wp-content/uploads/2012/03/film4.png</thumbnail>
+</item>
+<item>
+<title>EUROSPORT TEST </title>
+<link>http://teleboy.customers.cdn.iptv.ch/1/1051/index.m3u8?p=127&c=t1&token=ec06b3f033be74ffa8e87b2b5f1b06d1&expires=1447463982</link>
+<thumbnail>http://www.undisputedfightmag.com/wp-content/uploads/2012/01/eurosport.png</thumbnail>
+</item>
 <item>
 <title>BBC 1 Scotland</title>
 <ftv>3166</ftv>
