@@ -1,7 +1,8 @@
 
 #EXTM3U
 
-
+#EXTINF:-1,Sky Sports F1
+http://localhost/ch/2457
 #EXTINF:-1, A Brilliant Young Mind
 http://iptvnation.com/30.mp4
 #EXTINF:-1, All Creatures Big and Small
