@@ -2,6 +2,27 @@
 
 <stream>
 
+
+<item>
+<title>Bbc One Hd</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4017/index.m3u8?p=127&c=t1&token=20f450447e6ede5b7138e23076d7aefc&expires=1447638312</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
+</item>
+<item>
+<title>Bbc Two Hd</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4012/index.m3u8?p=127&c=t1&token=579807cc6eac6cf1cb5b3887961268b6&expires=1447638312</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>Itv One Hd</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4018/index.m3u8?p=127&c=t1&token=c243281b3b3f92093020ed979506bc33&expires=1447638329</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/ITV_HD_logo.svg/1280px-ITV_HD_logo.svg.png</thumbnail>
+</item>
+<item>
+<title>Channel Four Hd</title>
+<link>http://teleboy.customers.cdn.iptv.ch/2/4022/index.m3u8?p=127&c=t1&token=81e2ecc7dc08fe65e88fdca1370c0a75&expires=1447638316</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
+</item>
 <item>
 <title>BBC 1 Scotland</title>
 <ftv>3166</ftv>
