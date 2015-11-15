@@ -1,7 +1,0 @@
-
-name="Mykodibuildwizard"
-url="https://copy.com/EW0HRMpB0mfwEZVx/wizard.zip?download=1"
-img="http://www.micromagine.com/images/cmpnylogo/RaspberryPi_Logo.png"
-fanart="http://domoticx.com/wp-content/uploads/raspberry-pi-logo.png"
-description="My new Wizard "
-
