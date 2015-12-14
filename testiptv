@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 
 #EXTINF:-1, tvg-id="78" tvg-name="ITV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/759.png" group-title="information", ITV
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2447
