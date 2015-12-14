@@ -5,22 +5,22 @@
 
 <item>
 <title>Bbc One Hd</title>
-<link>http://teleboy.customers.cdn.iptv.ch/2/4017/index.m3u8?p=127&c=t1&token=20f450447e6ede5b7138e23076d7aefc&expires=1447638312</link>
+<link>http://62.65.140.217:80/session/15523f66-a1fb-11e5-906b-005056bc1a52/nvnv5a/2/4017/index.m3u8?token=836da891097819f0b47c26af3b430510_1450139946_1450139946&p=127|X-Forwarded-For=85.195.192.0</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
 </item>
 <item>
 <title>Bbc Two Hd</title>
-<link>http://teleboy.customers.cdn.iptv.ch/2/4012/index.m3u8?p=127&c=t1&token=579807cc6eac6cf1cb5b3887961268b6&expires=1447638312</link>
+<link>http://62.65.140.219:80/session/15d34ade-a1fb-11e5-bc25-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=4de15ae48cb86e644c6fffa908ea606b_1450139947_1450139947&p=127|X-Forwarded-For=85.195.192.0</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
 </item>
 <item>
 <title>Itv One Hd</title>
-<link>http://teleboy.customers.cdn.iptv.ch/2/4018/index.m3u8?p=127&c=t1&token=c243281b3b3f92093020ed979506bc33&expires=1447638329</link>
+<link>http://62.65.140.215:80/session/23804222-a1fb-11e5-bd74-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=a1bec2063efbe4d6e9780cf32f94bf27_1450139970_1450139970&p=127|X-Forwarded-For=85.195.192.0</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/ITV_HD_logo.svg/1280px-ITV_HD_logo.svg.png</thumbnail>
 </item>
 <item>
 <title>Channel Four Hd</title>
-<link>http://teleboy.customers.cdn.iptv.ch/2/4022/index.m3u8?p=127&c=t1&token=81e2ecc7dc08fe65e88fdca1370c0a75&expires=1447638316</link>
+<link>http://62.65.140.219:80/session/18ea8638-a1fb-11e5-afd0-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=a857c868fd1e08b3607b9853e4c343dd_1450139952_1450139952&p=127|X-Forwarded-For=85.195.192.0</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
 </item>
 <item>
