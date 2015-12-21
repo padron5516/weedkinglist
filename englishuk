@@ -1,17 +1,20 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="English" tvg-logo="0402.png",[COLOR orange]BBC1 HD[/COLOR]
+http://62.65.140.153:80/session/3daee9d0-a793-11e5-a454-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=f562df21a403509ea59703277900a5a3_1450755053_1450755053&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="English" tvg-logo="0404.png",[COLOR orange]BBC2 HD[/COLOR]
+http://62.65.140.215:80/session/3e3e3edc-a793-11e5-acc8-005056bc49ac/nvnv5a/2/4012/index.m3u8?token=c7c5e11d5b67ee00966d23359b0eea4e_1450755054_1450755054&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC3.uk" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC3[/COLOR]
+http://62.65.140.212:80/session/3ed21d78-a793-11e5-8b87-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=3201fda5127278660fb9cfc870a0316e_1450755055_1450755055&p=127|X-Forwarded-For=85.195.192.0
 
-#EXTINF:-1 ,[COLOR orange]BBC1 HD[/COLOR]
-http://62.65.140.214:80/session/80e91658-a5f9-11e5-9bf6-005056bc06d1/nvnv5a/2/4017/index.m3u8?token=c06ade67bf3ee6b82f8ce32757d0cf7c_1450579072_1450579072&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 ",[COLOR orange]BBC2 HD[/COLOR]
-http://62.65.140.219:80/session/81723122-a5f9-11e5-b9bd-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=89c7d1dcd5bfbf7c9b8928cb35f0870a_1450579073_1450579073&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 ,[COLOR orange]BBC3[/COLOR]
-http://62.65.140.148:80/session/81fbd698-a5f9-11e5-b195-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=426424e1a05331f693510a39850c6d59_1450579074_1450579074&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 ,[COLOR orange]BBC World News[/COLOR]
-http://62.65.140.217:80/session/8289c476-a5f9-11e5-8286-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=fcc99d7405d87fc68f9294d6d5c0e822_1450579075_1450579075&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 ,[COLOR orange]ITV1 HD[/COLOR]
-http://62.65.140.215:80/session/914adfc2-a5f9-11e5-b7bd-005056bc1a52/nvnv5a/2/4018/index.m3u8?token=0c68ac60244adcfc2776c650826dc07e_1450579100_1450579100&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 ,[COLOR orange]ITV2[/COLOR]
-http://62.65.140.215:80/session/91d3b91e-a5f9-11e5-8916-005056bc49ac/nvnv5a/2/4005/index.m3u8?token=eee8960df730616f6f530b941a382df2_1450579101_1450579101&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 ,[COLOR orange]ITV3[/COLOR]
-http://62.65.140.153:80/session/9266f256-a5f9-11e5-baee-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=a7228640243bd03c1cd37268c3a3dc41_1450579102_1450579102&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
+http://62.65.140.215:80/session/497cb6e8-a793-11e5-9812-005056bc06d1/nvnv5a/1/1051/index.m3u8?token=18934fa4eac0053b69fef4d156c02fc6_1450755073_1450755073&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Film4.uk" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://62.65.140.148:80/session/4a02e34e-a793-11e5-a5b8-005056bc06d1/nvnv5a/2/4023/index.m3u8?token=25bfaea8224fa54d6b2ec9c6351af44d_1450755074_1450755074&p=127|X-Forwarded-For=85.195.192.0
+
+#EXTINF:-1 tvg-id="ITV1London.uk" group-title="English" tvg-logo="0410.png",[COLOR orange]ITV1 HD[/COLOR]
+http://62.65.140.149:80/session/4e9c5dea-a793-11e5-bbfc-005056bc1a52/nvnv5a/2/4018/index.m3u8?token=529fee6393c06aab4f724166ff0e6b82_1450755082_1450755082&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV2.uk" group-title="English" tvg-logo="0411.png",[COLOR orange]ITV2[/COLOR]
+http://62.65.140.219:80/session/4f2725e2-a793-11e5-9e8b-005056bc49ac/nvnv5a/2/4005/index.m3u8?token=ae675fbdfcb232304f20f6fe7b5ceb18_1450755082_1450755082&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV3.uk" group-title="English" tvg-logo="0412.png",[COLOR orange]ITV3[/COLOR]
+http://62.65.140.217:80/session/4fae21e6-a793-11e5-ac0c-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=84bec98fea3687cf5a226dfe510e3bca_1450755083_1450755083&p=127|X-Forwarded-For=85.195.192.0
