@@ -1,9 +1,3 @@
-<item>
-<title>[COLOR white][B]German Sports HD[/B][/COLOR]</title>
-<link>http://ignorme</link>
-<externallink>http://pastebin.com/raw/idmPJH0H</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SC_Dynamo_Logo.svg/2000px-SC_Dynamo_Logo.svg.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR white][B]sports extra[/B][/COLOR]</title>
@@ -22,20 +16,14 @@
 <title>[B][COLOR red]HD Soccer[/COLOR][/B]<title>
 <link>http://ignoreme</link>
 <externallink>https://copy.com/KtTXJYSIjL3rO6EO</externallink>
-<thumbnail>http://theartmad.com/wp-content/uploads/2015/08/Football-Pictures-Hd-6.jpg</thumbnail>
-<fanart>http://theartmad.com/wp-content/uploads/2015/08/Football-Pictures-Hd-6.jpg</fanart>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR gold][B]LIVE STREAMS FREE HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
+<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
+<thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
 </item>
  
-<item>
-<title>[COLOR green]Live Sports[/COLOR][COLOR red]All Sport Shown[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
- <thumbnail>>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
-</item>
