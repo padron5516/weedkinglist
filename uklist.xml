@@ -9,26 +9,7 @@
 <thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
 </item>
 
-<item>
-<title>Bbc One Hd</title>
-<link>http://62.65.140.217:80/session/15523f66-a1fb-11e5-906b-005056bc1a52/nvnv5a/2/4017/index.m3u8?token=836da891097819f0b47c26af3b430510_1450139946_1450139946&p=127|X-Forwarded-For=85.195.192.0</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
-</item>
-<item>
-<title>Bbc Two Hd</title>
-<link>http://62.65.140.219:80/session/15d34ade-a1fb-11e5-bc25-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=4de15ae48cb86e644c6fffa908ea606b_1450139947_1450139947&p=127|X-Forwarded-For=85.195.192.0</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
-</item>
-<item>
-<title>Itv One Hd</title>
-<link>http://62.65.140.215:80/session/23804222-a1fb-11e5-bd74-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=a1bec2063efbe4d6e9780cf32f94bf27_1450139970_1450139970&p=127|X-Forwarded-For=85.195.192.0</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/ITV_HD_logo.svg/1280px-ITV_HD_logo.svg.png</thumbnail>
-</item>
-<item>
-<title>Channel Four Hd</title>
-<link>http://62.65.140.219:80/session/18ea8638-a1fb-11e5-afd0-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=a857c868fd1e08b3607b9853e4c343dd_1450139952_1450139952&p=127|X-Forwarded-For=85.195.192.0</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
-</item>
+
 <item>
 <title>BBC 1 Scotland</title>
 <ftv>3166</ftv>
@@ -49,42 +30,13 @@ item>
 <ftv>1817</ftv>
 <thumbnail>http://1.bp.blogspot.com/-Il_K6df--7U/VhL0AkC0HBI/AAAAAAAAAvQ/267Eha9nc5Q/s640/itv1_plus1.png</thumbnail>
 </item>
-<item>
-<title>BBC 3</title>
-<ftv>113</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Three_HD.svg/1000px-BBC_Three_HD.svg.png</thumbnail>
-</item>
-<item>
-<title>BBC 4</title>
-<ftv>103</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/el/f/f8/BBC_Four_HD.png</thumbnail>
-</item>
- <item>
-<title>CHANNEL 4</title>
-<ftv>2</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
-</item>
 
-<item>
-<title>CHANNEL 5</title>
-<ftv>22</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/5/5d/20140117201447!5HD_Logo.png</thumbnail>
-</item>
 <item>
 <title>MORE4</title>
 <ftv>97</ftv>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/932px-More4_logo.svg.png</thumbnail>
 </item>
-<item>
-<title>DAVE</title>
-<ftv>370</ftv>
-<thumbnail>http://www.astrasat.tv/demo/wp-content/uploads/2013/10/dave_hd.png_1613935029.png</thumbnail>
-</item>
-<item>
-<title>E4</title>
-<ftv>65</ftv>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/65/E4_uk_hd.png/revision/latest?cb=20110828140109</thumbnail>
-</item>
+
 
 <item>
 <title>QVC UK HD</title>
@@ -105,53 +57,6 @@ item>
 <title>QVC BEAUTY HD</title>
 <link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
-</item>
-
-<item>
-<title>ITV2</title>
-<ftv>67</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/278px-ITV2_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV2+1</title>
-<ftv>1820</ftv>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/08/itv2+1-logo-300x97.png</thumbnail>
-</item>
-
-<item>
-<title>ITV3</title>
-<ftv>26</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV3+1</title>
-<ftv>1823</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV4</title>
-<ftv>101</ftv>
-<thumbnail>http://theident.gallery/itv4/xmas2013/ITV4-2013-XMAS-PROMO-1-4.jpg</thumbnail>
-</item>
-
-<item>
-<title>ITV4+1</title>
-<ftv>1826</ftv>
-<thumbnail>http://www.satellitetveurope.co.uk/IMAGES/astra2/itv4_plus1.jpg</thumbnail>
-</item>
-<item>
-<title>QUEST</title>
-<ftv>2707</ftv>
-<thumbnail>http://212.83.144.179/mytvuknew/img/logos/quest.png</thumbnail>
-</item>
-
-<item>
-<title>ITVBE</title>
-<ftv>3211</ftv>
-<thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
 </stream>
