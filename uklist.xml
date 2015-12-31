@@ -2,6 +2,12 @@
 
 <stream>
 
+<item>
+<title>Filmon</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/filmon.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
+</item>
 
 <item>
 <title>Bbc One Hd</title>
