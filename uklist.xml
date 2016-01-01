@@ -10,13 +10,6 @@
 </item>
 
 <item>
-<title>test</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url.tmp=/group/uk-live-tv&title=UK LIVE TV&url=http://www.filmon.com/group/uk-live-</jsonrpc>
-<thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
-</item>
-
-<item>
 <title>BBC 1 Scotland</title>
 <ftv>3166</ftv>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
