@@ -12,7 +12,7 @@
 <item>
 <title>test</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url.tmp=/group/uk-live-tv&title=UK LIVE TV&url=http://www.filmon.com/group/uk-live-tv&cfg=filmon.com.cfg@Channels&definedIn=customs/filmon.com.cfg&director=filmon.com&genre=Live TV&type=rss&icon=http://static.filmon.com/assets/groups/5/big_logo.png&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url.tmp=/group/uk-live-tv&title=UK LIVE TV&url=http://www.filmon.com/group/uk-live-</jsonrpc>
 <thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
 </item>
 
