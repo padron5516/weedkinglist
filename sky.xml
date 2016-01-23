@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/18 -- Jan van Straaten" generator-info-url="http://www.servercare.nl">
+  <channel id="BBC One Scot">
+    <display-name lang="en">BBC One Scot</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC One ScotHD">
+    <display-name lang="en">BBC One ScotHD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC Two Scot">
+    <display-name lang="en">BBC Two Scot</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ITV">
+    <display-name lang="en">ITV</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Channel 4">
+    <display-name lang="en">Channel 4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Channel 5">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky1">
+    <display-name lang="en">Sky1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Living">
+    <display-name lang="en">Sky Living</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Atlantic">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Watch">
+    <display-name lang="en">Watch</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="GOLD">
+    <display-name lang="en">GOLD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Dave">
+    <display-name lang="en">Dave</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ComedyCentral">
+    <display-name lang="en">ComedyCentral</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Universal">
+    <display-name lang="en">Universal</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="en">Syfy</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC Three">
+    <display-name lang="en">BBC Three</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC Four">
+    <display-name lang="en">BBC Four</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="London Live">
+    <display-name lang="en">London Live</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ITV2">
+    <display-name lang="en">ITV2</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ITV3">
+    <display-name lang="en">ITV3</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ITV4">
+    <display-name lang="en">ITV4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Arts">
+    <display-name lang="en">Sky Arts</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Living+1">
+    <display-name lang="en">Sky Living+1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ITV Encore">
+    <display-name lang="en">ITV Encore</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky2">
+    <display-name lang="en">Sky2</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky1 +1">
+    <display-name lang="en">Sky1 +1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ITV +1">
+    <display-name lang="en">ITV +1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="alibi">
+    <display-name lang="en">alibi</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Good Food">
+    <display-name lang="en">Good Food</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="S4C">
+    <display-name lang="en">S4C</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Channel 4 +1">
+    <display-name lang="en">Channel 4 +1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="E4">
+    <display-name lang="en">E4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="E4+1">
+    <display-name lang="en">E4+1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="More4">
+    <display-name lang="en">More4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="More4 +1">
+    <display-name lang="en">More4 +1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="4seven">
+    <display-name lang="en">4seven</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC One HD">
+    <display-name lang="en">BBC One HD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC Two HD">
+    <display-name lang="en">BBC Two HD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BBC ALBA">
+    <display-name lang="en">BBC ALBA</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Premiere">
+    <display-name lang="en">Sky Premiere</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Prem+1">
+    <display-name lang="en">Sky Prem+1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Showcase">
+    <display-name lang="en">Sky Showcase</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Star Wars">
+    <display-name lang="en">Sky Star Wars</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Disney">
+    <display-name lang="en">Sky Disney</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Family">
+    <display-name lang="en">Sky Family</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Action">
+    <display-name lang="en">Sky Action</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Comedy">
+    <display-name lang="en">Sky Comedy</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Thriller">
+    <display-name lang="en">Sky Thriller</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky DramaRom">
+    <display-name lang="en">Sky DramaRom</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky ScFi\/Horror">
+    <display-name lang="en">Sky ScFi\/Horror</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Select">
+    <display-name lang="en">Sky Select</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SkyPremiereHD">
+    <display-name lang="en">SkyPremiereHD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Film4">
+    <display-name lang="en">Film4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Film4 +1">
+    <display-name lang="en">Film4 +1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="TCM+1">
+    <display-name lang="en">TCM+1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sp NewsHQ">
+    <display-name lang="en">Sky Sp NewsHQ</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sports 1">
+    <display-name lang="en">Sky Sports 1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Spts Ashes">
+    <display-name lang="en">Sky Spts Ashes</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sports 3">
+    <display-name lang="en">Sky Sports 3</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sports 4">
+    <display-name lang="en">Sky Sports 4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sports 5">
+    <display-name lang="en">Sky Sports 5</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sports F1">
+    <display-name lang="en">Sky Sports F1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky SpN HQ HD">
+    <display-name lang="en">Sky SpN HQ HD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Sports 1 HD">
+    <display-name lang="en">Sky Sports 1 HD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="en">Eurosport 2</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="en">Eurosport HD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BT Sport 1">
+    <display-name lang="en">BT Sport 1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BT Sport Europe">
+    <display-name lang="en">BT Sport Europe</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="At The Races">
+    <display-name lang="en">At The Races</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BT Sport 2">
+    <display-name lang="en">BT Sport 2</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Extreme Sports">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="MOTORS TV UK">
+    <display-name lang="en">MOTORS TV UK</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="Sky Spts F1 HD">
+    <display-name lang="en">Sky Spts F1 HD</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+</tv>
