@@ -1,0 +1,343 @@
+#EXTM3U
+#EXTINF:-1 group-title="English",BBC Four
+http://c001.p123.edgesuite.net/i/c001/bbc4_1@137784/master.m3u8
+#EXTINF:-1 group-title="English",BBC One HD
+http://c001.p103.edgesuite.net/i/c001/bbc1hd_1@97412/master.m3u8
+#EXTINF:-1 group-title="English",BBC Three HD
+http://c001.p126.edgesuite.net/i/c001/bbc3_hd_1@180212/master.m3u8
+#EXTINF:-1 group-title="English",BBC Two HD
+http://c001.p109.edgesuite.net/i/c001/bbc2hd_1@97435/master.m3u8
+#EXTINF:-1 group-title="English",BBC Two
+http://c001.p124.edgesuite.net/i/c001/bbc2_1@137786/master.m3u8
+#EXTINF:-1 group-title="English",BBC World News
+http://c001.p105.edgesuite.net/i/c001/bbcworld_1@97498/master.m3u8
+#EXTINF:-1 group-title="English",Bloomberg
+http://c001.p124.edgesuite.net/i/c001/bloomberg_1@137785/master.m3u8
+#EXTINF:-1 group-title="English",Channel 5
+http://c001.p124.edgesuite.net/i/c001/channel5_1@137787/master.m3u8
+#EXTINF:-1 group-title="English",CNN
+http://c001.p105.edgesuite.net/i/c001/cnn_1@97501/master.m3u8
+#EXTINF:-1 group-title="English",E4
+http://c001.p124.edgesuite.net/i/c001/e4_1@137789/master.m3u8
+#EXTINF:-1 group-title="English",EuroNews English
+http://62.65.140.153:80/session/5cc6dfee-9b68-11e5-aebc-005056bc1a52/nvnv5a/1/104903/index.m3u8?token=f0c0129e11e01b42a52066bddb9fa5d3_1449417223_1449417223&p=127
+#EXTINF:-1 group-title="English",Fashion TV
+http://c001.p106.edgesuite.net/i/c001/fashiontv_1@97512/master.m3u8
+#EXTINF:-1 group-title="English",Film4
+http://62.65.140.212:80/session/5f867f3c-9b68-11e5-8ffc-005056bc1a52/nvnv5a/2/4023/index.m3u8?token=d6113b43d07480c3e8f16538bfa0439e_1449417228_1449417228&p=127
+#EXTINF:-1 group-title="English",Film4
+http://c001.p124.edgesuite.net/i/c001/film4_1@137790/master.m3u8
+#EXTINF:-1 group-title="English",I24 News English
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1 group-title="English",iTV 2
+http://c001.p124.edgesuite.net/i/c001/itv2_1@137792/master.m3u8
+#EXTINF:-1 group-title="English",iTV 3
+http://c001.p105.edgesuite.net/i/c001/itv3_1@97494/master.m3u8
+#EXTINF:-1 group-title="English",iTV 4
+http://c001.p106.edgesuite.net/i/c001/itv4_1@97503/master.m3u8
+#EXTINF:-1 group-title="English",ITV1 HD
+http://62.65.140.151:80/session/63e9dad8-9b68-11e5-986e-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=2a4d25c6616c8495829bdfd826d949bd_1449417235_1449417235&p=127
+#EXTINF:-1 group-title="English",ITV2
+http://62.65.140.219:80/session/6462d69a-9b68-11e5-a79c-005056bc49ac/nvnv5a/2/4005/index.m3u8?token=cb9dfd7d86e81bad0f888fe695998ec4_1449417236_1449417236&p=127
+#EXTINF:-1 group-title="English",ITV3
+http://62.65.140.153:80/session/64f5c46e-9b68-11e5-982e-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=ece6999e5570178bf76908e6f13abdc5_1449417237_1449417237&p=127
+#EXTINF:-1 group-title="English",More4
+http://c001.p124.edgesuite.net/i/c001/more4_1@137795/master.m3u8
+#EXTINF:-1 group-title="USA-ABD",SPORTES 7 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="USA-ABD",ESPN rtmp 1280*720
+rtmp://207.244.77.146:6034/tv/ch01q1
+#EXTINF:-1 group-title="USA-ABD",MTV  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch04q1
+#EXTINF:-1 group-title="USA-ABD",FOX 29  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch05q1
+#EXTINF:-1 group-title="USA-ABD",COmedy Central  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch06q1
+#EXTINF:-1 group-title="USA-ABD",WWIB 4  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch07q1
+#EXTINF:-1 group-title="USA-ABD",FX  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch08q1
+#EXTINF:-1 group-title="USA-ABD",MSG  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch09q1
+#EXTINF:-1 group-title="USA-ABD",FOX MAGIC rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch10q1
+#EXTINF:-1 group-title="USA-ABD",WWF  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch13q1
+#EXTINF:-1 group-title="USA-ABD",ESPN U  rtmp 960*540
+rtmp://207.244.77.146:6034/tv/ch17q1
+#EXTINF:-1 group-title="USA-ABD",***HasBahCa IPTV***ABD - USA ***
+http://hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,UK:BT Sport 1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/3374.ts
+#EXTINF:-1,UK:BT Sport 2 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/3373.ts
+#EXTINF:-1,UK:Sky Movie Showcase
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/3255.ts
+#EXTINF:-1,UK:BBC RED BUTTON LIVE
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/3372.ts
+#EXTINF:-1,UK:BT SPORTS EXTRA
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/3375.ts
+#EXTINF:-1,UK:Sky Movies Thriller
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/26.ts
+#EXTINF:-1,UK:Sky Movies Select
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/20.ts
+#EXTINF:-1,UK:Sky Movies Premiere
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/24.ts
+#EXTINF:-1,UK:Sky Movies Greats
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/30.ts
+#EXTINF:-1,UK:Sky Movies Family
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/28.ts
+#EXTINF:-1,UK:Sky Movies Drama & Romance
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/29.ts
+#EXTINF:-1,UK:Sky Movies Disney
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/27.ts
+#EXTINF:-1,UK:Sky Movies Comedy
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/23.ts
+#EXTINF:-1,UK:Sky Movies Action
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/22.ts
+#EXTINF:-1,UK:Sky Movie Sci-Fi & horror
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/21.ts
+#EXTINF:-1,UK:Sky Living
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/31.ts
+#EXTINF:-1,UK:Sky Atlantic
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/48.ts
+#EXTINF:-1,UK:Sky Art 1
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/100.ts
+#EXTINF:-1,UK:Sky One
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/52.ts
+#EXTINF:-1,UK:Setanta Ireland
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2622.ts
+#EXTINF:-1,UK:RTE Two HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/56.ts
+#EXTINF:-1,UK:RTE One
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/55.ts
+#EXTINF:-1,UK:Really
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1147.ts
+#EXTINF:-1,UK:Racing
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2878.ts
+#EXTINF:-1,UK:Premier Sport
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/69.ts
+#EXTINF:-1,UK:opt:UK: VH1
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2667.ts
+#EXTINF:-1,UK:opt:UK: THRILLER
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2668.ts
+#EXTINF:-1,UK:Vintage
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2672.ts
+#EXTINF:-1,UK:opt:UK: SKY Sports 5 HD.
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2673.ts
+#EXTINF:-1,UK:opt:UK: SKY Sports 4 HD.
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2674.ts
+#EXTINF:-1,UK:opt:UK: SKY Sports 3 HD.
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2675.ts
+#EXTINF:-1,UK:opt:UK: SKY Sports 2 HD.
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2676.ts
+#EXTINF:-1,UK:opt:UK: SKY Sports 1 HD.
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2677.ts
+#EXTINF:-1,UK:opt:UK: MTV Classic
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2686.ts
+#EXTINF:-1,UK:opt:UK:Setanta
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2687.ts
+#EXTINF:-1,UK:opt:UK: MOVIES ACTION
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2684.ts
+#EXTINF:-1,UK:opt:UK: MODERN GREATS
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2678.ts
+#EXTINF:-1,UK:opt:UK: Living
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2680.ts
+#EXTINF:-1,UK:opt:UK: ITV 4
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2688.ts
+#EXTINF:-1,UK:opt:UK: ITV 3
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2689.ts
+#EXTINF:-1,UK:opt:UK: Horror
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2681.ts
+#EXTINF:-1,UK:opt:UK: Fox
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2691.ts
+#EXTINF:-1,UK:opt:UK: EuroSport 2 UK
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2692.ts
+#EXTINF:-1,UK:opt:UK: EuroSport 1
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2693.ts
+#EXTINF:-1,UK:ITV Be
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2694.ts
+#EXTINF:-1,UK:opt:UK: Crime Thriller
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2682.ts
+#EXTINF:-1,UK:opt:UK: COMEDY
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2683.ts
+#EXTINF:-1,UK:opt:UK: CLUBLAND
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2695.ts
+#EXTINF:-1,UK:opt:UK: BT Sports EU
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2669.ts
+#EXTINF:-1,UK:Sky News
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2650.ts
+#EXTINF:-1,UK:opt:UK: BT Sport 2
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2670.ts
+#EXTINF:-1,UK:opt:UK: BT Sport 1
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2671.ts
+#EXTINF:-1,UK:opt:UK: BBC 4
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2696.ts
+#EXTINF:-1,UK:opt:Sony Movies
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2703.ts
+#EXTINF:-1,UK:opt:Aliens
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2704.ts
+#EXTINF:-1,UK:NICKLEODON
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/57.ts
+#EXTINF:-1,UK:National Geographic
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/59.ts
+#EXTINF:-1,UK:Nat Geo Wild
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/86.ts
+#EXTINF:-1,UK:MUTV
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2783.ts
+#EXTINF:-1,UK:4 Seven
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2628.ts
+#EXTINF:-1,UK:Motors TV
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/67.ts
+#EXTINF:-1,UK:Nicktoons
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/99.ts
+#EXTINF:-1,UK:Lifetime
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/93.ts
+#EXTINF:-1,UK:LFCTV
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2877.ts
+#EXTINF:-1,UK:ITV Encore
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/3016.ts
+#EXTINF:-1,UK:ITV 4 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/74.ts
+#EXTINF:-1,UK:ITV 4 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2631.ts
+#EXTINF:-1,UK:ITV 3 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/73.ts
+#EXTINF:-1,UK:ITV 3 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2632.ts
+#EXTINF:-1,UK:ITV 2 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/72.ts
+#EXTINF:-1,UK:ITV 2 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2633.ts
+#EXTINF:-1,UK:ITV 1 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/71.ts
+#EXTINF:-1,UK:ITV 1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2634.ts
+#EXTINF:-1,UK:History
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/98.ts
+#EXTINF:-1,UK:Heart TV
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1674.ts
+#EXTINF:-1,UK:Gold
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2635.ts
+#EXTINF:-1,UK:Fox
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/396.ts
+#EXTINF:-1,UK:The Vault
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/84.ts
+#EXTINF:-1,UK:5 USA
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2637.ts
+#EXTINF:-1,UK:F1 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2652.ts
+#EXTINF:-1,UK:F1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/19.ts
+#EXTINF:-1,UK:Eurosport 2 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2638.ts
+#EXTINF:-1,UK:Eurosport 1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2639.ts
+#EXTINF:-1,UK:Eurosport
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/64.ts
+#EXTINF:-1,UK:Eurosport 2
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/395.ts
+#EXTINF:-1,UK:Drama
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/89.ts
+#EXTINF:-1,UK:Disney Channel
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2642.ts
+#EXTINF:-1,UK:Disney
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/87.ts
+#EXTINF:-1,UK:Discovery Turbo
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/83.ts
+#EXTINF:-1,UK:Discovery History
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/82.ts
+#EXTINF:-1,UK:Watch
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/33.ts
+#EXTINF:-1,UK:Nick JR
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2644.ts
+#EXTINF:-1,UK:Chelsea TV
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/63.ts
+#EXTINF:-1,UK:Capital TV
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1675.ts
+#EXTINF:-1,UK:BT Sport ESPN
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2781.ts
+#EXTINF:-1,UK:BT Sport 2 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/13.ts
+#EXTINF:-1,UK:BT Sport 1 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/12.ts
+#EXTINF:-1,UK:Boxnation
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/60.ts
+#EXTINF:-1,UK:BBC 4 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2648.ts
+#EXTINF:-1,UK:BBC 2 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/76.ts
+#EXTINF:-1,UK:BBC 1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/75.ts
+#EXTINF:-1,UK:At The Races
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2643.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/766.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/765.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/764.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/763.ts
+#EXTINF:-1,UK-SKY ARTS 2
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1891.ts
+#EXTINF:-1,UK-NATIONAL GEO
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1892.ts
+#EXTINF:-1,UK-ID
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1884.ts
+#EXTINF:-1,UK-TCL
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1898.ts
+#EXTINF:-1,UK-DISCOVERY SCIENCE
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1894.ts
+#EXTINF:-1,UK-DISCOVERY HISTORY
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1895.ts
+#EXTINF:-1,UK-DISCOVERY
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1896.ts
+#EXTINF:-1,UK-CHANNEL 5
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1885.ts
+#EXTINF:-1,UK-CHANNEL 4
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1886.ts
+#EXTINF:-1,UK-CBS REALITY
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/1887.ts
+#EXTINF:-1,UK:Sky Sport News HQ
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/47.ts
+#EXTINF:-1,UK:Sky Sport 5 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/18.ts
+#EXTINF:-1,UK:Sky Sport 5 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/10.ts
+#EXTINF:-1,UK:Sky Sport 4 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/17.ts
+#EXTINF:-1,UK:Sky Sport 4 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/9.ts
+#EXTINF:-1,UK:Sky Sport 3 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/16.ts
+#EXTINF:-1,UK:Sky Sport 3 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/8.ts
+#EXTINF:-1,UK:Sky Sport 2 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/15.ts
+#EXTINF:-1,UK:Sky Sport 2 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/7.ts
+#EXTINF:-1,UK:Sky Sport 1 SD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/14.ts
+#EXTINF:-1,UK:Sky Sport 1 HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/6.ts
+#EXTINF:-1,UK:Heart
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/96.ts
+#EXTINF:-1,UK:Film4
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/50.ts
+#EXTINF:-1,UK:Setanta Irland
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/95.ts
+#EXTINF:-1,UK:Animal Planet
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/49.ts
+#EXTINF:-1,UK*-Gold
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2115.ts
+#EXTINF:-1,UK*-CN
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2116.ts
+#EXTINF:-1,UK*-Alibi
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2117.ts
+#EXTINF:-1,UK*-Sky Movies Modern HD
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2119.ts
+#EXTINF:-1,UK:Food Network
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2123.ts
+#EXTINF:-1,UK:CC
+http://62.210.248.96:11000/live/jaffabeast@hotmail.com_uk/jaffabeast@hotmail.com_uk/2124.ts
