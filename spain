@@ -1,65 +1,521 @@
- #EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-#EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTESok”,[COLOR yellow]» »DEPORTES« «[/COLOR]
-http://0.0.0.0:
-#EXTINF:-1 group-title="DEPORTES",vipersing
-http://www.streamlive.to/embedplayer_new.php?width=653&amp;height=410&amp;channel=68873&amp;autoplay=true
-#EXTINF:-1 group-title="DEPORTES",Canal 4 Nicaragua
-http://72.46.226.61/live01/canal41/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
-http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Canal 7 Teletica Costa Rica
-http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",RPC Panama DEPORTES<===
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",TVN Chile
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="DEPORTES",tvn chile opt 2
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="DEPORTES",Caracol Internacional MALACALIDAD
-http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",azteca 7a
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1 group-title="DEPORTES",azteca 7 mexico
-http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
-#EXTINF:-1 group-title="DEPORTES",azteca 7HD X NAVI
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 group-title="DEPORTES",azteca 13 
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 group-title="DEPORTES",RPCTV2 MMMMMM
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES"M4 Sport,tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg"
-http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8 
-#EXTINF:-1 group-title="DEPORTES",Bein ñ sport
-http://revolucionariostv.com/MultiTV/beinsports.php referer=http://revolucionariostv.com/
-#EXTINF:-1 group-title="DEPORTES",TyC Sports,tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg"
-http://vaughnlive.tv/afatv1 referer=http://vaughnlive.tv/
-#EXTINF:-1 group-title="DEPORTES",EspN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
-http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true 
-#EXTINF:-1 group-title="DEPORTES",ESPN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
-http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true referer=https://www.streamlive.to/
-#EXTINF:-1 group-title="DEPORTES",HBO Boxing (USA)
-http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.com/
-#EXTINF:-1,Clubterror JODER,tvg-logo=""
-devil:http://vaughnlive.tv/club_terror referer=http://vaughnlive.tv/
-#EXTINF:-1,MegaMovies,tvg-logo=""
-devil:http://vaughnlive.tv/mega_movieshd referer=http://vaughnlive.tv/
-#EXTINF:-1,azteca7XXXXXXXXXXXXXXXXX
-devil:http://canales.tutv-porinternet.com/azteca7.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Televisa HDXXXXXXXXXXXXXXXXX
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u
-#EXTINF:-1,Anime TvXXXXXXXXXXXXXXXXXX
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,NickelodeonXXXXXXXXXXXXXXXXXX
-devil:http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html http://www.zandortv.com/
-#EXTINF:-1,tooncast
-devil:http://canales.tutv-porinternet.com/tooncast.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,[COLOR green]ZonaSport 1
-devil:http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
-#EXTINF:-1,[COLOR green]ZonaSport 2
-devil:http://zonasports.in/canal-2.php referer=https://streamup.com/
-#EXTINF:-1,[COLOR green]ZonaSport 4
-devil:http://zonasports.in/canal-4.php referer=http://www.byutv.org/
-#EXTINF:-1,[COLOR green]ZonaSport 5
-devil:http://zonasports.in/canal-5.php referer=http://www.ezcast.tv/
+
+<item>
+<title>[COLOR yellow]BT Sports ESPN[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch-espn-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BT Sports Europe[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch/32/bt-sport-europe-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BT Sports 1 Europe[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BT Sports 2 Europe[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch/9/bt-sport-2-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports News[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 1[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch/2/watch-sky-sports-1-live-streaming.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 2[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/sky-sports-2-live-stream-free.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 3[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch/4/sky-sports-3-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NBC Sports Live[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]ESPN U.S.A[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch-espn-usa-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Primier Sports[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/watch-premier-sports-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]BeiN Sports Fr[/COLOR]</title>
+<sportsdevil>http://hdfree.tv/bein-sports-1-fr-live-stream.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Box Nation[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-box-nation-live-stream-free-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]NFL Network[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-nfl-network-live-stream-free-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Canal + Sport FR[/COLOR]</title>
+<sportsdevil>http://mamahd.com/regarder-canal-plus-sport-france-en-direct-hd-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]ESPN U.K[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-espn-uk-live-stream-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky Sports 1 DE[/COLOR] -Wait 5 seconds</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-hd1-germany-live-stream-1.html</sportsdevil>
+<referer>http://www.vipbox.sx/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky Sports 2 DE[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-hd2-germany-live-stream-1.html</sportsdevil>
+<referer>http://www.mamahd.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky Bundesliga 1[/COLOR]</title>
+<sportsdevil>http://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
+<referer>http://www.mamahd.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Sky Calcio[/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/streaming/12492/streaming-sky-calcio.html</sportsdevil>
+<referer>http://www.foot-live.info/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=dodgerblue]ojo[COLOR] BEIN Sport Option 1[COLOR yellow] REGEX[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-1/frame')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=dodgerblue]ojo[COLOR] NBA TV Option 1[COLOR yellow] REGEX[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-3/frame')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=dodgerblue]ojo[COLOR] ESPN U.S.A[COLOR yellow] REGEX[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/espnusa/frame')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=dodgerblue]ojo[COLOR] NFL Network[COLOR yellow] REGEX[/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/nfl/frame')</expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white]NBA TV (P) SD[COLOR gray](Now : Live Basketball)[/COLOR]</title>
+<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to live=1 timeout=15</link>
+<regex>
+<name>path</name>
+<page>http://www.streamlive.to/view/71562/NBA_TV-live-stream-channel</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>http://www.streamlive.to</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.streamlive.to/view/71562/NBA_TV-live-stream-channel</page>
+</regex>
+<regex>
+<name>xs</name>
+<expres>/(\?xs=.*?)"</expres>
+<page>http://www.streamlive.to/view/71562/NBA_TV-live-stream-channel</page>
+<rawpost>captcha=$doregex[answer]</rawpost>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+<ignorecache></ignorecache>
+</regex>
+<regex>
+<name>answer</name>
+<expres>$pyFunction:($doregex[captcha])</expres>
+<page></page>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xcaptcha</name>
+<expres>Question: (.*) =</expres>
+<page>http://www.streamlive.to/view/71562/NBA_TV-live-stream-channel</page>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NFL Network (Regex) SD[COLOR gray](Now : Live)[/COLOR]</title>
+<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to live=1 timeout=15</link>
+<regex>
+<name>path</name>
+<page>http://www.streamlive.to/view/72886/NFL_Network-live-stream-channel</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>http://www.streamlive.to</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.streamlive.to/view/72886/NFL_Network-live-stream-channel</page>
+</regex>
+<regex>
+<name>xs</name>
+<expres>/(\?xs=.*?)"</expres>
+<page>http://www.streamlive.to/view/72886/NFL_Network-live-stream-channel</page>
+<rawpost>captcha=$doregex[answer]</rawpost>
+<referer>https://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+<ignorecache></ignorecache>
+</regex>
+<regex>
+<name>answer</name>
+<expres>$pyFunction:($doregex[captcha])</expres>
+<page></page>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xcaptcha</name>
+<expres>Question: (.*) =</expres>
+<page>http://www.streamlive.to/view/72886/NFL_Network-live-stream-channel</page>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NFL R (Regex) SD[COLOR gray](GameDay: Live)[/COLOR]</title>
+<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to live=1 timeout=15</link>
+<regex>
+<name>path</name>
+<page>http://www.streamlive.to/view/70077/ESPN:%20RedZone%20-ApolloFm-live-stream-channel</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>http://www.streamlive.to</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.streamlive.to/view/70077/ESPN:%20RedZone%20-ApolloFm-live-stream-channel</page>
+</regex>
+<regex>
+<name>xs</name>
+<expres>/(\?xs=.*?)"</expres>
+<page>http://www.streamlive.to/view/70077/ESPN:%20RedZone%20-ApolloFm-live-stream-channel</page>
+<rawpost>captcha=$doregex[answer]</rawpost>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+<ignorecache></ignorecache>
+</regex>
+<regex>
+<name>answer</name>
+<expres>$pyFunction:($doregex[captcha])</expres>
+<page></page>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xcaptcha</name>
+<expres>Question: (.*) =</expres>
+<page>http://www.streamlive.to/view/70077/ESPN:%20RedZone%20-ApolloFm-live-stream-channel</page>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Primier Sport [R]</title>
+<link>$doregex[file]|Referer=http://streamking.cc/premiersport&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>source: '(.*?)'</expres>
+<page>http://streamking.cc/player?channel=premiersport&amp;player=clappr</page>
+<referer>http://streamking.cc/premiesport</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+			 <item>
+<title>[COLOR=dodgerblue]besiptv=>[/COLOR][COLOR red] SportSdevil[/COLOR] Canal+ Futbol</title>
+ <sportsdevil>http://hispaniatv.tv/canales/canal-plus-futbol.html</sportsdevil> 
+<referer>http://ponlatv.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+			 <item>
+<title>[COLOR=dodgerblue]besiptv=>[/COLOR][COLOR red] SportSdevil[/COLOR] BeiN Sports Espanol</title>
+ <sportsdevil>http://hispaniatv.tv/canales/bein.html</sportsdevil> 
+<referer>http://ponlatv.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+			 <item>
+<title>[COLOR=dodgerblue]besiptv=>[/COLOR][COLOR red] SportSdevil[/COLOR] Canal+ Liga</title>
+ <sportsdevil>http://hispaniatv.tv/canales/canal-plus-liga.html</sportsdevil> 
+<referer>http://ponlatv.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+  <title>test ss2</title>
+<link></link>
+</item>
+<!--------------telewizjada.net channel--------------->
+<item>
+<title>Eurosport</title>
+<link>$doregex[M3U8]|Cookie=$get_cookies$&amp;User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;X-Requested-With: ShockwaveFlash/20.0.0.228</link><regex>
+	<name>M3U8</name>
+	<expres>(.*)</expres>
+	<page>http://www.telewizjada.net/get_channel_url.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=37</referer>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<rawpost>cid=37</rawpost>
+	<cookiejar>$doregex[createsession]</cookiejar>
+</regex>
+<regex>
+	<name>createsession</name>
+	<expres></expres>
+	<page>http://www.telewizjada.net/set_cookie.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=37</referer>
+	<rawpost>url=$doregex[get-POST]</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+<regex>
+	<name>get-POST</name>
+	<expres>$pyFunction:'$doregex[get-enPOST]'.replace('\/','/')</expres>
+        <page></page>
+</regex>
+<regex>
+	<name>get-enPOST</name>
+	<expres>"url":"([^"]+)</expres>
+	<page>http://www.telewizjada.net/get_mainchannel.php</page>
+	<referer>http://www.telewizjada.net/live.php?cid=37</referer>
+	<rawpost>cid=37</rawpost>
+	<agent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+	<cookiejar></cookiejar>
+</regex>
+</item>
+<!---------------------------B31N SPORTS------------------------------->
+<item>
+<title>BeiN Sports [COLOR yellow](R)[/COLOR] Error=Provo x1-3 her.|Try x1-3 times!</title>
+<link>$doregex[finalurl]</link>
+<regex>
+	<name>finalurl</name>
+	<expres>(http.*)</expres>
+	<page>$doregex[url]$doregex[auth]</page>
+	<cookieJar></cookieJar>
+	<agent>iPhone</agent>
+</regex>
+<regex>
+	<name>url</name>
+	<expres>file:"(.*?)"</expres>
+	<page>$doregex[decrypted]</page>
+</regex>
+<regex>
+	<name>auth</name>
+	<expres>\["(.*?)"</expres>
+	<page>http://www.caston.tv/$doregex[authurl]</page>
+	<referer>http://www.caston.tv</referer>
+	<rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
+	<x-req>XMLHttpRequest</x-req>
+	<agent>iPhone</agent>
+	<cookieJar>open[siteName.lwp]</cookieJar>
+</regex>
+<regex>
+	<name>token</name>
+	<expres>token:"(.*?)"</expres>
+	<page>$doregex[decrypted]</page>
+</regex>
+<regex>
+	<name>authurl</name>
+	<expres>url:'(.*?)'</expres>
+	<page>$doregex[decrypted]</page>
+</regex>
+<regex>
+	<name>decrypted</name>
+	<expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>encrypted</name>
+	<expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+	<page>http://www.caston.tv/player.php?id=27</page>
+	<referer>http://www.caston.tv</referer>
+	<agent>iPhone</agent>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>savecookie</name>
+	<expres></expres>
+	<page></page>
+	<cookieJar>save[siteName.lwp]</cookieJar>
+</regex>
+</item>
+<!-------------------------------END B31N SPORTS------------------------------->
+
+<!-----------------------------CANAL+ LIGA DIRETO------------------------------->
+<item>
+<title>Canal + | Spain Liga | Liga Diretto</title>
+<link>$doregex[get-rtmp]/privatestream/ app=privatestream/ playpath=$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=ligaapp21</link>
+<regex>
+<name>get-rtmp</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?streamname=ligaapp21'):
+ 
+ import requests
+ import re
+ 
+ 
+ source = requests.get(url)
+ var_a = re.findall('var a = (.*?);', source.text)[0]
+ var_b = re.findall('var b = (.*?);', source.text)[0]
+ var_c = re.findall('var c = (.*?);', source.text)[0]
+ var_d = re.findall('var d = (.*?);', source.text)[0]
+ var_f = re.findall('var f = (.*?);', source.text)[0]
+ 
+ a= int(float(var_a))/int(float(var_f))
+ b= int(float(var_b))/int(float(var_f))
+ c= int(float(var_c))/int(float(var_f))
+ d= int(float(var_d))/int(float(var_f))
+ 
+ rtmp = 'rtmp://' + str(a) + '.' + str(b) + '.' + str(c) + '.' + str(d)
+ return rtmp
+ 
+ 
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>path</name>
+<expres>privatestream\/(.*?)';</expres>
+<page>http://privatestream.tv/player?streamname=ligaapp21</page>
+<referer>http://privatestream.tv/</referer>
+<agent></agent>
+</regex>
+</item>
+
+
+<item>
+<title>TEST | TV124</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>mobileUrl: "(.*?)"</expres>
+<page>http://meocanaltv.com/canais.php?stream=TVI24</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0</agent>
+</regex>
+</item>
+<!--------------------CANAL+ LIGA DIRETTO ------------------------------>
