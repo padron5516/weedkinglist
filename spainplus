@@ -66,13 +66,13 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue][B]Cricfree.sx/[/B] [/COLOR][COLOR skyblue]Channels[/COLOR]</title>
+<title>Cricfree.sx Channels[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item>
-<title>[COLOR white]Channel: [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
+<title>[COLOR white]new: [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
 <sportsdevil>http://cricfree.sx/[makelist.param1]</sportsdevil>
 <referer>http://cricfree.sx/</referer>
 </item>
@@ -85,7 +85,7 @@
 </item>
 
 <item>
-<title>[COLOR green]Live Sports[/COLOR][COLOR red] All Sports Shown[/COLOR]</title>
+<title>Live Sports[COLOR red] All Sports Shown[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
  <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
@@ -100,7 +100,7 @@ item>
 
 
 <item>
-<title>[COLOR gold][B]MamaHD TV[/B][/COLOR]</title>
+<title>[COLOR red][B]MamaHD TV[/B][red]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/mamahd.com.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
