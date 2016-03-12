@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+			
+<item>
+<title>LIGA ESPAÑA</title>
+
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[makelist2.param2]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/la-liga/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[makelist.param2]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist10+Futbol+Mexico</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
 
 <item>
 <title>Cinestrenos.TV - Todos Los Canales | Espanol</title>
