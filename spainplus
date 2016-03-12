@@ -20,7 +20,22 @@
 </item>
 
  
-
+<item>
+<title>Eventos del dia</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>TEST[makelist.param1]</title>
+<link>rtmp://94.102.49.194/live playpath=wizhd[makelist.param3] swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=wizhd[makelist.param3]&vw=640&vh=460</link>
+</item>	
+]]></listrepeat>
+<expres>class="name">(.*?)<[\w\W\s]{0,685}href="(.*?)">Stream (.*?)<</expres>
+<page>http://wizhdsports.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 
