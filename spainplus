@@ -2,21 +2,6 @@
 
 
 			
-<item>
-<title>LIGA ESPAÑA</title>
-
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-    <title>[makelist2.param2]</title>
-    <link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>href="(/streaming.*?)">(.*?)<</expres>
-<page>http://www.livefootballol.me/streaming/la-liga/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
 
 
 
