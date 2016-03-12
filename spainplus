@@ -8,7 +8,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1][makelist.param3][makelist.param4][/COLOR]</title>
+<title>[makelist.param1][makelist.param3][makelist.param4]</title>
 <sportsdevil>http://www.pirlotvlive.com/[makelist.param2]</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 ]]></listrepeat>
