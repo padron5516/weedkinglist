@@ -32,7 +32,28 @@
 </item>
 
 <item>
-<title>bein sports es</title>
-<link>http://cdn.sstream.pw/live/bein_alwkqfq/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105366&width=650&height=400&autostart=tru&tk1=ZuvZkMIY5gmlfEqj1FMAJTUp8S3NeabdpSoWfmWH%2FIaWAItLDaJ5DZhhxLeN6%2BVV4zy5xo2w3eOtaK2Uk2Cq8g%3D%3D&tk2=mVylCkEsGhz4oJResdkTEp0CfQnj%2FfMtT47ulrd8eec%3D&tk3=tesZ0FmuJGHIk2npvIzMNjHMcpnPRSfqgnZI1fPJ%2FCg%3D&User-Agent=Mozilla/5.0+(X11;+Linux+x86_64;+rv:45.0)+Gecko/20100101+Firefox/45.0</link>
+<title>COS 2 SPORTS ES</title>
+<link>http://live.cableondasports.com/cos2/media.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>COS 1 SPORTS ES</title>
+<link>http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>BEIN ES </title>
+<link>http://go.teamexpat.ninja:80/live/henryford/retroford12/2857.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>TESTt</title>
+<link>plugin://plugin.video.ZemTV-shani/?mode=53&amp;name=UniTV%20sports&amp;url=sss&quot</link>
 <thumbnail></thumbnail>
 </item>
