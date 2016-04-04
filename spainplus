@@ -1,1 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR lime][B]DailyDeportes[/B] [/COLOR][COLOR skyblue][Eventos Deportivos][/COLOR][COLOR lime][B]!!NUEVO!![/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist.param1][/COLOR][COLOR skyblue] [makelist.param2][/COLOR]</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tech&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tech/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tech/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tech/getTok.php</page>
+<referer>http://p2pcast.tech/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>>id='(.*?)'</expres>
+<page>[makelist.param3]</page>
+<referer>http://www.dailydeportes.com</referer>
+</regex>
+]]></listrepeat>
+<expres>class="matchtime">(.*?)<[\w\W\s]{0,9}span>(.*?)<[\w\W\s]{0,28}href='(.*?)'</expres>
+<page>http://www.dailydeportes.com/schedule.html</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail></thumbnail>
+</item>
+
+ 
+  <item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Dinozap[/B] Channels [/COLOR][COLOR skyblue]Guia de Eventos[/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[B][COLOR deepskyblue]Canal [/COLOR][COLOR skyblue] [makelist.param1][/COLOR][/B]</title>
+    <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(?s)bed\s*(\d+)\s(.+?)Em</expres>
+<page>$doregex[getpage]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+    <title>[B][COLOR dodgerblue][makelist2.param1]-[makelist2.param2][/COLOR][/B]</title>
+    <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=[makelist.param1]</sportsdevil>
+    <referer>http://www.dinozap.info/</referer>
+</item>
+]]></listrepeat>
+<expres>(?s)\s*([\d\:]+)\s*(.+?\))\s*</expres>
+<page>[makelist.param2]</page>
+<referer>http://www.dinozap.info</referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:codecs.decode(page_data,'gb18030').encode('ascii','xmlcharrefreplace')</expres>
+<page>http://www.dinozap.info/prog.txt</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]VipGoal.Net[/B] [/COLOR][COLOR skyblue]Canales[/COLOR] [COLOR lime]Updated[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][B][makelist.param2][/B][/COLOR]</title>
+<link>http://cdn.sstream.pw/live/tvb$doregex[id]/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<regex>
+<name>id</name>
+<expres>c=(.*?)&</expres>
+<page>$doregex[id2]</page>
+</regex>
+
+<regex>
+<name>id2</name>
+<expres>src="(http://www.sunhd.info/.*?)"</expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(http://www.vipgoal.net.*?)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://www.vipgoal.net/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail></thumbnail>
+</item>
+-->
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]VipGoal.Net[/B] [/COLOR][COLOR skyblue]Programacion (UTC/GMT +1)[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][B][makelist.param2] - [makelist.param3][/B][/COLOR]</title>
+<sportsdevil>http://www.vipgoal.net/[makelist.param1]</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+]]></listrepeat>
+<expres>href="(.*)"[\w\W\s]{0,65}TODAY[\w\W\s]{0,5}-(.*?)<[\w\W\s]{0,68}title="(.*?)"</expres>
+<page>http://www.vipgoal.net/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail>/thumbnail>
+</item>
