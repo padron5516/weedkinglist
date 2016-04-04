@@ -53,7 +53,7 @@
 
 
 <item>
-<title>TESTt</title>
-<link>plugin://plugin.video.ZemTV-shani/?mode=53&amp;name=UniTV%20sports&ampcfg&amp;mode=1</link>
+<title>ARENA 1 HD</title>
+<link>http://play.uktvnow.net:1935/live/arena1.stream/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
