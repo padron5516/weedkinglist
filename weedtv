@@ -1,43 +1,206 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1, [COLOR yellow]24k Gold Joint Smoke Session Shine Papers[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=5ekcuKmhnQk
+ 
 
-#EXTINF:-1, [COLOR yellow]FRIED-DAY♛MK ULTRA-ROSIN JOINT 4K♛ [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=YN35ZRD2vmI
 
-#EXTINF:-1, [COLOR yellow]Houston - We have Moon Rocks! - OVER [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=ilvxR-aNIlU
 
-#EXTINF:-1, [COLOR yellow]FRIED Day Supercharged Joint [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=t9iwFA3qBEk
 
-#EXTINF:-1, [COLOR yellow]Garden Life with Buds! [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=pclOmT8om0c
+<item>
+<title>[COLOR lightblue]Premiere UK[/COLOR] [COLOR gray][I]Ustream[/I][/COLOR]</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tech&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tech/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tech/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tech/getTok.php</page>
+<referer>http://p2pcast.tech/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://u-stream.me/framepremiere.html</page>
+<referer>http://u-stream.me</referer>
+</regex>
+<thumbnail></thumbnail></item>
 
-#EXTINF:-1, [COLOR yellow]Cup Life Continues... [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=WeO6QV3x5gs
 
-#EXTINF:-1, [COLOR yellow]High Times SoCal Cup with Ocean Grown! 2016 [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=TYAzp3dcoLs
 
-#EXTINF:-1, [COLOR yellow]How To Roll A 2 Gram Joint!  [/COLOR] 
-plugin://plugin.video.youtube/?action=play_video&videoid=pnGHllcMrDw
+ 
 
-#EXTINF:-1, [COLOR yellow] [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
+<item>
+	<title>Sports TV</title>
+	<link>$doregex[m3u8]|User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+	<regex>
+	   <name>m3u8</name>
+	   <expres>$pyFunction:'$doregex[get-m3u8]'.replace('loadbalance', 'live')</expres>
+	   <page></page>
+	</regex>
+	<regex>
+		<name>get-m3u8</name>
+		<expres>source: '(.*?)'</expres>
+		<page>http://pxstream.tv/embedrouter.php?file=$doregex[get-id]</page>
+		<referer>http://ekostreams.co/ch/sportvhd.php?width=600&height=384?width=600&height=384</referer>
+	</regex>
+	<regex>
+		<name>get-id</name>
+		<expres>file='(.*?)'</expres>
+		<page>http://ekostreams.co/ch/sportvhd.php?width=600&height=384?width=600&height=384</page>
+	</regex>
+<thumbnail></thumbnail></item>
 
-#EXTINF:-1, [COLOR yellow] [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:-1, [COLOR yellow] [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
+<!--
 
-#EXTINF:-1, [COLOR yellow] [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:-1, [COLOR yellow] [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
+ 
+<!--
+<item>
+<title>Tu Goleada Canal 1 (04-12-15)</title>
+<link>http://$doregex[playlist]</link>
+<regex>
+<name>playlist</name>
+<expres>source src="http://(.*?)"</expres>
+<page>http://tugoleada.com/canal1.php</page>
+<referer>http://tugoleada.com/</referer>
+</regex>
+</item>
+-->
 
-#EXTINF:-1, [COLOR yellow] [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=
+
+ 
+ 
+ 
+ 
+ <!--
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]nowwatchtvlive.me[/B] [/COLOR][COLOR skyblue]testing[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param2][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://nowwatchtvlive.me/</referer>
+<regex>	 
+<name>name</name> 
+<expres>file: \"(.*?)\.</expres>
+<page>[makelist.param1]</page>			
+</regex>
+
+]]></listrepeat>
+<expres>href="(.*?)"[\w\W\s]{0,6}>(.*?)<[\w\W\s]{0,9}span</expres>
+<page>http://nowwatchtvlive.me/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+-->
+
+
+
+
+<!--
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]cricfree.sx/[/B] [/COLOR][COLOR skyblue]canales[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR white]Canal: [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
+<sportsdevil>http://cricfree.sx/[makelist.param1]</sportsdevil>
+<referer>http://cricfree.sx/</referer>
+</item>
+]]></listrepeat>
+<expres>href="http://cricfree.sx/(.*?)"[\w\W\s]{0,40}channels-icon (.*?)"</expres>
+<page>http://cricfree.sx/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+ 
+ 
+ 
+    
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]StreamLive.to[/B] [/COLOR][COLOR coral]Sports Channels[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param2][/COLOR]</title>
+<link>$doregex[canal]</link><regex>	 <name>canal</name> <expres>'file': '(.*?)'</expres>
+<page>[makelist.param1]</page>			</regex></item>	
+]]></listrepeat>
+<expres>href="(.*?)"[\w\W\s]{0,30}strong>(.*?)<</expres>
+<page>http://www.streamlive.to/Live%20Sport</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+ 
+
+	
+<!--
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]StreamLive.to[/B] [/COLOR][COLOR coral]Sports Channels[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param2]</title>
+<link>$doregex[get-decode]</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>$doregex[get-number]</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-number</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=$doregex[get-id]</page>
+<regex>
+<name>get-id</name>
+<expres>http://miplayer.net/embed.php?id=(.*?)&</expres>
+<page>http://www.ibrodtv.net/embed.php?chan=tv[makelist.param1]</page>
+</regex>
+</regex>
+</item>
+]]></listrepeat>
+<expres>href="ibrodtv(.*?).html">(.*?)<</expres>
+<page>http://www.ibrodtv.net/schedule.php</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+	-->
+
+
