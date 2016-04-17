@@ -4,203 +4,827 @@
 
 
 
-
-<item>
-<title>[COLOR lightblue]Premiere UK[/COLOR] [COLOR gray][I]Ustream[/I][/COLOR]</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tech&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tech/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tech/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tech/getTok.php</page>
-<referer>http://p2pcast.tech/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://u-stream.me/framepremiere.html</page>
-<referer>http://u-stream.me</referer>
-</regex>
-<thumbnail></thumbnail></item>
-
-
-
- 
-
-<item>
-	<title>Sports TV</title>
-	<link>$doregex[m3u8]|User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
-	<regex>
-	   <name>m3u8</name>
-	   <expres>$pyFunction:'$doregex[get-m3u8]'.replace('loadbalance', 'live')</expres>
-	   <page></page>
-	</regex>
-	<regex>
-		<name>get-m3u8</name>
-		<expres>source: '(.*?)'</expres>
-		<page>http://pxstream.tv/embedrouter.php?file=$doregex[get-id]</page>
-		<referer>http://ekostreams.co/ch/sportvhd.php?width=600&height=384?width=600&height=384</referer>
-	</regex>
-	<regex>
-		<name>get-id</name>
-		<expres>file='(.*?)'</expres>
-		<page>http://ekostreams.co/ch/sportvhd.php?width=600&height=384?width=600&height=384</page>
-	</regex>
-<thumbnail></thumbnail></item>
-
-
-<!--
-
-
- 
-<!--
-<item>
-<title>Tu Goleada Canal 1 (04-12-15)</title>
-<link>http://$doregex[playlist]</link>
-<regex>
-<name>playlist</name>
-<expres>source src="http://(.*?)"</expres>
-<page>http://tugoleada.com/canal1.php</page>
-<referer>http://tugoleada.com/</referer>
-</regex>
-</item>
--->
-
-
  
  
  
- 
- <!--
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]nowwatchtvlive.me[/B] [/COLOR][COLOR skyblue]testing[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lime][makelist.param2][/COLOR]</title>
-<sportsdevil>[makelist.param1]</sportsdevil>
-<referer>http://nowwatchtvlive.me/</referer>
-<regex>	 
-<name>name</name> 
-<expres>file: \"(.*?)\.</expres>
-<page>[makelist.param1]</page>			
-</regex>
-
-]]></listrepeat>
-<expres>href="(.*?)"[\w\W\s]{0,6}>(.*?)<[\w\W\s]{0,9}span</expres>
-<page>http://nowwatchtvlive.me/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
+ <item>
+<title>[COLOR lightblue]ARENASPORT 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
 
-
-
-
--->
-
-
-
-
-<!--
-
+<item>
+<title>[COLOR lightblue]ARENASPORT 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/2.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
+</item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]cricfree.sx/[/B] [/COLOR][COLOR skyblue]canales[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR white]Canal: [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
-<sportsdevil>http://cricfree.sx/[makelist.param1]</sportsdevil>
-<referer>http://cricfree.sx/</referer>
+<title>[COLOR lightblue]ARENASPORT 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/3.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
-]]></listrepeat>
-<expres>href="http://cricfree.sx/(.*?)"[\w\W\s]{0,40}channels-icon (.*?)"</expres>
-<page>http://cricfree.sx/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
- 
- 
- 
-    
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]StreamLive.to[/B] [/COLOR][COLOR coral]Sports Channels[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lime][makelist.param2][/COLOR]</title>
-<link>$doregex[canal]</link><regex>	 <name>canal</name> <expres>'file': '(.*?)'</expres>
-<page>[makelist.param1]</page>			</regex></item>	
-]]></listrepeat>
-<expres>href="(.*?)"[\w\W\s]{0,30}strong>(.*?)<</expres>
-<page>http://www.streamlive.to/Live%20Sport</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
+<title>[COLOR lightblue]ARENASPORT 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/4.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg</thumbnail>
 </item>
-
- 
-
-	
-<!--
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]StreamLive.to[/B] [/COLOR][COLOR coral]Sports Channels[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
+<title>[COLOR lightblue]ASTRO SUPERSPORT 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/484.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
 <item>
-<title>[makelist.param2]</title>
-<link>$doregex[get-decode]</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>$doregex[get-number]</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-number</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?id=$doregex[get-id]</page>
-<regex>
-<name>get-id</name>
-<expres>http://miplayer.net/embed.php?id=(.*?)&</expres>
-<page>http://www.ibrodtv.net/embed.php?chan=tv[makelist.param1]</page>
-</regex>
-</regex>
+<title>[COLOR lightblue]ASTRO SUPERSPORT 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/485.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
-]]></listrepeat>
-<expres>href="ibrodtv(.*?).html">(.*?)<</expres>
-<page>http://www.ibrodtv.net/schedule.php</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
+
+<item>
+<title>[COLOR lightblue]ASTRO SUPERSPORT 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/486.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
 </item>
-	-->
+
+<item>
+<title>[COLOR lightblue]ASTRO SUPERSPORT 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/2549.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 1 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/186.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 2 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/187.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 3 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/188.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 4 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/189.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 5 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/190.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 6 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/191.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 7 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/192.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 8 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/193.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 9 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/194.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 10 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/195.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 11 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/196.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 12 AR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/maht/maht/197.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS ES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/356.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 1 FR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/180.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 2 FR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/29.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS 3 FR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/601.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BEIN SPORTS USA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1070.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BOX NATION UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/490.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BRITISH EUROSPORT 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/541.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BRITISH EUROSPORT 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/540.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BT SPORT 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1511.ts</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BT SPORT 1   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1118.ts</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BT SPORT 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1512.ts</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BT SPORT 2   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=1264000&amp;url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1117.ts</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BT SPORT EUROPE[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1513.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]BT SPORT EUROPE   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/453.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CANAL+ FUTBOL ES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/156.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CANAL+ LIGA ES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/154.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CANAL+ LIGA 2 ES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1218.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CANAL+ FR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/328.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://medias.unifrance.org/medias/129/94/24193/format_web/media.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CANAL+ SPORT FR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/30.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/canalplus_sport_logo.png?bc=white&w=575</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/160.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 1   [/COLOR]</title>
+<link>http://27.254.64.105:1935/mobilelink/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth1.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/161.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 2   [/COLOR]</title>
+<link>http://27.254.64.105:1935/mobilelink/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth2.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/162.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 3   [/COLOR]</title>
+<link>http://27.254.64.105:1935/mobilelink/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth3.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/163.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 4   [/COLOR]</title>
+<link>http://27.254.64.105:1935/mobilelink/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth4.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 5[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/164.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 5   [/COLOR]</title>
+<link>http://27.254.64.105:1935/mobilelink/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/cth5.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]CTH STADIUM 6[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/165.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cthbpl.com/img/stadium/stadium6.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]ELEVEN SPORTS HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1306.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]ELEVEN HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1307.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://elevensportsnetwork.sg/wp-content/uploads/2015/06/ELEVEN-SPORTS-NETWORK_logo-RGB-01-e1455880585580.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]EUROSPORT DE[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1155.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/650.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS PLUS IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/WXiQeOqZA3/FOiSIdeA4i/2558.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 1 NL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/270.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 2 NL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/443.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 3 NL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/444.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 4 NL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/445.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 5 NL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/446.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 1 USA[/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]FOX SPORTS 2 USA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/645.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<title>[COLOR lightblue]FOX SPORTS 2 USA[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]MOVISTAR MOTOGP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/765.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]MOVISTAR F1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/803.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]MUTV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/535.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]NBC[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/140.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://letstalkabout.tv/wp-content/uploads/2011/07/NBC-logo.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]NBC GOLF USA[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://koaa.images.worldnow.com/images/8009302_G.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]NBCSN[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/467.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]NBCSN   [/COLOR]</title>
+<f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</f4m>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]NBCSN    - Require US VPN[/COLOR]</title>
+<f4m>http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8</f4m>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]OTE SPORT 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/831.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]OTE SPORT 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/838.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]OTE SPORT 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/837.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
+</item>
+
+
+<title>[COLOR lightblue]SKYNET SPORTS HD [/COLOR]</title>
+<link>http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8</link>
+<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+
+<title>[COLOR lightblue]SKYNET SPORTS 1[/COLOR]</title>
+<link>http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8</link>
+<thumbnail>http://www.skynetdth.com/images/templates/dd_wildlion_37/images/logo-2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 1 DE[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/131.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 2 DE[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/244.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORT 1 IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/82.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORT 2 IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/83.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORT 3 IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/151.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORT PLUS IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORT F1 IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/651.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORT MOTOGP IT[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/284.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sport_Italy_2010.png/revision/latest?cb=20150524204137</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS BOX OFFICE PPV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS BOX OFFICE PPV   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1129.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 1 UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 1 UK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 2 UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/25.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 2 UK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/736.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 3 UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/26.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 3 UK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/737.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 4 UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/27.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 4 UK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/738.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 5 UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/28.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS 5 UK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/739.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS F1 UK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/64.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SKY SPORTS F1 UK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1206.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORT KLUB 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/268.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000492898989/932aba6aefb95b440f4afd5820f2e351.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORT KLUB 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/267.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000492898989/932aba6aefb95b440f4afd5820f2e351.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORT KLUB 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/266.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000492898989/932aba6aefb95b440f4afd5820f2e351.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET 360[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET EAST[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET ONE[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET ONTARIO[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_Ontario/as/live/sn_Ontario_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET PACIFIC[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET WEST[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds189.cdnak.neulion.com/nlds/sportsnetnow/sn_west/as/live/sn_west_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SPORTSNET WORLD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<cookieJar>http://37.48.104.130/sportsnet/Cookies.txt</cookieJar>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/sportsnet_logo_detail.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]STAR SPORTS 1  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1138.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]STAR SPORTS 2  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1139.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]STAR SPORTS 3  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1140.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]STAR SPORTS 4  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/1141.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/StarSports_Logo_detail.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SUPERSPORT 1  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/32.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SUPERSPORT 2  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/33.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SUPERSPORT 3  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/robertburden5682/robertburden5682/262.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]SUPERSPORT 4  [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/34.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]TSN 1[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1031.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]TSN 2[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1032.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]TSN 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1033.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]TSN 4[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1034.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]TSN 5[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1035.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://wpmedia.o.canada.com/2014/05/tsn_red_1__244682411.jpg?w=620</thumbnail>
+</item>
+
+
+<title>[COLOR lightblue]TRUE VISIONS BEIN SPORTS[/COLOR]</title>
+<link>http://livesg.khaozap.com:1935/live/bein1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/beinsport.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+
+<title>[COLOR lightblue]TRUE VISIONS FOX SPORTS 1[/COLOR]</title>
+<link>http://livesg.khaozap.com:1935/live/foxsport.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+
+<title>[COLOR lightblue]TRUE VISIONS FOX SPORTS 3[/COLOR]</title>
+<link>http://livesg.khaozap.com:1935/live/foxsport3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>http://khaozap.com/wp/sport/foxsport3.php</page>
+<referer>http://khaozap.com</referer>
+</regex>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]USA NETWORK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/428.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]WWE NETWORK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1329.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]WWE NETWORK   [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
+</item>
+
+
+
 
 
