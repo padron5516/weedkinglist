@@ -17,7 +17,30 @@
 
 
 <item>
-<title>BETA 2 </title>
+<title>BEIN SPORTS 1-9 </title>
 <link>http://ignorame</link><thumbnail>https://s-media-cache-ak0.pinimg.com/736x/09/f1/80/09f18093289564e24c0d237c85bc705d.jpg</thumbnail><fanart>https://secure.sky.com/mysky-extras/downgrade/assets/resized/standard/stay-coming-back-sky-tv-2ebd5e68fb6e3ce7bff9b1ab173fbee369ce9d09.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/weedking12/2016listsbsky/master/list1</externallink>
+<externallink>https://raw.githubusercontent.com/weedking12/2016listsbsky/master/menu2</externallink>
+</item>
+
+
+<item>
+<title>SKY SPORTS UK </title>
+<link>http://ignorame</link><thumbnail>https://c2.staticflickr.com/6/5211/14015575193_0289f33bf9_b.jpg</thumbnail></thumbnail><fanart>https://secure.sky.com/mysky-extras/downgrade/assets/resized/standard/stay-coming-back-sky-tv-2ebd5e68fb6e3ce7bff9b1ab173fbee369ce9d09.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/weedking12/2016listsbsky/master/menu5</externallink>
+</item>
+
+
+<item>
+<title>[COLOR green]Live Sports[/COLOR][COLOR red]All Sport Shown[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>https://c2.staticflickr.com/8/7423/12302031923_2dc64aca67_b.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/zM98zvu2a5A/maxresdefault.jpg</thumbnail>
 </item>
